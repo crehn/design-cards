@@ -282,13 +282,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="179.77298"
-     inkscape:cy="130.36403"
+     inkscape:zoom="2"
+     inkscape:cx="165.84438"
+     inkscape:cy="187.06983"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="978"
@@ -445,7 +445,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -722,7 +722,7 @@
        style="font-style:normal;font-weight:normal;font-size:2.28873777px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.13;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/christian/Desktop/poker_size.png"><tspan
-         id="tspan11307"
+         id="title"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.28873777px;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold';letter-spacing:0.07935508px;word-spacing:0.07935508px;fill:#ffffff;stroke:#ffffff;stroke-width:0.13;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="34.676853"
          x="20.394119"
@@ -730,44 +730,33 @@
     <text
        transform="scale(0.9969864,1.0030227)"
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.75352359px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="26.562677"
+       style="font-style:normal;font-weight:normal;font-size:2.75352359px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="44.437904"
        y="54.75642"
        id="text_abbreviation"
        inkscape:export-xdpi="300.11667"
        inkscape:export-ydpi="300.11667"
        inkscape:export-filename="/home/christian/Desktop/poker_size.png"><tspan
          sodipodi:role="line"
-         id="tspan11289"
-         x="26.562677"
+         id="abbreviation"
+         x="44.437904"
          y="54.75642"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.81294632px;font-family:Metamorphous;-inkscape-font-specification:Metamorphous;fill:#4d4d4d;fill-opacity:1;stroke-width:0.26458332px">KISS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.48255682px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="46.371033"
-       y="68.286987"
-       id="text_short"
-       transform="scale(0.99691703,1.0030925)"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/poker_size.png"><tspan
-         id="tspan11265"
-         sodipodi:role="line"
-         x="46.766205"
-         y="68.286987"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332px">»Simple means readable, </tspan><tspan
-         id="tspan11267"
-         sodipodi:role="line"
-         x="46.766205"
-         y="71.390182"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332px">maintainable, and less error-prone. </tspan><tspan
-         id="tspan11269"
-         sodipodi:role="line"
-         x="46.371033"
-         y="74.493378"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Overengineering is harmful.«</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.81294632px;font-family:Metamorphous;-inkscape-font-specification:Metamorphous;text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke-width:0.26458332px">KISS</tspan></text>
     <flowRoot
+       xml:space="preserve"
+       id="text_short"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:11.33858299px;font-family:Metamorphous;-inkscape-font-specification:Metamorphous;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,6.8135618,22.347451)"><flowRegion
+         id="flowRegion491"
+         style="line-height:27.99999809px;text-align:center;text-anchor:middle"><rect
+           id="rect493"
+           width="179.70547"
+           height="39.124771"
+           x="57.355198"
+           y="166.6674"
+           style="line-height:27.99999809px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="short"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">»Simple means readable, maintainable, and less error-prone. Overengineering is harmful.«</flowPara></flowRoot>    <flowRoot
        inkscape:export-ydpi="300.11667"
        inkscape:export-xdpi="300.11667"
        transform="matrix(0.23202217,0,0,0.23345947,-48.176986,-25.042922)"
@@ -784,28 +773,7 @@
            width="196.71909"
            id="rect11255" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:98.00000191%;font-family:serif;-inkscape-font-specification:serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.13682079px"
-         id="flowPara485">Complex code typically contains more bugs and it has to be maintained (maybe even by other people). To others it may seem obscure which can lead to frustration and bad code quality. Striving for simplicity means to avoid having large methods/classes, many methods/classes/parameters, as well as inheritance, low-level optimization, complex algorithms, fancy (lan-guage) features, configurability, etc.</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:1.90849257px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="30.688999"
-       y="104.6258"
-       id="text_links"
-       transform="scale(0.99691703,1.0030925)"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/poker_size.png"><tspan
-         sodipodi:role="line"
-         x="30.688999"
-         y="104.6258"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332px"
-         id="tspan11251"><tspan
-   id="tspan11245"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332px">↓</tspan>RoP<tspan
-   id="tspan11247"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332px">, ↑</tspan>CF<tspan
-   id="tspan11249"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332px">, ↓NFR, ⇅MP</tspan></tspan></text>
-    <g
+         id="long">Complex code typically contains more bugs and it has to be maintained (maybe even by other people). To others it may seem obscure which can lead to frustration and bad code quality. Striving for simplicity means to avoid having large methods/classes, many methods/classes/parameters, as well as inheritance, low-level optimization, complex algorithms, fancy (lan-guage) features, configurability, etc.</flowPara></flowRoot>    <g
        id="qr"
        transform="matrix(0.05069119,0,0,0.05066574,60.237072,98.857847)"
        style="display:inline;opacity:1;fill:#ffffff;stroke-width:5.22082376"
@@ -3165,6 +3133,17 @@
          x="180"
          style="fill:#ffffff;stroke-width:5.22082376;shape-rendering:optimizeSpeed" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.90499997px;line-height:125%;font-family:Metamorphous;-inkscape-font-specification:Metamorphous;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30.424105"
+       y="104.93362"
+       id="text_links"><tspan
+         sodipodi:role="line"
+         id="links"
+         x="30.424105"
+         y="104.93362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332px">↓RoP, ↑CF, ↓NFR, ⇅MP</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
