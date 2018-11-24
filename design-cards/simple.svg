@@ -38,19 +38,6 @@
          d="m 90.191206,43.782406 44.240974,-0.220427 c 0.32221,0.323419 0.15185,3.499871 1.06946,16.372377 0.32986,4.62725 -0.35575,11.89663 -0.85688,18.696826 -15.60173,-1.426456 -29.43927,-0.0164 -45.04099,0.150622 1.341319,-8.265276 2.927713,-25.686927 0.587436,-34.999488 z"
          style="display:inline;opacity:0.41499999;fill:#bd4343;fill-opacity:1;stroke:#bd4343;stroke-width:0.29999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </mask>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter19894-2"
-       x="-0.01077781"
-       width="1.0215555"
-       y="-0.013534833"
-       height="1.0270697">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.2349275"
-         id="feGaussianBlur19896-3" />
-    </filter>
     <clipPath
        id="clipPath4520-36-3-36"
        clipPathUnits="userSpaceOnUse">
@@ -122,10 +109,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Glühen"
        id="filter2076"
-       width="1.3999999999999999"
-       x="-0.20000000000000007"
-       y="-0.20000000000000001"
-       height="1.3999999999999999">
+       width="1.8"
+       x="-0.40000000000000002"
+       y="-0.40000000000000002"
+       height="1.8">
       <feFlood
          flood-opacity="1"
          flood-color="rgb(170,255,204)"
@@ -192,6 +179,38 @@
          result="composite2"
          id="feComposite2328" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2692">
+      <feFlood
+         flood-opacity="0.29999999999999999"
+         flood-color="rgb(86,86,86)"
+         result="flood"
+         id="feFlood2682" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite2684" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.3"
+         result="blur"
+         id="feGaussianBlur2686" />
+      <feOffset
+         dx="1.2"
+         dy="1.2"
+         result="offset"
+         id="feOffset2688" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite2690" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -200,11 +219,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.07"
-     inkscape:cx="71.720177"
-     inkscape:cy="169.65415"
+     inkscape:zoom="2.14"
+     inkscape:cx="100.05248"
+     inkscape:cy="196.59136"
      inkscape:document-units="mm"
-     inkscape:current-layer="g11287"
+     inkscape:current-layer="layer3"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -348,6 +367,11 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="13.144166,33.791557"
+       orientation="0,1"
+       id="guide2694"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -372,7 +396,7 @@
        inkscape:export-ydpi="89"
        inkscape:export-xdpi="89"
        sodipodi:nodetypes="ccccc"
-       d="M 10.124984,117 H 79.72498 V 22.000001 H 10.124984 Z"
+       d="M 10.124984,116.95629 H 79.72498 V 21.956289 H 10.124984 Z"
        style="display:inline;fill:#003917;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
        id="path11191"
        inkscape:connector-curvature="0" />
@@ -414,20 +438,11 @@
     <path
        inkscape:export-ydpi="89"
        inkscape:export-xdpi="89"
-       sodipodi:nodetypes="ccscccc"
+       sodipodi:nodetypes="ccccsccc"
        inkscape:connector-curvature="0"
        id="path11207"
-       d="m 21.270647,64.935222 47.354385,-0.215823 c 0.344885,0.31666 0.162536,3.426719 1.144722,16.030177 0.353073,4.530535 -0.380786,11.647976 -0.917182,18.30604 C 52.152887,97.65897 37.341548,99.039559 20.64187,99.203088 22.077578,91.110566 23.775613,74.05305 21.270647,64.935134 Z"
-       style="display:inline;fill:#ddcfb6;fill-opacity:1;stroke:#aaffcc;stroke-width:0.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:export-ydpi="89"
-       inkscape:export-xdpi="89"
-       transform="matrix(1.0703739,0,0,0.97909877,-75.267667,22.06792)"
-       mask="url(#mask19882-7)"
-       inkscape:connector-curvature="0"
-       id="path11209"
-       d="M 87.538795,41.08568 V 82.743084 H 139.85239 V 41.08568 Z m 48.005855,3.217891 c 0.32221,0.323419 0.15209,3.500134 1.0697,16.372644 0.32986,4.627251 -0.35567,11.896336 -0.8568,18.696533 -15.60173,-1.426459 -29.43945,-0.01612 -45.041173,0.150894 1.341316,-8.265273 2.927835,-25.686853 0.587563,-34.999413 z"
-       style="opacity:1;vector-effect:none;fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.29304898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter19894-2)" />
+       d="m 21.270647,64.935222 47.092111,-0.172111 c 0.344885,0.31666 1.23004,5.841874 2.212226,18.445332 -0.388749,5.58145 -0.200026,8.891266 -0.736422,15.54933 -6.252188,-1.604532 -12.28594,0.739403 -25.31177,1.086532 -18.72098,0.498905 -19.281785,-3.085359 -24.234621,0.08004 1.785407,-8.704494 3.702004,-25.521593 0.978476,-34.989207 z"
+       style="display:inline;fill:#ddcfb6;fill-opacity:1;stroke:#aaffcc;stroke-width:0.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2692)" />
     <path
        inkscape:export-ydpi="89"
        inkscape:export-xdpi="89"
@@ -490,7 +505,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path11235"
-       d="m 29.141873,102.53407 h 28.360572 v 3.59389 H 29.141873 c 0.482542,-1.0774 0.536831,-2.2759 0,-3.59389 z"
+       d="m 29.320128,102.53407 h 29.909998 v 3.59389 H 29.320128 c 0.508906,-1.0774 0.566161,-2.2759 0,-3.59389 z"
        style="display:inline;opacity:1;fill:#ddcfb6;fill-opacity:1;fill-rule:nonzero;stroke:#aaffcc;stroke-width:0.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
@@ -521,7 +536,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-10.124984,-22)">
+     transform="translate(-10.124984,-22)"
+     sodipodi:insensitive="true">
     <text
        transform="scale(0.996736,1.0032747)"
        xml:space="preserve"
@@ -601,7 +617,7 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332px">, ↓NFR, ⇅MP</tspan></tspan></text>
     <g
        id="g11983"
-       transform="matrix(0.05069119,0,0,0.0506912,59.484724,99.089149)"
+       transform="matrix(0.05069119,0,0,0.0506912,60.237072,98.848731)"
        style="display:inline;opacity:1;fill:#ffffff;stroke-width:5.21951246">
       <rect
          id="rect11311"
@@ -2961,7 +2977,7 @@
        inkscape:export-xdpi="89"
        id="g11305"
        style="display:inline;opacity:1;stroke-width:1.02469194"
-       transform="matrix(0.97271771,0,0,0.97909877,-52.495812,11.40173)">
+       transform="matrix(0.97271771,0,0,0.97909877,-51.271867,11.40173)">
       <circle
          style="opacity:1;fill:#003917;fill-opacity:1;fill-rule:nonzero;stroke:#aaffcc;stroke-width:0.30740759;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2076)"
          id="circle11295"
@@ -2984,7 +3000,7 @@
     <flowRoot
        inkscape:export-ydpi="89"
        inkscape:export-xdpi="89"
-       transform="matrix(0.23202217,0,0,0.23357678,-48.706153,-22.46713)"
+       transform="matrix(0.23202217,0,0,0.23357678,-48.176986,-22.46713)"
        style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:98.00000191%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13653529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11261"
        xml:space="preserve"><flowRegion
@@ -2993,17 +3009,17 @@
            style="line-height:98.00000191%;stroke-width:1.13653529px"
            y="433.2558"
            x="311.92001"
-           height="89.278633"
-           width="194.7502"
+           height="89.760971"
+           width="199.7917"
            id="rect11255" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:98.00000191%;font-family:serif;-inkscape-font-specification:serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.13653529px"
-         id="flowPara11259">Complex code typically contains more bugs and it has to be maintained (maybe even by other people). To others it may seem obscure which can lead to frustration and bad code quality. Striving for simplicity means to avoid inheri-tance, low-level optimization, complex algo-rithms, fancy (language) features, configura-bility, etc.</flowPara></flowRoot>    <g
+         id="flowPara11259">Complex code typically contains more bugs and it has to be maintained (maybe even by other people). To others it may seem obscure which can lead to frustration and bad code quality. Striving for simplicity means to avoid inheri-tance, low-level optimization, complex algo-rithms, fancy (language) features, configura-bility, large modules, many modules, etc.</flowPara></flowRoot>    <g
        id="g69203"
        transform="translate(4.7625002)">
       <g
          inkscape:export-ydpi="300.14844"
          inkscape:export-xdpi="300.14844"
-         style="display:inline;opacity:1;stroke-width:0.7219795;"
+         style="display:inline;opacity:1;stroke-width:0.7219795"
          id="g11287"
          transform="matrix(0.66071575,0,0,0.66506283,-35.119426,-14.430897)">
         <path
@@ -3052,7 +3068,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Hilfslinien"
-     style="display:none"
+     style="display:inline"
      transform="translate(-10.124984,-22)"
      sodipodi:insensitive="true">
     <g
@@ -3082,7 +3098,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Schnittlinien"
-     style="display:none"
+     style="display:inline"
      transform="translate(-10.124984,-22)"
      sodipodi:insensitive="true">
     <path
