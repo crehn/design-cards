@@ -300,12 +300,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.14"
-     inkscape:cx="146.75226"
-     inkscape:cy="182.59642"
+     inkscape:cx="126.10376"
+     inkscape:cy="214.35758"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="978"
@@ -456,7 +456,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -661,7 +661,7 @@
        inkscape:connector-curvature="0"
        id="path11237"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36148858"
-       d="m 130.19052,94.422322 c -5.1e-4,2.15088 -1.60353,3.756359 -3.75441,3.755827 l -51.62682,-0.01279 c -2.150886,-5.33e-4 -3.614319,-1.604947 -3.614163,-3.755837 l 0.0056,-77.104263 c 1.57e-4,-2.150889 1.463277,-3.7032 3.614163,-3.703583 l 51.63946,-0.0092 c 2.15088,-3.84e-4 3.75492,1.552698 3.75441,3.703584 z m -65.267453,9.982708 71.552093,-1e-5 V 7.3770251 l -71.271589,9.6e-6 z"
+       d="m 130.19052,94.422322 c -5.1e-4,2.15088 -1.60353,3.756359 -3.75441,3.755827 l -51.62682,-0.01279 c -2.150886,-5.33e-4 -3.614319,-1.604947 -3.614163,-3.755837 l 0.0056,-77.104263 c 1.57e-4,-2.150889 1.598092,-3.72064 3.748978,-3.720325 l 51.504645,0.0075 c 2.15088,3.15e-4 3.75492,1.552698 3.75441,3.703584 z m -65.267453,9.982708 71.552093,-1e-5 V 7.3770251 l -71.271589,9.6e-6 z"
        sodipodi:nodetypes="sssssssssccccc"
        inkscape:export-xdpi="89"
        inkscape:export-ydpi="89"
@@ -686,7 +686,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-10.124984,-22)">
+     transform="translate(-10.124984,-22)"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot6975"
@@ -3319,7 +3320,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Hilfslinien"
-     style="display:inline"
+     style="display:none"
      transform="translate(-10.124984,-22)"
      sodipodi:insensitive="true">
     <g
@@ -3330,7 +3331,7 @@
          inkscape:connector-curvature="0"
          id="path14996"
          style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.32069114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 21.052238,0.34805812 H -127.68 c -6.097,0 -10.07587,4.94299998 -10.07587,11.03999988 V 229.44 c 0,6.097 3.97889,10.04601 10.07587,10.06028 l 148.732238,0.34806 c 6.096981,0.0143 10.385526,-3.96328 10.385526,-10.06028 V 11.388058 c 0,-6.0969999 -4.288526,-11.03999988 -10.385526,-11.03999988 z"
+         d="M 21.052238,0.34805812 H -127.68 c -6.097,0 -10.07587,4.94299998 -10.07587,11.03999988 V 229.44 c 0,6.097 3.97887,10.05885 10.07587,10.06028 l 148.732238,0.0348 c 6.097,0.001 10.385526,-3.65004 10.385526,-9.74704 V 11.388058 c 0,-6.0969999 -4.288526,-11.03999988 -10.385526,-11.03999988 z"
          sodipodi:nodetypes="sssssssss" />
     </g>
     <g
@@ -3341,7 +3342,7 @@
          inkscape:connector-curvature="0"
          id="path15000"
          style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.29046386;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 18.601235,0.30520734 -127.68,0.74805721 C -133.77697,0.7665151 -138.04534,4.943 -138.04534,11.04 v 217.95715 c 0,6.097 4.943,11.04 11.04,11.04 H 19.275891 c 6.097,0 9.955731,-4.943 9.955731,-11.04 v -218.4 c 0,-6.0969999 -4.533415,-10.31040055 -10.630387,-10.29194266 z"
+         d="M 18.601235,0.30520734 -127.68,0.27824932 C -133.777,0.27712571 -138.04534,4.943 -138.04534,11.04 v 217.95715 c 0,6.097 4.943,11.04 11.04,11.04 H 19.275891 c 6.097,0 9.955731,-4.943 9.955731,-11.04 v -218.4 c 0,-6.0969999 -4.533387,-10.29081905 -10.630387,-10.29194266 z"
          sodipodi:nodetypes="sssssssss" />
     </g>
   </g>
