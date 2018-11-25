@@ -1,0 +1,22 @@
+{
+    "cards": [
+        {
+            "abbreviation": "KISS",
+            "name": "Keep It Simple Stupid",
+            "short": "Simple means readable, maintainable, and less error-prone. Overengineering is harmful.",
+            "long": "Complex code typically contains more bugs and it has to be maintained (maybe even by other people). To others it may seem obscure which can lead to frustration and bad code quality. Striving for simplicity means to avoid having large methods/classes, many methods/classes/parameters, as well as inheritance, low-level optimization, complex algorithms, fancy (language) features, configurability, etc.",
+            "links": "↓RoP, ↑CF, ↓NFR, ⇅MP",
+            "set": "basic",
+            "aspect": "simple"
+        },
+        {
+            "abbreviation": "YAGNI",
+            "name": "You Ain't Gonna Need It",
+            "short": "It's currently not necessary and you even have to maintain it!",
+            "long": "Every piece of code you write, needs to be maintained. The more code you have, the more complexity there will be. Adding features and capabilities that are not used (yet), wastes time twice: When you write it and when you change, adjust, or even just read it. This becomes even more painful when you finally try to remove this dead code. So avoid things like runtime-configuration, internationalization, and features that are only there \"for the sake of completeness\". If it is really needed, it can be added later.",
+            "links": "↓RoP, ↑CF, ↓NFR, ⇅MP",
+            "set": "advanced",
+            "aspect": "simple"
+        }
+    ]
+}
