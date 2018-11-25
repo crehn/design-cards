@@ -3,52 +3,62 @@
         "simple": {
             "background": "#003917",
             "line": "#aaffcc",
-            "title": "#ffffff"
+            "title": "#ffffff",
+            "marble": "#003917"
         },
         "powerful": {
             "background": "#003917",
             "line": "#aaffcc",
-            "title": "#ffffff"
+            "title": "#ffffff",
+            "marble": "#003917"
         },
         "abstract": {
             "background": "#162d50",
             "line": "#8ba7d9",
-            "title": "#ffffff"
+            "title": "#ffffff",
+            "marble": "#162d50"
         },
         "concrete": {
             "background": "#162d50",
             "line": "#8ba7d9",
-            "title": "#ffffff"
+            "title": "#ffffff",
+            "marble": "#162d50"
         },
         "pragmatic": {
             "background": "#501616",
             "line": "#f4d7d7",
-            "title": "#ffffff"
+            "title": "#ffffff",
+            "marble": "#501616"
         },
         "idealistic": {
             "background": "#501616",
             "line": "#f4d7d7",
-            "title": "#ffffff"
+            "title": "#ffffff",
+            "marble": "#501616"
         },
         "robust": {
             "background": "#ffe680",
             "line": "#784421",
-            "title": "#000000"
+            "title": "#000000",
+            "marble": "#784421"
         },
         "technologic": {
             "background": "#ffe680",
             "line": "#784421",
-            "title": "#000000"
+            "title": "#000000",
+            "marble": "#784421"
         },
         "question": {
             "background": "#ff9955",
             "line": "#784421",
-            "title": "#000000"
+            "title": "#000000",
+            "marble": "#784421"
         },
         "action": {
             "background": "#ff9955",
             "line": "#784421",
-            "title": "#000000"
+            "title": "#000000",
+            "marble": "#784421"
         }
     },
     "cards": [

@@ -55,6 +55,9 @@ def adjustColors(doc, card, colors)
 
     title = doc.at_xpath("//*[@id='text_title']/svg:tspan") 
     title['style'] = title['style'].gsub /#ffffff/, colors[card['shield']]['title']
+
+    marbleCircle = doc.at_xpath("//*[@id='card_set']//svg:circle[@transform]") 
+    marbleCircle['style'] = marbleCircle['style'].gsub /fill:#[0-9a-f]+/, "fill:#{colors[card['shield']]['marble']}"
 end
 
 def replaceColors(doc, srcColor, replacementColor)
