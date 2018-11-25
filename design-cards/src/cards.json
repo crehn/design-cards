@@ -52,13 +52,15 @@
             "background": "#ff9955",
             "line": "#784421",
             "title": "#000000",
-            "marble": "#784421"
+            "marble": "#784421",
+            "symbol": "?"
         },
         "action": {
             "background": "#ff9955",
             "line": "#784421",
             "title": "#000000",
-            "marble": "#784421"
+            "marble": "#784421",
+            "symbol": "!"
         }
     },
     "cards": [
