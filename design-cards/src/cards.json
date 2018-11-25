@@ -1,4 +1,56 @@
 {
+    "colors": {
+        "simple": {
+            "background": "#003917",
+            "line": "#aaffcc",
+            "title": "#ffffff"
+        },
+        "powerful": {
+            "background": "#003917",
+            "line": "#aaffcc",
+            "title": "#ffffff"
+        },
+        "abstract": {
+            "background": "#162d50",
+            "line": "#8ba7d9",
+            "title": "#ffffff"
+        },
+        "concrete": {
+            "background": "#162d50",
+            "line": "#8ba7d9",
+            "title": "#ffffff"
+        },
+        "pragmatic": {
+            "background": "#501616",
+            "line": "#f4d7d7",
+            "title": "#ffffff"
+        },
+        "idealistic": {
+            "background": "#501616",
+            "line": "#f4d7d7",
+            "title": "#ffffff"
+        },
+        "robust": {
+            "background": "#ffe680",
+            "line": "#784421",
+            "title": "#000000"
+        },
+        "technologic": {
+            "background": "#ffe680",
+            "line": "#784421",
+            "title": "#000000"
+        },
+        "question": {
+            "background": "#ff9955",
+            "line": "#784421",
+            "title": "#000000"
+        },
+        "action": {
+            "background": "#ff9955",
+            "line": "#784421",
+            "title": "#000000"
+        }
+    },
     "cards": [
         {
             "abbreviation": "KISS",

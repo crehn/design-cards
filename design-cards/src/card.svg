@@ -819,10 +819,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="75.579047"
-     inkscape:cy="250.88594"
+     inkscape:cx="205.68669"
+     inkscape:cy="164.61891"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -990,7 +990,8 @@
      id="layer3"
      inkscape:label="Background"
      style="display:inline;opacity:1"
-     transform="translate(-10.124984,-22.004)">
+     transform="translate(-10.124984,-22.004)"
+     sodipodi:insensitive="true">
     <path
        inkscape:export-ydpi="300.11667"
        inkscape:export-xdpi="300.11667"
