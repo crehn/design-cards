@@ -7,7 +7,7 @@
             "long": "Complex code typically contains more bugs and it has to be maintained (maybe even by other people). To others it may seem obscure which can lead to frustration and bad code quality. Striving for simplicity means to avoid having large methods/classes, many methods/classes/parameters, as well as inheritance, low-level optimization, complex algorithms, fancy (language) features, configurability, etc.",
             "links": "↓RoP, ↑CF, ↓NFR, ⇅MP",
             "set": "basic",
-            "aspect": "simple"
+            "shield": "simple"
         },
         {
             "abbreviation": "YAGNI",
@@ -16,7 +16,88 @@
             "long": "Every piece of code you write, needs to be maintained. The more code you have, the more complexity there will be. Adding features and capabilities that are not used (yet), wastes time twice: When you write it and when you change, adjust, or even just read it. This becomes even more painful when you finally try to remove this dead code. So avoid things like runtime-configuration, internationalization, and features that are only there \"for the sake of completeness\". If it is really needed, it can be added later.",
             "links": "↓RoP, ↑CF, ↓NFR, ⇅MP",
             "set": "advanced",
-            "aspect": "simple"
+            "shield": "simple"
+        },
+        {
+            "abbreviation": "RoP",
+            "name": "Rule of Power",
+            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
+            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "set": "basic",
+            "shield": "powerful"
+        },
+        {
+            "abbreviation": "LC",
+            "name": "Rule of Power",
+            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
+            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "set": "basic",
+            "shield": "abstract"
+        },
+        {
+            "abbreviation": "DRY",
+            "name": "Rule of Power",
+            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
+            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "set": "basic",
+            "shield": "concrete"
+        },
+        {
+            "abbreviation": "CF",
+            "name": "Rule of Power",
+            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
+            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "set": "basic",
+            "shield": "pragmatic"
+        },
+        {
+            "abbreviation": "PoQ",
+            "name": "Rule of Power",
+            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
+            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "set": "basic",
+            "shield": "idealistic"
+        },
+        {
+            "abbreviation": "ML",
+            "name": "Rule of Power",
+            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
+            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "set": "basic",
+            "shield": "robust"
+        },
+        {
+            "abbreviation": "TP",
+            "name": "Rule of Power",
+            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
+            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "set": "basic",
+            "shield": "technologic"
+        },
+        {
+            "abbreviation": "Q1",
+            "name": "Rule of Power",
+            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
+            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "set": "basic",
+            "shield": "question"
+        },
+        {
+            "abbreviation": "A1",
+            "name": "Rule of Power",
+            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
+            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "set": "basic",
+            "shield": "action"
         }
     ]
 }
