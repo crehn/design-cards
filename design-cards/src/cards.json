@@ -4,55 +4,64 @@
             "background": "#003917",
             "line": "#aaffcc",
             "title": "#ffffff",
-            "marble": "#003917"
+            "marble": "#003917",
+            "qr": "#ffffff"
         },
         "powerful": {
             "background": "#003917",
             "line": "#aaffcc",
             "title": "#ffffff",
-            "marble": "#003917"
+            "marble": "#003917",
+            "qr": "#ffffff"
         },
         "abstract": {
             "background": "#162d50",
             "line": "#8ba7d9",
             "title": "#ffffff",
-            "marble": "#162d50"
+            "marble": "#162d50",
+            "qr": "#ffffff"
         },
         "concrete": {
             "background": "#162d50",
             "line": "#8ba7d9",
             "title": "#ffffff",
-            "marble": "#162d50"
+            "marble": "#162d50",
+            "qr": "#ffffff"
         },
         "pragmatic": {
             "background": "#501616",
             "line": "#f4d7d7",
             "title": "#ffffff",
-            "marble": "#501616"
+            "marble": "#501616",
+            "qr": "#ffffff"
         },
         "idealistic": {
             "background": "#501616",
             "line": "#f4d7d7",
             "title": "#ffffff",
-            "marble": "#501616"
+            "marble": "#501616",
+            "qr": "#ffffff"
         },
         "robust": {
             "background": "#ffe680",
             "line": "#784421",
             "title": "#000000",
-            "marble": "#784421"
+            "marble": "#784421",
+            "qr": "#784421"
         },
         "technologic": {
             "background": "#ffe680",
             "line": "#784421",
             "title": "#000000",
-            "marble": "#784421"
+            "marble": "#784421",
+            "qr": "#784421"
         },
         "question": {
             "background": "#ff9955",
             "line": "#784421",
             "title": "#000000",
             "marble": "#784421",
+            "qr": "#784421",
             "symbol": "?"
         },
         "action": {
@@ -60,6 +69,7 @@
             "line": "#784421",
             "title": "#000000",
             "marble": "#784421",
+            "qr": "#784421",
             "symbol": "!"
         }
     },

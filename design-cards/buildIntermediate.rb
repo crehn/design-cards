@@ -2,6 +2,7 @@
 
 require 'nokogiri'
 require 'json'
+require 'rqrcode'
 
 class Card
     attr_accessor :abbreviation, :name, :short, :long, :links, :set, :shield
@@ -72,6 +73,8 @@ def createCardSvg(card, colors)
     adjustColors doc, card, colors
     setFont doc, 'abbreviation', card.font, card.fontSize
 
+    setQr doc, card, colors
+
     File.write("intermediate/#{card.abbreviation}.svg", doc) 
 end
 
@@ -122,6 +125,16 @@ def setFont(doc, id, font, size)
     tspan['style'] = tspan['style'].gsub /font-family:'?[^';]*'?/, "font-family:'#{font}'"
     tspan['style'] = tspan['style'].gsub /-inkscape-font-specification:'?[^';]*'?/, "-inkscape-font-specification:'#{font}'"
     tspan['style'] = tspan['style'].gsub /font-size:[^';]*/, "font-size:#{size}"
+end
+
+def setQr(doc, card, colors)
+    qr = RQRCode::QRCode.new("http://design-types.net/c/#{card.abbreviation}", :size => 2, :level => :l)
+    svg = Nokogiri::XML(qr.as_svg(color: colors[card.shield]['qr'][1..-1], module_size: 7))
+    rects = svg.xpath("//*[@width=7]")
+
+    g = doc.at_xpath("//svg:g[@id='qr']")
+    g.children.remove
+    g.add_child(rects)
 end
 
 config = readJson()
