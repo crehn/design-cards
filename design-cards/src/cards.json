@@ -29,28 +29,28 @@
             "qr": "#ffffff"
         },
         "pragmatic": {
-            "background": "#501616",
+            "background": "#900000",
             "line": "#f4d7d7",
             "title": "#ffffff",
             "marble": "#501616",
             "qr": "#ffffff"
         },
         "idealistic": {
-            "background": "#501616",
+            "background": "#900000",
             "line": "#f4d7d7",
             "title": "#ffffff",
             "marble": "#501616",
             "qr": "#ffffff"
         },
         "robust": {
-            "background": "#ffe680",
+            "background": "#f0c873",
             "line": "#784421",
             "title": "#000000",
             "marble": "#784421",
             "qr": "#784421"
         },
         "technologic": {
-            "background": "#ffe680",
+            "background": "#f0c873",
             "line": "#784421",
             "title": "#000000",
             "marble": "#784421",
