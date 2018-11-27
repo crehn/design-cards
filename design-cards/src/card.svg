@@ -818,11 +818,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.105668"
-     inkscape:cx="218.05742"
-     inkscape:cy="56.935399"
+     inkscape:zoom="2.14"
+     inkscape:cx="143.15413"
+     inkscape:cy="170.91196"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -838,7 +838,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:pagecheckerboard="true"
+     inkscape:pagecheckerboard="false"
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="true"
      inkscape:snap-page="true"
@@ -972,6 +972,11 @@
        orientation="0,1"
        id="guide2694"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="263.51963,18.708867"
+       orientation="0,1"
+       id="guide36194"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -981,7 +986,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1013,13 +1018,13 @@
     <path
        inkscape:export-ydpi="300.11667"
        inkscape:export-xdpi="300.11667"
-       sodipodi:nodetypes="ccccsccc"
+       sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
-       id="box_bottom"
-       d="m 21.270647,64.935222 47.092111,-0.172111 c 0.344885,0.31666 1.23004,5.841874 2.212226,18.445332 -0.388749,5.58145 -0.200026,8.891266 -0.736422,15.54933 -6.252188,-1.604532 -8.993196,0.699253 -25.31177,0.590189 C 25.79959,99.2228 24.379722,97.273698 20.292171,99.924345 22.077578,91.219851 23.994175,74.402752 21.270647,64.935138 Z"
+       id="path27591"
+       d="m 21.270647,64.935222 47.092111,-0.172111 c 0.344885,0.31666 1.23004,5.841874 2.212226,18.445332 -0.388749,5.58145 -0.200026,8.891266 -0.736422,15.54933 -15.013094,-1.734606 -46.040441,-0.649813 -49.268208,0.76455 1.785407,-8.704494 3.423821,-25.119571 0.700293,-34.587185 z"
        style="display:inline;fill:#ddcfb6;fill-opacity:1;stroke:#aaffcc;stroke-width:0.30007532;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2692)"
        inkscape:export-filename="/home/christian/Desktop/poker_size.png"
-       transform="matrix(1,0,0,0.99949778,0,0.05875928)" />
+       transform="matrix(1,0,0,0.99949778,0,0.05884324)" />
     <path
        inkscape:export-ydpi="300.11667"
        inkscape:export-xdpi="300.11667"
@@ -1239,7 +1244,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-10.124984,-22.004)">
+     transform="translate(-10.124984,-22.004)"
+     sodipodi:insensitive="true">
     <text
        inkscape:export-ydpi="300.11667"
        inkscape:export-xdpi="300.11667"
@@ -1274,7 +1280,7 @@
        xml:space="preserve"
        id="text_short"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:11.33858299px;font-family:Metamorphous;-inkscape-font-specification:Metamorphous;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,6.8135618,22.347451)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,6.8135618,21.818284)"><flowRegion
          id="flowRegion491"
          style="line-height:27.99999809px;text-align:center;text-anchor:middle"><rect
            id="rect493"
@@ -1287,7 +1293,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">»Simple means readable, maintainable, and less error-prone. Overengineering is harmful.«</flowPara></flowRoot>    <flowRoot
        inkscape:export-ydpi="300.11667"
        inkscape:export-xdpi="300.11667"
-       transform="matrix(0.23202217,0,0,0.23345947,-48.176986,-25.042922)"
+       transform="matrix(0.23202217,0,0,0.23345947,-48.176986,-26.101256)"
        style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:98.00000191%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13682079px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text_long"
        xml:space="preserve"
