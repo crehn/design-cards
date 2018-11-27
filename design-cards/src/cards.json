@@ -87,7 +87,7 @@
             "abbreviation": "YAGNI",
             "name": "You Ain't Gonna Need It",
             "short": "It's currently not necessary and you even have to maintain it!",
-            "long": "Every piece of code you write, needs to be maintained. The more code you have, the more complexity there will be. Adding features and capabilities that are not used (yet), wastes time twice: When you write it and when you change, adjust, or even just read it. This becomes even more painful when you finally try to remove this dead code. So avoid things like runtime-configuration, internationalization, and features that are only there \"for the sake of completeness\". If it is really needed, it can be added later.",
+            "long": "Every piece of code you write, needs to be maintained. The more code you have, the more complexity there will be. Adding features and capabilities that are not used (yet), wastes time twice: When you write it and when you change, adjust, or even just read it. This becomes even more painful when you finally try to remove this dead code. So avoid things like runtime-configuration, internationalization, and features that are only there “for the sake of completeness”. If it is really needed, it can be added later.",
             "links": "↓RoP, ↑CF, ↓NFR, ⇅MP",
             "set": "advanced",
             "shield": "simple"
@@ -103,75 +103,76 @@
         },
         {
             "abbreviation": "LC",
-            "name": "Rule of Power",
-            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
-            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "name": "Low Coupling",
+            "short": "Tight coupling creates ripple-effects and makes the code less maintainable.",
+            "long": "If you decouple, you don't need to know internal details about other parts of the system. Furthermore it makes you independent from changes in those other parts and maybe even supports reuse. So better use additional layers, indirection, dependency injection, observers, messaging, etc.",
             "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
             "set": "basic",
             "shield": "abstract"
         },
         {
             "abbreviation": "DRY",
-            "name": "Rule of Power",
-            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
-            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "name": "Don't Repeat Yourself",
+            "short": "Duplication makes changing the code cumbersome and leads to bugs.",
+            "long": "Having a functionality more than once means to update or bugfix it at every occurrence which is more error-prone and more effort. Refactorings like method or class extraction may help as well as inheritance, polymorphism and some design patterns.",
             "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
             "set": "basic",
             "shield": "concrete"
         },
         {
             "abbreviation": "CF",
-            "name": "Rule of Power",
-            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
-            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "name": "Customer Focus",
+            "short": "This is not what the customer pays us for!",
+            "long": "If something is not requested, there has to be a very good reason to do it. Anything in addition costs additional time (also for removing or maintaining it). It creates additional risk of more bugs and makes you responsible for it. Continuously remember what was requested e.g. by looking into the requirements or asking the customer.",
             "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
             "set": "basic",
             "shield": "pragmatic"
         },
         {
             "abbreviation": "PoQ",
-            "name": "Rule of Power",
-            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
-            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "name": "Principle of Quality",
+            "short": "Bad quality kills us in the long run!",
+            "long": "It may be faster now but we need to be fast tomorrow, too. Bad quality frustrates maintainers, makes fixing bugs harder and leads to huge efforts for changes. This often starts by being careless once. Don't let a vicious circle begin. Use metrics, adhere to the architecture, have a high test coverage, apply code reviews and continuous refactoring. Don't be lazy.",
             "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
             "set": "basic",
             "shield": "idealistic"
         },
         {
             "abbreviation": "ML",
-            "name": "Rule of Power",
-            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
-            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "name": "Murphy's Law",
+            "short": "Avoid possibilities for something to go wrong or to get misused.",
+            "long": "If there is a possibility for something to be used in the wrong way (like supplying parameters in the wrong order), it will eventually happen. So better avoid possible future bugs by using defensive programming, immutability, a common naming scheme, avoiding duplication and complexity.",
             "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
             "set": "basic",
             "shield": "robust"
         },
         {
             "abbreviation": "TP",
-            "name": "Rule of Power",
-            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
-            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "name": "Technological Progress",
+            "short": "Progress must not be ignored in a competitive environment.",
+            "long": "New technology is not only motivating but also comes with benefits like more features, more performance, better maintainability, and fixed bugs. Furthermore old technology won't be supported for much longer and new people don't know the old stuff anymore. Continuously challenge existing solutions by evaluating alternatives.",
             "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
             "set": "basic",
             "shield": "technologic"
         },
         {
-            "abbreviation": "Q1",
-            "name": "Rule of Power",
-            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
-            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "abbreviation": "qTRT",
+            "name": "The Right Time",
+            "short": "What will happen if we don't decide right now?",
+            "long": "A design decision should be taken as late in the project as possible. But it's likewise harmful to take it too late. In order to find out if a decision really needs to be made now, think about what will happen, if the decision is deferred.",
             "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
             "set": "basic",
             "shield": "question"
         },
         {
-            "abbreviation": "A1",
-            "name": "Rule of Power",
-            "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
-            "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
+            "abbreviation": "aMed",
+            "name": "Mediator",
+            "short": "We cannot agree.  Let's get some help!",
+            "long": "Sometimes a discussion gets stuck. In these cases it is often advisable to ask another colleague for an opinion or mediation. Usually a colleague who hasn't already participated in the discussion, adds a new, unbiased perspective.",
             "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
             "set": "basic",
             "shield": "action"
         }
     ]
 }
+
