@@ -68,7 +68,7 @@
             "abbreviation": "KISS",
             "name": "Keep It Simple Stupid",
             "short": "Simple means readable, maintainable, and less error-prone. Overengineering is harmful.",
-            "long": "Complex code typically contains more bugs and it has to be maintained (maybe even by other people). To others it may seem obscure which can lead to frustration and bad code quality. Striving for simplicity means to avoid having large methods/classes, many methods/classes/parameters, as well as inheritance, low-level optimization, complex algorithms, fancy (language) features, configurability, etc.",
+            "long": "Complex code typically contains more bugs and it has to be maintained (maybe even by other people). To others it may seem obscure which can lead to frustration and bad code quality. Striving for simplicity means to avoid having large methods/classes, many methods/classes/parameters, as well as inheritance, low-level optimization, complex algorithms, fancy (lan-guage) features, configurability, etc.",
             "links": "↓RoP, ↑CF, ↓NFR, ⇅MP",
             "set": "basic",
             "shield": "simple"
@@ -77,7 +77,7 @@
             "abbreviation": "YAGNI",
             "name": "You Ain't Gonna Need It",
             "short": "It's currently not necessary and you even have to maintain it!",
-            "long": "Every piece of code you write, needs to be maintained. The more code you have, the more complexity there will be. Adding features and capabilities that are not used (yet), wastes time twice: When you write it and when you change, adjust, or even just read it. This becomes even more painful when you finally try to remove this dead code. So avoid things like runtime-configuration, internationalization, and features that are only there “for the sake of completeness”. If it is really needed, it can be added later.",
+            "long": "Code needs to be maintained. The more you have, the more complexity there will be. Adding features and capabilities that are not used (yet), wastes time twice: When you write the code and when you change or just read it. This becomes even more painful when you finally try to re-move this dead code. So avoid runtime-configu-ration, premature optimization, and features that are only there “for the sake of complete-ness”. If they are needed, add them later.",
             "links": "↓RoP, ↑CF, ↓NFR, ⇅MP",
             "set": "advanced",
             "shield": "simple"
@@ -137,6 +137,15 @@
             "shield": "robust"
         },
         {
+            "abbreviation": "FF",
+            "name": "Fail fast",
+            "short": "Program defensively or you'll have a hard time debugging.",
+            "long": "If you don't check your inputs, cascading fail-ures can occur. This results in security prob-lems and error messages which are hard to de-cipher because they are not thrown at the posi-tion of the actual fault. This may even lead to situations where teams have to investigate fail-ures which are not theirs. So log and throw an error as soon as you realize a problem. The earlier the better, so throwing a compile-time error is preferable to run-time checks.",
+            "links": "↑ML, ↑EUHM, ↓KISS, ↓NFR",
+            "set": "advanced",
+            "shield": "robust"
+        },
+        {
             "abbreviation": "TP",
             "name": "Technological Progress",
             "short": "Progress must not be ignored in a competitive environment.",
@@ -150,7 +159,7 @@
             "name": "The Right Time",
             "short": "What will happen if we don't decide right now?",
             "long": "A design decision should be taken as late in the project as possible. But it's likewise harmful to take it too late. In order to find out if a decision really needs to be made now, think about what will happen, if the decision is deferred.",
-            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "links": "",
             "set": "basic",
             "shield": "question"
         },
@@ -159,8 +168,26 @@
             "name": "Mediator",
             "short": "We cannot agree.  Let's get some help!",
             "long": "Sometimes a discussion gets stuck. In these cases it is often advisable to ask another colleague for an opinion or mediation. Usually a colleague who hasn't already participated in the discussion, adds a new, unbiased perspective.",
-            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "links": "",
             "set": "basic",
+            "shield": "action"
+        },
+        {
+            "abbreviation": "aPO",
+            "name": "Product Owner Decides",
+            "short": "This has a significant impact on the business so we have to talk with the product owner.",
+            "long": "Some technical decisions influence the product itself. Often there is an impact on cost and time and sometimes there are even legal issues. Trade-offs include hosting an application in the cloud (flexibility and time vs. privacy and cost), adding a caching layer (performance vs. com-plexity and cost), make-or-buy (time vs. flexibi-lity and cost), etc. In those cases the decision is not merely a technical one. Involve the PO.",
+            "links": "",
+            "set": "advanced",
+            "shield": "action"
+        },
+        {
+            "abbreviation": "aCD",
+            "name": "Client Decides",
+            "short": "The client who calls the API knows best how the ideal API should look like.",
+            "long": "APIs need to be intuitive to those who use it and sometimes it's hard to predict if that's the case. Some decisions have an impact on how a module can be used. Some use cases may get simpler and others may get harder and less intuitive. Better stop assuming you know what's best for the clients. Just ask and involve them in your decision.",
+            "links": "",
+            "set": "advanced",
             "shield": "action"
         }
     ]
