@@ -1635,9 +1635,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5132085"
-     inkscape:cx="208.39821"
-     inkscape:cy="152.15969"
+     inkscape:zoom="2.14"
+     inkscape:cx="134.94937"
+     inkscape:cy="-943.49347"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1817,7 +1817,8 @@
      id="layer3"
      inkscape:label="Background"
      style="display:inline;opacity:1"
-     transform="translate(-10.124984,-22.004)">
+     transform="translate(-10.124984,-22.004)"
+     sodipodi:insensitive="true">
     <path
        inkscape:export-ydpi="300.11667"
        inkscape:export-xdpi="300.11667"
@@ -2154,7 +2155,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-10.124984,-22.004)">
+     transform="translate(-10.124984,-22.004)"
+     sodipodi:insensitive="true">
     <g
        id="g27719"
        transform="translate(84.749378,-18.566932)"
@@ -4829,7 +4831,7 @@
          style="font-size:8px;line-height:50%"
          id="flowPara15263-5">Design Cards are a means to improve discus-sions among software developers.</flowPara><flowPara
          id="flowPara15574"
-         style="font-size:8px;line-height:50%"></flowPara><flowPara
+         style="font-size:8px;line-height:50%" /><flowPara
          style="font-size:8px;line-height:50%"
          id="flowPara9451">Use them for: </flowPara><flowPara
          id="flowPara15578"
@@ -4843,7 +4845,7 @@
          id="flowPara15584"
          style="font-size:8px;line-height:50%">    ‣ Learning design aspects</flowPara><flowPara
          id="flowPara15588"
-         style="font-size:8px;line-height:50%"></flowPara><flowPara
+         style="font-size:8px;line-height:50%" /><flowPara
          style="font-size:8px;line-height:50%"
          id="flowPara9453">Use arguments from different dimensions to en-sure that you don't miss important aspects. Use question cards to point out relevant questions and use action cards to make progress if a dis-cussion gets stuck.</flowPara><flowPara
          id="flowPara15590"
@@ -10359,7 +10361,7 @@
          inkscape:export-xdpi="300"
          inkscape:export-filename="/home/christian/Desktop/cardSetSymbolExperiments.png"
          sodipodi:nodetypes="ccccccc"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ddcfb6;fill-opacity:1;fill-rule:evenodd;stroke:#784421;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#784421;fill-opacity:1;fill-rule:evenodd;stroke:#784421;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 94.73794,101.08048 2.00709,2.81227 -2.00491,2.82918 1.33321,-0.002 2.01198,-2.82733 -1.97954,-2.81186 z"
          id="path11033"
          inkscape:connector-curvature="0" />
@@ -10394,7 +10396,7 @@
          inkscape:export-xdpi="300"
          inkscape:export-filename="/home/christian/Desktop/cardSetSymbolExperiments.png"
          sodipodi:nodetypes="ccccccc"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#784421;fill-opacity:1;fill-rule:evenodd;stroke:#784421;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ddcfb6;fill-opacity:1;fill-rule:evenodd;stroke:#784421;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 94.73794,101.08048 2.00709,2.81227 -2.00491,2.82918 1.33321,-0.002 2.01198,-2.82733 -1.97954,-2.81186 z"
          id="path11049"
          inkscape:connector-curvature="0" />
@@ -10462,7 +10464,7 @@
          style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
          y="472.13779"
          x="30.435678"
-         sodipodi:role="line">advanced</tspan></text>
+         sodipodi:role="line">extended</tspan></text>
     <text
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -10476,7 +10478,7 @@
          style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
          y="466.36777"
          x="53.596798"
-         sodipodi:role="line">extended</tspan></text>
+         sodipodi:role="line">advanced</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -10508,2225 +10510,246 @@
          style="fill:#784421;fill-opacity:1;stroke-width:15.73919392" />
     </g>
     <g
-       style="display:inline;opacity:1;stroke-width:3.40537024"
-       transform="matrix(0.05303241,0,0,0.05303241,59.592966,382.21468)"
-       id="g19185-1-9"
+       transform="matrix(0.33009041,0,0,0.33009041,24.875021,299.70047)"
+       style="display:inline;opacity:1"
+       id="basic_set-36"
        inkscape:export-filename="/home/christian/Desktop/manual.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18231-1-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="8"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18233-5-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="16"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18235-9-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18237-8-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18239-4-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="40"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18241-8-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18243-1-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="80"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18245-0-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="88"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18247-3-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="96"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18249-0-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="104"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18251-4-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18253-4-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18255-4-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="152"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18257-4-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18259-7-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18261-6-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="176"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18263-3-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="184"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18265-1-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="0"
-         width="8"
-         height="8"
-         id="rect18267-7-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="8"
-         width="8"
-         height="8"
-         id="rect18269-5-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="8"
-         width="8"
-         height="8"
-         id="rect18271-9-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="8"
-         width="8"
-         height="8"
-         id="rect18273-6-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="80"
-         y="8"
-         width="8"
-         height="8"
-         id="rect18275-2-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="8"
-         width="8"
-         height="8"
-         id="rect18277-1-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="8"
-         width="8"
-         height="8"
-         id="rect18279-7-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="8"
-         width="8"
-         height="8"
-         id="rect18281-8-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18283-5-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="16"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18285-7-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18287-4-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18289-1-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18291-8-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="88"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18293-5-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="96"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18295-9-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18297-7-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="120"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18299-5-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18301-3-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18303-8-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18305-8-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="176"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18307-3-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="16"
-         width="8"
-         height="8"
-         id="rect18309-1-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="24"
-         width="8"
-         height="8"
-         id="rect18311-8-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="16"
-         y="24"
-         width="8"
-         height="8"
-         id="rect18313-9-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="24"
-         width="8"
-         height="8"
-         id="rect18315-6-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="24"
-         width="8"
-         height="8"
-         id="rect18317-4-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="24"
-         width="8"
-         height="8"
-         id="rect18319-3-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="64"
-         y="24"
-         width="8"
-         height="8"
-         id="rect18321-3-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="104"
-         y="24"
-         width="8"
-         height="8"
-         id="rect18323-3-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="24"
-         width="8"
-         height="8"
-         id="rect18325-8-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="24"
-         width="8"
-         height="8"
-         id="rect18327-6-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="24"
-         width="8"
-         height="8"
-         id="rect18329-0-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="176"
-         y="24"
-         width="8"
-         height="8"
-         id="rect18331-4-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="24"
-         width="8"
-         height="8"
-         id="rect18333-8-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18335-8-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="16"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18337-8-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18339-9-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18341-7-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18343-7-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="64"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18345-6-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18347-4-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="88"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18349-3-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18351-0-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18353-3-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18355-0-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18357-9-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18359-2-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="176"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18361-5-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="32"
-         width="8"
-         height="8"
-         id="rect18363-4-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="40"
-         width="8"
-         height="8"
-         id="rect18365-0-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="40"
-         width="8"
-         height="8"
-         id="rect18367-5-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="96"
-         y="40"
-         width="8"
-         height="8"
-         id="rect18369-9-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="104"
-         y="40"
-         width="8"
-         height="8"
-         id="rect18371-4-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="40"
-         width="8"
-         height="8"
-         id="rect18373-6-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="40"
-         width="8"
-         height="8"
-         id="rect18375-9-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="40"
-         width="8"
-         height="8"
-         id="rect18377-2-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18379-2-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="8"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18381-4-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="16"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18383-7-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18385-7-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18387-5-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="40"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18389-4-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18391-8-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="64"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18393-1-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="80"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18395-2-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="96"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18397-8-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18399-9-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18401-3-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18403-6-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="152"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18405-8-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18407-0-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18409-2-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="176"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18411-1-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="184"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18413-0-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="48"
-         width="8"
-         height="8"
-         id="rect18415-5-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="80"
-         y="56"
-         width="8"
-         height="8"
-         id="rect18417-1-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="56"
-         width="8"
-         height="8"
-         id="rect18419-1-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="64"
-         width="8"
-         height="8"
-         id="rect18421-0-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="8"
-         y="64"
-         width="8"
-         height="8"
-         id="rect18423-8-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="40"
-         y="64"
-         width="8"
-         height="8"
-         id="rect18425-5-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="64"
-         width="8"
-         height="8"
-         id="rect18427-0-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="56"
-         y="64"
-         width="8"
-         height="8"
-         id="rect18429-6-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="64"
-         width="8"
-         height="8"
-         id="rect18431-4-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="96"
-         y="64"
-         width="8"
-         height="8"
-         id="rect18433-6-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="104"
-         y="64"
-         width="8"
-         height="8"
-         id="rect18435-2-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="64"
-         width="8"
-         height="8"
-         id="rect18437-5-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="64"
-         width="8"
-         height="8"
-         id="rect18439-8-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="64"
-         width="8"
-         height="8"
-         id="rect18441-6-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18443-2-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18445-8-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="64"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18447-4-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18449-7-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="88"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18451-2-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="104"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18453-4-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18455-0-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="120"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18457-6-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="136"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18459-2-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="152"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18461-9-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18463-9-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18465-0-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="176"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18467-8-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="184"
-         y="72"
-         width="8"
-         height="8"
-         id="rect18469-1-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18471-3-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="8"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18473-1-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="16"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18475-1-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18477-0-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18479-3-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="80"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18481-4-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="96"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18483-0-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="104"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18485-3-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18487-9-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="120"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18489-1-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18491-9-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="152"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18493-6-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18495-9-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="184"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18497-3-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="80"
-         width="8"
-         height="8"
-         id="rect18499-3-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="88"
-         width="8"
-         height="8"
-         id="rect18501-8-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="88"
-         width="8"
-         height="8"
-         id="rect18503-0-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="88"
-         width="8"
-         height="8"
-         id="rect18505-5-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="40"
-         y="88"
-         width="8"
-         height="8"
-         id="rect18507-6-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="64"
-         y="88"
-         width="8"
-         height="8"
-         id="rect18509-6-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="88"
-         width="8"
-         height="8"
-         id="rect18511-4-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="88"
-         y="88"
-         width="8"
-         height="8"
-         id="rect18513-0-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="96"
-         y="88"
-         width="8"
-         height="8"
-         id="rect18515-0-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="88"
-         width="8"
-         height="8"
-         id="rect18517-4-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="136"
-         y="88"
-         width="8"
-         height="8"
-         id="rect18519-6-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="152"
-         y="88"
-         width="8"
-         height="8"
-         id="rect18521-2-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="88"
-         width="8"
-         height="8"
-         id="rect18523-6-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="88"
-         width="8"
-         height="8"
-         id="rect18525-7-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18527-5-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="8"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18529-6-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="16"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18531-9-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18533-8-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18535-7-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="40"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18537-2-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18539-8-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="56"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18541-2-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="64"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18543-9-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18545-9-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="88"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18547-6-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="120"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18549-0-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18551-2-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="152"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18553-7-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="96"
-         width="8"
-         height="8"
-         id="rect18555-6-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="104"
-         width="8"
-         height="8"
-         id="rect18557-1-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="104"
-         width="8"
-         height="8"
-         id="rect18559-3-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="104"
-         width="8"
-         height="8"
-         id="rect18561-2-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="40"
-         y="104"
-         width="8"
-         height="8"
-         id="rect18563-1-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="56"
-         y="104"
-         width="8"
-         height="8"
-         id="rect18565-5-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="64"
-         y="104"
-         width="8"
-         height="8"
-         id="rect18567-9-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="104"
-         width="8"
-         height="8"
-         id="rect18569-9-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="88"
-         y="104"
-         width="8"
-         height="8"
-         id="rect18571-1-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="104"
-         y="104"
-         width="8"
-         height="8"
-         id="rect18573-4-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="120"
-         y="104"
-         width="8"
-         height="8"
-         id="rect18575-9-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="104"
-         width="8"
-         height="8"
-         id="rect18577-1-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="152"
-         y="104"
-         width="8"
-         height="8"
-         id="rect18579-0-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="184"
-         y="104"
-         width="8"
-         height="8"
-         id="rect18581-7-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18583-5-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="16"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18585-8-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18587-7-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18589-0-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18591-4-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="64"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18593-8-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18595-0-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="104"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18597-4-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18599-2-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="120"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18601-9-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18603-6-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18605-1-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="184"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18607-0-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="112"
-         width="8"
-         height="8"
-         id="rect18609-4-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="120"
-         width="8"
-         height="8"
-         id="rect18611-2-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="80"
-         y="120"
-         width="8"
-         height="8"
-         id="rect18613-2-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="96"
-         y="120"
-         width="8"
-         height="8"
-         id="rect18615-2-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="120"
-         width="8"
-         height="8"
-         id="rect18617-0-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="136"
-         y="120"
-         width="8"
-         height="8"
-         id="rect18619-5-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="120"
-         width="8"
-         height="8"
-         id="rect18621-5-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="152"
-         y="120"
-         width="8"
-         height="8"
-         id="rect18623-2-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="120"
-         width="8"
-         height="8"
-         id="rect18625-9-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="176"
-         y="120"
-         width="8"
-         height="8"
-         id="rect18627-0-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="120"
-         width="8"
-         height="8"
-         id="rect18629-2-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18631-8-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18633-3-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="40"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18635-8-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18637-0-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="56"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18639-4-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18641-0-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="80"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18643-9-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="96"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18645-1-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="104"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18647-9-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18649-6-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18651-2-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="136"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18653-5-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18655-4-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="152"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18657-4-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18659-9-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="176"
-         y="128"
-         width="8"
-         height="8"
-         id="rect18661-9-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="64"
-         y="136"
-         width="8"
-         height="8"
-         id="rect18663-3-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="88"
-         y="136"
-         width="8"
-         height="8"
-         id="rect18665-6-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="136"
-         width="8"
-         height="8"
-         id="rect18667-0-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="136"
-         width="8"
-         height="8"
-         id="rect18669-5-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="176"
-         y="136"
-         width="8"
-         height="8"
-         id="rect18671-0-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18673-2-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="8"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18675-9-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="16"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18677-4-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18679-3-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18681-5-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="40"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18683-1-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18685-7-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="64"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18687-4-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18689-3-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="88"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18691-1-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="104"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18693-4-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18695-6-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18697-9-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18699-4-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18701-2-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="144"
-         width="8"
-         height="8"
-         id="rect18703-2-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="152"
-         width="8"
-         height="8"
-         id="rect18705-6-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="152"
-         width="8"
-         height="8"
-         id="rect18707-4-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="64"
-         y="152"
-         width="8"
-         height="8"
-         id="rect18709-1-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="152"
-         width="8"
-         height="8"
-         id="rect18711-2-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="88"
-         y="152"
-         width="8"
-         height="8"
-         id="rect18713-8-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="96"
-         y="152"
-         width="8"
-         height="8"
-         id="rect18715-8-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="152"
-         width="8"
-         height="8"
-         id="rect18717-9-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="152"
-         width="8"
-         height="8"
-         id="rect18719-2-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="152"
-         width="8"
-         height="8"
-         id="rect18721-8-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="184"
-         y="152"
-         width="8"
-         height="8"
-         id="rect18723-8-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="152"
-         width="8"
-         height="8"
-         id="rect18725-8-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18727-6-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="16"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18729-8-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18731-3-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18733-8-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18735-3-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18737-3-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="80"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18739-3-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="96"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18741-8-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="104"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18743-0-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18745-4-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="120"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18747-7-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18749-6-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="136"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18751-8-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18753-9-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="152"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18755-0-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18757-6-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18759-8-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="176"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18761-7-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="184"
-         y="160"
-         width="8"
-         height="8"
-         id="rect18763-9-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="168"
-         width="8"
-         height="8"
-         id="rect18765-0-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="16"
-         y="168"
-         width="8"
-         height="8"
-         id="rect18767-3-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="168"
-         width="8"
-         height="8"
-         id="rect18769-3-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="168"
-         width="8"
-         height="8"
-         id="rect18771-3-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="168"
-         width="8"
-         height="8"
-         id="rect18773-7-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="80"
-         y="168"
-         width="8"
-         height="8"
-         id="rect18775-3-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="88"
-         y="168"
-         width="8"
-         height="8"
-         id="rect18777-2-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="136"
-         y="168"
-         width="8"
-         height="8"
-         id="rect18779-6-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="168"
-         width="8"
-         height="8"
-         id="rect18781-5-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="168"
-         width="8"
-         height="8"
-         id="rect18783-2-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="184"
-         y="168"
-         width="8"
-         height="8"
-         id="rect18785-6-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="168"
-         width="8"
-         height="8"
-         id="rect18787-5-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="176"
-         width="8"
-         height="8"
-         id="rect18789-8-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="16"
-         y="176"
-         width="8"
-         height="8"
-         id="rect18791-7-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="176"
-         width="8"
-         height="8"
-         id="rect18793-9-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="176"
-         width="8"
-         height="8"
-         id="rect18795-6-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="176"
-         width="8"
-         height="8"
-         id="rect18797-0-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="176"
-         width="8"
-         height="8"
-         id="rect18799-4-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="176"
-         width="8"
-         height="8"
-         id="rect18801-1-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="176"
-         width="8"
-         height="8"
-         id="rect18803-0-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="152"
-         y="176"
-         width="8"
-         height="8"
-         id="rect18805-4-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="176"
-         y="176"
-         width="8"
-         height="8"
-         id="rect18807-8-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="176"
-         width="8"
-         height="8"
-         id="rect18809-7-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="184"
-         width="8"
-         height="8"
-         id="rect18811-0-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="184"
-         width="8"
-         height="8"
-         id="rect18813-8-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="64"
-         y="184"
-         width="8"
-         height="8"
-         id="rect18815-6-4" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="184"
-         width="8"
-         height="8"
-         id="rect18817-2-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="88"
-         y="184"
-         width="8"
-         height="8"
-         id="rect18819-4-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="184"
-         width="8"
-         height="8"
-         id="rect18821-7-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="136"
-         y="184"
-         width="8"
-         height="8"
-         id="rect18823-9-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="144"
-         y="184"
-         width="8"
-         height="8"
-         id="rect18825-3-5" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="152"
-         y="184"
-         width="8"
-         height="8"
-         id="rect18827-9-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="160"
-         y="184"
-         width="8"
-         height="8"
-         id="rect18829-2-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="184"
-         width="8"
-         height="8"
-         id="rect18831-8-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="0"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18833-3-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="8"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18835-0-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="16"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18837-1-8" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="24"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18839-7-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="32"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18841-8-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="40"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18843-9-9" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="48"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18845-1-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="64"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18847-5-0" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="72"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18849-4-2" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="96"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18851-9-7" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="112"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18853-2-6" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="128"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18855-5-1" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="168"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18857-7-3" />
-      <rect
-         style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
-         x="192"
-         y="192"
-         width="8"
-         height="8"
-         id="rect18859-4-2" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/christian/Desktop/cardSetSymbolExperiments.png"
+         sodipodi:nodetypes="ccccccc"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ddcfb6;fill-opacity:1;fill-rule:evenodd;stroke:#784421;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 94.73794,101.08048 2.00709,2.81227 -2.00491,2.82918 1.33321,-0.002 2.01198,-2.82733 -1.97954,-2.81186 z"
+         id="path8280-7"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/christian/Desktop/cardSetSymbolExperiments.png"
+         sodipodi:nodetypes="ccccccc"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ddcfb6;fill-opacity:1;fill-rule:evenodd;stroke:#784421;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 92.685943,101.08185 2.00709,2.81932 -2.00709,2.82153 1.34561,-7.7e-4 2.00174,-2.82041 -2.00691,-2.82051 z"
+         id="path8282-5"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/christian/Desktop/cardSetSymbolExperiments.png"
+         sodipodi:nodetypes="cccccccc"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#784421;fill-opacity:1;fill-rule:evenodd;stroke:#784421;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 90.628376,101.08185 2.00709,2.81932 -2.00709,2.82153 1.34207,-7.7e-4 2.00308,-2.82076 -2.007,-2.82069 -1.33815,0.001 z"
+         id="path8284-3"
+         inkscape:connector-curvature="0" />
     </g>
+    <path
+       transform="translate(10.124984,22.004)"
+       style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 75.629512,297.78853 H 107.44951"
+       id="path32252"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+    <text
+       transform="translate(10.124984,22.004)"
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="79.039497"
+       y="296.72443"
+       id="text32256"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+         sodipodi:role="line"
+         id="tspan32254"
+         x="79.039497"
+         y="296.72443"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold Italic';stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Learning Game</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot15249-0-7-31-1"
+       style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-294.54534,404.74284)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
+         id="flowRegion15251-9-1-4-7"><rect
+           id="rect15253-9-6-9-2"
+           width="194.28828"
+           height="273.87042"
+           x="1448.1309"
+           y="-316.26535" /></flowRegion><flowPara
+         id="flowPara41610"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Rules for 4+ Players</flowPara><flowPara
+         id="flowPara41612"
+         style="font-size:8px;line-height:50%">   1) Split up into two teams who will play </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11129">       against each other.</flowPara><flowPara
+         id="flowPara41614"
+         style="font-size:8px;line-height:50%">   2) Remove action and question cards and </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11131">       shuffle the rest.</flowPara><flowPara
+         id="flowPara41616"
+         style="font-size:8px;line-height:50%">   3) Take turns. When it’s your turn, draw a </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11133">       card, read it quietly and try to explain the </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11135">       card without mentioning the words in the </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11137">       title or synonyms/antonyms thereof. </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11139">       <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+   id="flowSpan11153">TIP:</flowSpan> Read the card carefully and use the </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11151">       examples given.</flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11143">   4) While you explain, your team member(s) </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara2692">       have 90 sec. to guess the title. If they man-</flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara2694">       age to do so, your team gets a point.</flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11159">   5) If your team members couldn’t guess cor-</flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11163">       rectly, the opposing team gets one single </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11165">       guess to get a point for themselves.</flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11157">   6) In any case read the card aloud. Then it’s </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11167">       the turn of the other team.</flowPara><flowPara
+         id="flowPara5500"
+         style="font-size:8px;line-height:50%">   7) Every player should get the chance to </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11171">       explain and to guess. So also take turns </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11173">       within the teams.</flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11177">   8) The game ends after each team has read 5 </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11184">       cards (adjust  based on the time you want </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11192">       to spend).</flowPara><flowPara
+         id="flowPara41637"
+         style="font-size:8px;line-height:50%">   9) The team with the most points wins.</flowPara></flowRoot>    <path
+       transform="translate(10.124984,22.004)"
+       style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 6.100004,297.32807 H 37.920002"
+       id="path32268"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+    <text
+       transform="translate(10.124984,22.004)"
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="9.6182404"
+       y="296.26407"
+       id="text32272"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+         sodipodi:role="line"
+         id="tspan32270"
+         x="9.6182404"
+         y="296.26407"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold Italic';stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Games</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot15249-0-7-31-1-7"
+       style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-363.70092,403.79278)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
+         id="flowRegion15251-9-1-4-7-1"><rect
+           id="rect15253-9-6-9-2-1"
+           width="194.48181"
+           height="277.73584"
+           x="1448.1309"
+           y="-316.26535" /></flowRegion><flowPara
+         id="flowPara41396-7-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Use Case and Preparation</flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara4305">Use the quiz and the learning game to get fa-miliar with the Design Cards and with argu-ments and principles of software design. Use a single card set and read the cards before playing. Start with the basic set (    ) and add the other cards once you are familiar with it.</flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara4307" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+         id="flowPara4309">More Game Ideas</flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara4311">There are alternative rules and more ideas for games online: design-types.net/cardgames</flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara4286" /><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara4317" /><flowPara
+         id="flowPara41639-7"
+         style="font-size:8px;line-height:50%" /><flowPara
+         id="flowPara41610-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Rules for 2+ Players</flowPara><flowPara
+         id="flowPara41614-7"
+         style="font-size:8px;line-height:50%">   1) Shuffle the cards.</flowPara><flowPara
+         id="flowPara41616-3"
+         style="font-size:8px;line-height:50%">   2) Take turns. When it’s your turn, one of the </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11198">       other players draws a card and reads the </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11200">       title to you.</flowPara><flowPara
+         id="flowPara41701"
+         style="font-size:8px;line-height:50%">   3) If you can correctly explain the card based </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11202">       on the title, you get a point.</flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara2682">   4) If your answer is not correct the other play-</flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara2686">       ers get a chance.</flowPara><flowPara
+         id="flowPara41703"
+         style="font-size:8px;line-height:50%">   5) In any case read the card aloud. Then it's </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11206">       the next player’s turn—even if this person </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11208">       already got a point by explaning your card.</flowPara><flowPara
+         id="flowPara41637-3"
+         style="font-size:8px;line-height:50%">   6) The game ends after 5 rounds (adjust  </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11210">       based on the time you want to spend). </flowPara><flowPara
+         style="font-size:8px;line-height:50%"
+         id="flowPara11216">   7) The player with the most points wins.</flowPara></flowRoot>    <path
+       transform="translate(10.124984,22.004)"
+       inkscape:export-filename="/home/christian/Desktop/manual.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:connector-curvature="0"
+       id="path4290"
+       d="M 6.100004,332.25329 H 37.920002"
+       style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="translate(10.124984,22.004)"
+       inkscape:export-filename="/home/christian/Desktop/manual.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text4294"
+       y="331.18961"
+       x="9.6182404"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold Italic';stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="331.18961"
+         x="9.6182404"
+         id="tspan4292"
+         sodipodi:role="line">Quiz</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Helping Lines"
      style="display:inline"
-     transform="translate(-10.124984,-22.004)">
+     transform="translate(-10.124984,-22.004)"
+     sodipodi:insensitive="true">
     <g
        transform="matrix(0.34315318,0,0,-0.34523081,63.58944,111.00813)"
        id="outer_helping_ling"
@@ -13017,7 +11040,8 @@
      id="layer7"
      inkscape:label="Cut Lines"
      style="display:inline"
-     transform="translate(-10.124984,-22.004)">
+     transform="translate(-10.124984,-22.004)"
+     sodipodi:insensitive="true">
     <path
        d="m 72.886487,25.001132 -56.008007,0.05513 c -2.092199,0.0021 -3.700712,1.692302 -3.700712,3.797169 v 81.363949 c 0,2.10487 1.608512,3.73074 3.700712,3.73074 h 56.008007 c 2.09221,0 3.78841,-1.62587 3.78841,-3.73074 V 28.815426 c 0,-2.104867 -1.696201,-3.816353 -3.78841,-3.814294 z"
        style="display:inline;fill:none;stroke:#808080;stroke-width:0.09999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.19999998, 1.19999998;stroke-dashoffset:0;stroke-opacity:1"
@@ -13204,7 +11228,8 @@
      id="layer4"
      inkscape:label="Cover"
      style="display:inline;opacity:1"
-     transform="translate(-10.124984,-22.004)">
+     transform="translate(-10.124984,-22.004)"
+     sodipodi:insensitive="true">
     <path
        d="m 76.673907,110.20585 c -2.4e-4,2.10488 -1.696206,3.74523 -3.788411,3.74523 l -55.923939,-1e-5 c -2.092205,0 -3.817902,-1.64826 -3.817144,-3.75313 l 0.02931,-81.354022 c 7.59e-4,-2.104873 1.601122,-3.791389 3.693327,-3.791327 l 56.010175,0.0017 c 2.092205,6.2e-5 3.80619,1.680669 3.805951,3.785543 z M 10.124984,117 l 69.600002,-5e-5 -2e-6,-94.995948 h -69.6 z"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
@@ -13301,173 +11326,6 @@
      id="layer5"
      inkscape:label="Legend"
      style="display:inline"
-     transform="translate(-10.124984,-22.004)" />
-  <path
-     style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 75.629512,297.78853 H 107.44951"
-     id="path32252"
-     inkscape:connector-curvature="0"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"
-     inkscape:export-filename="/home/christian/Desktop/manual.png" />
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     x="79.039497"
-     y="296.72443"
-     id="text32256"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"
-     inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
-       sodipodi:role="line"
-       id="tspan32254"
-       x="79.039497"
-       y="296.72443"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold Italic';stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Learning Game</tspan></text>
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot15249-0-7-31-1"
-     style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     transform="matrix(0.26458333,0,0,0.26458333,-304.67032,382.73885)"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"
-     inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
-       id="flowRegion15251-9-1-4-7"><rect
-         id="rect15253-9-6-9-2"
-         width="194.28828"
-         height="273.87042"
-         x="1448.1309"
-         y="-316.26535" /></flowRegion><flowPara
-       id="flowPara41610"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Rules for 4+ Players</flowPara><flowPara
-       id="flowPara41612"
-       style="font-size:8px;line-height:50%">   1) Split up into two teams who will play </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11129">       against each other.</flowPara><flowPara
-       id="flowPara41614"
-       style="font-size:8px;line-height:50%">   2) Remove action and question cards and </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11131">       shuffle the rest.</flowPara><flowPara
-       id="flowPara41616"
-       style="font-size:8px;line-height:50%">   3) Take turns. When it’s your turn, draw a </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11133">       card, read it quietly and try to explain the </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11135">       card without mentioning the words in the </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11137">       title or synonyms/antonyms thereof. </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11139">       <flowSpan
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
-   id="flowSpan11153">TIP:</flowSpan> Read the card carefully and use the </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11151">       examples given.</flowPara><flowPara
-       id="flowPara41618"
-       style="font-size:8px;line-height:50%">   4) Your team member(s) now have 90 sec. to </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11141">       guess the title. If they manage to do so, </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11143">       your team gets a point.</flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11159">   5) If your team members couldn’t guess cor-</flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11163">       rectly, the opposing team gets one single </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11165">       guess to get a point for themselves.</flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11157">   6) In any case read the card aloud. Then it’s </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11167">       the turn of the other team.</flowPara><flowPara
-       id="flowPara5500"
-       style="font-size:8px;line-height:50%">   7) Every player should get the chance to </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11171">       explain and to guess. So also take turns </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11173">       within the teams.</flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11177">   8) The game ends after each team has read 5 </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11184">       cards (adjust  based on the time you want </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11192">       to spend).</flowPara><flowPara
-       id="flowPara41637"
-       style="font-size:8px;line-height:50%">   9) The team with the most points wins.</flowPara></flowRoot>  <path
-     style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 6.100004,297.85724 H 37.920002"
-     id="path32268"
-     inkscape:connector-curvature="0"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"
-     inkscape:export-filename="/home/christian/Desktop/manual.png" />
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     x="9.6182404"
-     y="296.79324"
-     id="text32272"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"
-     inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
-       sodipodi:role="line"
-       id="tspan32270"
-       x="9.6182404"
-       y="296.79324"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold Italic';stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Quiz</tspan></text>
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot15249-0-7-31-1-7"
-     style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     transform="matrix(0.26458333,0,0,0.26458333,-373.8259,382.84712)"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"
-     inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
-       id="flowRegion15251-9-1-4-7-1"><rect
-         id="rect15253-9-6-9-2-1"
-         width="194.48183"
-         height="271.19379"
-         x="1448.1309"
-         y="-316.26535" /></flowRegion><flowPara
-       id="flowPara41396-7-5"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Use Case</flowPara><flowPara
-       id="flowPara41608-9"
-       style="font-size:8px;line-height:50%">Use the quiz and the learning game to get fa-miliar with the Design Cards and with argu-ments and principles of software design.</flowPara><flowPara
-       id="flowPara41639-7"
-       style="font-size:8px;line-height:50%" /><flowPara
-       id="flowPara41610-7"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Rules for 2+ Players</flowPara><flowPara
-       id="flowPara41614-7"
-       style="font-size:8px;line-height:50%">   1) Shuffle the cards.</flowPara><flowPara
-       id="flowPara41616-3"
-       style="font-size:8px;line-height:50%">   2) Take turns. When it’s your turn, one of the </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11198">       other players draws a card and reads the </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11200">       title to you.</flowPara><flowPara
-       id="flowPara41701"
-       style="font-size:8px;line-height:50%">   3) If you can correctly explain the card based </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11202">       on the title, you get a point.</flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11196">   4) If your answer is not correct the next player </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11204">       get’s a chance</flowPara><flowPara
-       id="flowPara41703"
-       style="font-size:8px;line-height:50%">   5) In any case read the card aloud. Then it's </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11206">       the next player’s turn—even if this person </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11208">       already got a point by explaning your card.</flowPara><flowPara
-       id="flowPara41637-3"
-       style="font-size:8px;line-height:50%">   6) The game ends after 5 rounds (adjust  </flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11210">       based on the time you want to spend). </flowPara><flowPara
-       id="flowPara41714"
-       style="font-size:8px;line-height:50%">   7) The player with the most points wins.</flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11212" /><flowPara
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
-       id="flowPara11214">More Game Ideas</flowPara><flowPara
-       style="font-size:8px;line-height:50%"
-       id="flowPara11216">There are alternative rules and more ideas for games online: <flowSpan
-   style="-inkscape-font-specification:'sans-serif Italic';font-family:sans-serif;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
-   id="flowSpan11218">design-types.net/cards</flowSpan></flowPara></flowRoot></svg>
+     transform="translate(-10.124984,-22.004)"
+     sodipodi:insensitive="true" />
+</svg>
