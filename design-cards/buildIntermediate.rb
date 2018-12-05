@@ -7,9 +7,10 @@ require 'rqrcode'
 class Card
     attr_accessor :abbreviation, :name, :short, :long, :links, :set, :shield
 
-    def initialize(params, config)
+    def initialize(params, config, index)
         params.each { |k,v| public_send("#{k}=",v) }
         @config = config
+        @index = index
     end
 
     def title
@@ -51,6 +52,14 @@ class Card
             return '24.1'
         end
     end
+
+    def index
+        if @index < 10 then
+            return "0" + @index.to_s
+        else
+            return @index.to_s
+        end
+    end
 end
 
 def readJson
@@ -75,7 +84,7 @@ def createCardSvg(card, colors)
 
     setQr doc, card, colors
 
-    File.write("intermediate/#{card.abbreviation}.svg", doc) 
+    File.write("intermediate/#{card.index}_#{card.abbreviation}.svg", doc) 
 end
 
 def setSingleLineText(doc, id, value)
@@ -135,7 +144,8 @@ def setQr(doc, card, colors)
 end
 
 config = readJson()
-config["cards"].each do |card|
-    createCardSvg Card.new(card, config), config['colors']
+config["cards"].each_index do |i|
+    card = config['cards'][i]
+    createCardSvg Card.new(card, config, i), config['colors']
 end
 
