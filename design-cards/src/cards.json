@@ -101,12 +101,48 @@
             "shield": "abstract"
         },
         {
+            "abbreviation": "SRP",
+            "name": "Single Responsibility Principle",
+            "short": "One module should do one thing only.",
+            "long": "If there is more than one reason to change a certain module (method/class/artifact/...), i.e. the module has more than one responsibility, then code becomes fragile. Changing one responsibility may result in involuntary changes to the other. Furthermore changing the module is more difficult and takes more time. And even when you don't change the module at all, understanding it is more complex. So better separate concerns into separate modules.",
+            "links": "↑PSU, ↑IOSP, ⇅LC, ⇅KISS",
+            "set": "advanced",
+            "shield": "abstract"
+        },
+        {
+            "abbreviation": "IOSP",
+            "name": "Integration Operation Segregation Principle",
+            "short": "A module should not contain API calls or business logic and integrate other modules.",
+            "long": "Either a module is an operation, i.e. it contains business logic and/or API calls or it is an inte-gration, i.e. it calls other modules. That means operations should never call other modules and integrations should have no business logic and no API calls. Operations are easy to read, test, and reuse. Integrations are also simple as they just call other modules. This ensures that mod-ules are small and the system is well structured.",
+            "links": "↑LC, ↑SRP, ⇅KISS, ⇅PSU",
+            "set": "advanced",
+            "shield": "abstract"
+        },
+        {
             "abbreviation": "DRY",
             "name": "Don't Repeat Yourself",
             "short": "Duplication makes changing the code cumbersome and leads to bugs.",
             "long": "Having a functionality more than once means to update or bugfix it at every occurrence which is more error-prone and more effort. Refactorings like method or class extraction may help as well as inheritance, polymorphism and some design patterns.",
             "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
             "set": "basic",
+            "shield": "concrete"
+        },
+        {
+            "abbreviation": "IH/E",
+            "name": "Information Hiding/Encapsulation",
+            "short": "Only what is hidden, can be changed without risk.",
+            "long": "There are 3 levels of IH/E: 1) Having a capsule means, that you have methods for accessing the data of the module. 2) Making the capsule opaque means that you can only access the data through the methods (i.e. all fields are private). 3) Making the capsule impenetrable means that you avoid returning references to mutable internal data structures. Either you make them immutable or you create copies in getter/setter methods.",
+            "links": "↑MP, ↑LC, ↑FP, ⇅ KISS",
+            "set": "advanced",
+            "shield": "concrete"
+        },
+        {
+            "abbreviation": "TdA/IE",
+            "name": "Tell don't Ask/Information Expert",
+            "short": "In OO design, objects should operate on their own data (and not on data of other objects).",
+            "long": "Instead of asking a module for data, processing it, and putting it back afterwards, better just delegate. This reduces complexity in those classes which are already large. So avoid get-ters and setters in favor of methods containing domain logic. In other words: Logic should be implemented in that module that already has the necessary data, that is the information expert.",
+            "links": "↑IH/E, ↓PSU, ⇅SRP, ⇅LC",
+            "set": "advanced",
             "shield": "concrete"
         },
         {
@@ -119,12 +155,30 @@
             "shield": "pragmatic"
         },
         {
+            "abbreviation": "ICC",
+            "name": "In the Concrete Case",
+            "short": "Your arguments are valid but in the concrete case the advantages won’t be important.",
+            "long": "Many arguments hold true in general but when we look at the decision to be made, the effects they describe are sometimes negligible. Yes, low coupling is important, uniformity is helpful, and flexibility is desirable. But these aspects are sometimes crucial and sometimes irrele-vant. So better focus on arguments that are rel-evant in the concrete case instead of insisting on aspects just to satisfy idealistic pettiness.",
+            "links": "↑CF, ↑YAGNI, ↓PoQ, ↓PSPG",
+            "set": "advanced",
+            "shield": "pragmatic"
+        },
+        {
             "abbreviation": "PoQ",
             "name": "Principle of Quality",
             "short": "Bad quality kills us in the long run!",
             "long": "It may be faster now but we need to be fast tomorrow, too. Bad quality frustrates maintainers, makes fixing bugs harder and leads to huge efforts for changes. This often starts by being careless once. Don't let a vicious circle begin. Use metrics, adhere to the architecture, have a high test coverage, apply code reviews and continuous refactoring. Don't be lazy.",
             "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
             "set": "basic",
+            "shield": "idealistic"
+        },
+        {
+            "abbreviation": "PSPG",
+            "name": "A Penny Saved Is a Penny Got",
+            "short": "It might not be a big advantage, but it's not a big cost either.",
+            "long": "Making little improvements a habit sums up to a big advantage. This is the reason behind the boy scout rule (“Leave the campground cleaner than you’ve found it”). You don’t have to clean the whole forest but if everyone leaves the campground just a little bit cleaner, we will have a clean forest in the end. So if it’s not a big deal, update libraries, improve documenta-tion, and refactor the classes you are currently touching anyway.",
+            "links": "↑PoQ, ↑EaO, ↑FRD, ↓CF",
+            "set": "advanced",
             "shield": "idealistic"
         },
         {
