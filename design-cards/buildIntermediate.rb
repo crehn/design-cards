@@ -53,11 +53,12 @@ class Card
         end
     end
 
-    def index
+    def filename
+        abbreviation = @abbreviation.gsub(/\//, '_')
         if @index < 10 then
-            return "0" + @index.to_s
+            return "0#{@index}_#{abbreviation}.svg"
         else
-            return @index.to_s
+            return "#{@index}_#{abbreviation}.svg"
         end
     end
 end
@@ -84,7 +85,7 @@ def createCardSvg(card, colors)
 
     setQr doc, card, colors
 
-    File.write("intermediate/#{card.index}_#{card.abbreviation}.svg", doc) 
+    File.write("intermediate/#{card.filename}", doc) 
 end
 
 def setSingleLineText(doc, id, value)
