@@ -83,12 +83,39 @@
             "shield": "simple"
         },
         {
+            "abbreviation": "EUHM",
+            "name": "Easy to Use and Hard to Misuse",
+            "short": "It shouldn't require much discipline or special knowledge to use or extend that module.",
+            "long": "Some day there will be a new colleague who hasn’t read the docs. Some day it will be Friday evening right before the deadline. No matter how disciplined or smart you are, some day somebody will cut corners. So better have the obvious way of usage be the correct one. Have the compiler or the unit tests fail in case of errors and keep sure that changing a module does not require much understanding.",
+            "links": "↑ML, ↑PSU, ↑UP, ⇅KISS",
+            "set": "advanced",
+            "shield": "simple"
+        },
+        {
             "abbreviation": "RoP",
             "name": "Rule of Power",
             "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
             "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
             "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
             "set": "basic",
+            "shield": "powerful"
+        },
+        {
+            "abbreviation": "NFR",
+            "name": "Non-Functional Requirements",
+            "short": "We have to think about NFRs now. Adding these qualities later will be very hard.",
+            "long": "Software needs to be efficient, scalable, secure, usable, maintainable, testable, resilient, reli-able, compliant with (data privacy) regulations, etc. These qualities have a huge impact on the architecture. You might need to choose certain technologies for performance, use microser-vices for scalability, or provide redundant sub-systems for reliability. Thinking about this later results in waste and additional cost/effort.",
+            "links": "↑ML, ↓YAGNI, ↓KISS, ⇅FP",
+            "set": "advanced",
+            "shield": "powerful"
+        },
+        {
+            "abbreviation": "ECV",
+            "name": "Encapsulate the Concept that Varies",
+            "short": "Changing parts of the software should get their own module or even their own abstraction.",
+            "long": "If you have to change your software, you’d like those changes to be isolated, so you don’t have to change half your system. So put the chang-ing parts into separate modules. Isolate chang-ing APIs via gateway classes, data access tech-nology using DAOs, encapsulate algorithms using the strategy pattern, etc. Conversely don’t use abstractions for those parts that won’t change.",
+            "links": "↑RoP, ↑IH/E, ↓YAGNI, ↓RoE",
+            "set": "advanced",
             "shield": "powerful"
         },
         {
@@ -200,12 +227,39 @@
             "shield": "robust"
         },
         {
+            "abbreviation": "RoS",
+            "name": "Rule of Standardization",
+            "short": "Adhering to standards makes systems easier to understand and reduces bugs.",
+            "long": "Sticking to standards reduces complexity. If you are familiar with the standard, understanding systems that adhere to it will be much easier. Also standards ensure a certain degree of inter-operability and maturity. So use standard tech-nologies, standard architectures, standard cod-ing styles, standard formatting, standardized checklists, etc. If there are no formal standards, create your own in-house standard.",
+            "links": "↑DRW, ↑NFR, ⇅KISS, ⇅TP",
+            "set": "advanced",
+            "shield": "robust"
+        },
+        {
             "abbreviation": "TP",
             "name": "Technological Progress",
             "short": "Progress must not be ignored in a competitive environment.",
             "long": "New technology is not only motivating but also comes with benefits like more features, more performance, better maintainability, and fixed bugs. Furthermore old technology won't be supported for much longer and new people don't know the old stuff anymore. Continuously challenge existing solutions by evaluating alternatives.",
             "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
             "set": "basic",
+            "shield": "technologic"
+        },
+        {
+            "abbreviation": "DRW",
+            "name": "Don't Re-Invent the Wheel",
+            "short": "Focus on real challenges instead of old ones.",
+            "long": "If something has already been solved, it's prob-ably solved in a better way than we will manage to do in the time we have. No one would ever reimplement a cache or a search algorithm ex-cept it is one's core competency. So focus on the challenges of your core business and use standards, libraries, and frameworks. They are the core business of those people who create and maintain them. They've solved many prob-lems that we haven't even thought of, yet.",
+            "links": "↑EbE, ↓LC, ⇅RoS, ⇅KISS",
+            "set": "advanced",
+            "shield": "technologic"
+        },
+        {
+            "abbreviation": "EbE",
+            "name": "Experience by Experiments",
+            "short": "We'll never know if we don't try!",
+            "long": "Discussing advantages and disadvantages theo-retically can be helpful but at a certain point you will never know which variant is better if you don’t try. So if you have a standard-solution to a problem, try the other one. Carefully but regularly try out new frameworks and libraries, new coding guidelines, design patterns etc. in real-world projects. Failed experiments will be refactored and successful experiments will stay and become the new standard.",
+            "links": "↑TP, ↓IR, ↓CF, ⇅FP",
+            "set": "advanced",
             "shield": "technologic"
         },
         {
@@ -224,6 +278,24 @@
             "long": "Sometimes a discussion gets stuck. In these cases it is often advisable to ask another colleague for an opinion or mediation. Usually a colleague who hasn't already participated in the discussion, adds a new, unbiased perspective.",
             "links": "",
             "set": "basic",
+            "shield": "action"
+        },
+        {
+            "abbreviation": "aRes",
+            "name": "Research",
+            "short": "Let’s have a look if there is already a suitable solution.",
+            "long": "When making a decision, make sure that you know all relevant solutions. Many problems have already been solved. So before inventing an own algorithm, have a look at libraries and scientific papers. For certain design decisions have a look at standards and patterns. Also con-sider researching code snippets for common programming issues. Maybe there is even commercial-off-the-shelf (COTS) or open-source software you can leverage.",
+            "links": "",
+            "set": "advanced",
+            "shield": "action"
+        },
+        {
+            "abbreviation": "aDA",
+            "name": "Devil’s Advocate",
+            "short": "There is no real discussion and we risk missing a point. Let's appoint a devil’s advocate.",
+            "long": "Sometimes you agree too fast on a solution—probably because you all have a similar way of thinking. In such a case you can appoint some-one who has to argue against that solution. A similar problem occurs when none of you has a strong tendency towards any of the solutions. In such a case, for each solution appoint a rep-resentative who tries to argument for this and against the other solutions.",
+            "links": "",
+            "set": "advanced",
             "shield": "action"
         },
         {
