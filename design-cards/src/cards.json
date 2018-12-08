@@ -61,6 +61,13 @@
             "title": "#000000",
             "qr": "#784421",
             "symbol": "!"
+        },
+        "joker": {
+            "background": "#4d4d4d",
+            "line": "#e6e6e6",
+            "title": "#e6e6e6",
+            "qr": "#e6e6e6",
+            "symbol": "todo"
         }
     },
     "cards": [
@@ -495,6 +502,15 @@
             "links": "",
             "set": "advanced",
             "shield": "action"
+        },
+        {
+            "abbreviation": "J",
+            "name": "Joker",
+            "short": "I don't have a card for this but let me explain.",
+            "long": "That's OK. Don't feel restricted in the arguments you use as long it's a valid one. Maybe you don't find the corresponding card fast enough, maybe the card is not in your deck or maybe there is no card for your argument. Never mind: If it's convincing, use it. Nevertheless, limit yourself to a single and graspable argument.",
+            "links": "",
+            "set": "basic",
+            "shield": "joker"
         }
     ]
 }
