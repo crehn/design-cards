@@ -427,10 +427,37 @@
         {
             "abbreviation": "aMed",
             "name": "Mediator",
-            "short": "We cannot agree.  Let's get some help!",
+            "short": "We cannot agree. Let's get some help!",
             "long": "Sometimes a discussion gets stuck. In these cases it is often advisable to ask another colleague for an opinion or mediation. Usually a colleague who hasn't already participated in the discussion, adds a new, unbiased perspective.",
             "links": "",
             "set": "basic",
+            "shield": "action"
+        },
+        {
+            "abbreviation": "aTD",
+            "name": "Team Decision",
+            "short": "The decision is too important to take alone. Let's have the whole team decide!",
+            "long": "Important decisions which affect many people like architectural decisions, big refactorings, and external APIs should be taken by the whole team. First, this typically results in better decisions. Second, the team will be much more committed to the decision. And third this fosters knowledge transfer.",
+            "links": "",
+            "set": "basic",
+            "shield": "action"
+        },
+        {
+            "abbreviation": "aFC",
+            "name": "Flip a Coin",
+            "short": "That's not worth the discussion!",
+            "long": "In some cases the difference between several solutions is negligible. Or both the solutions have their pros and cons without one being superior to the other. It is then better to just take the decision by flipping a coin than to waste time in a lengthy and pointless discussion.",
+            "links": "",
+            "set": "advanced",
+            "shield": "action"
+        },
+        {
+            "abbreviation": "aDaC",
+            "name": "Divide and Conquer",
+            "short": "Actually we are mixing up two aspects or two decisions. Let's discuss them separately.",
+            "long": "Design decisions get complicated or stuck if there is actually more than one decision to make. The discussion shifts from one topic to the other and back again. This gets even worse if nobody realizes that there is actually more than one problem.  Step back, find out which decisions or problems there are and discuss them separately.",
+            "links": "",
+            "set": "advanced",
             "shield": "action"
         },
         {
