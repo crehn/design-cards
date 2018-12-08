@@ -74,15 +74,6 @@
             "shield": "simple"
         },
         {
-            "abbreviation": "RoE",
-            "name": "Rule of Explicitness",
-            "short": "Explicit solutions are less error-prone and easier to understand and debug.",
-            "long": "Implicit solutions require the developer to have a deeper understanding of the module, as it is necessary to “read between the lines”. Explicit solutions are less error-prone and easier to maintain. So better avoid configurability, unnecessary abstractions and indirection (events, listeners, observers, etc.).",
-            "links": "↑KISS, ↓LC, ↓RoP, ⇅FP",
-            "set": "advanced",
-            "shield": "simple"
-        },
-        {
             "abbreviation": "YAGNI",
             "name": "You Ain't Gonna Need It",
             "short": "It's currently not necessary and we even have to maintain it!",
@@ -97,6 +88,15 @@
             "short": "It shouldn't require much discipline or special knowledge to use or extend that module.",
             "long": "Some day there will be a new colleague who hasn’t read the docs. Some day it will be Friday evening right before the deadline. No matter how disciplined or smart you are, some day somebody will cut corners. So better have the obvious way of usage be the correct one. Have the compiler or the unit tests fail in case of errors and keep sure that changing a module does not require much understanding.",
             "links": "↑ML, ↑PSU, ↑UP, ⇅KISS",
+            "set": "advanced",
+            "shield": "simple"
+        },
+        {
+            "abbreviation": "RoE",
+            "name": "Rule of Explicitness",
+            "short": "Explicit solutions are less error-prone and easier to understand and debug.",
+            "long": "Implicit solutions require the developer to have a deeper understanding of the module, as it is necessary to “read between the lines”. Explicit solutions are less error-prone and easier to maintain. So better avoid configurability, unnecessary abstractions and indirection (events, listeners, observers, etc.).",
+            "links": "↑KISS, ↓LC, ↓RoP, ⇅FP",
             "set": "advanced",
             "shield": "simple"
         },
@@ -353,19 +353,19 @@
             "shield": "technologic"
         },
         {
-            "abbreviation": "qTRT",
-            "name": "The Right Time",
-            "short": "What will happen if we don't decide right now?",
-            "long": "A design decision should be taken as late in the project as possible. But it's likewise harmful to take it too late. In order to find out if a decision really needs to be made now, think about what will happen, if the decision is deferred.",
+            "abbreviation": "qFoc",
+            "name": "Focus",
+            "short": "Are we still on the right track or have we lost focus?",
+            "long": "Discussions are weird sometimes. You start with the clear aim to decide whether solution A or B is better and end up with a discussion on something completely different. You easily get lost in side issues or you heavily argue on something unimportant (“bike-shedding”). So clarify the main topic of your discussion and keep the focus on it.",
             "links": "",
             "set": "basic",
             "shield": "question"
         },
         {
-            "abbreviation": "qFoc",
-            "name": "Focus",
-            "short": "Are we still on the right track or have we lost focus?",
-            "long": "Discussions are weird sometimes. You start with the clear aim to decide whether solution A or B is better and end up with a discussion on something completely different. You easily get lost in side issues or you heavily argue on something unimportant (“bike-shedding”). So clarify the main topic of your discussion and keep the focus on it.",
+            "abbreviation": "qTRT",
+            "name": "The Right Time",
+            "short": "What will happen if we don't decide right now?",
+            "long": "A design decision should be taken as late in the project as possible. But it's likewise harmful to take it too late. In order to find out if a decision really needs to be made now, think about what will happen, if the decision is deferred.",
             "links": "",
             "set": "basic",
             "shield": "question"
@@ -398,15 +398,6 @@
             "shield": "question"
         },
         {
-            "abbreviation": "qBSU",
-            "name": "Best Solution for the User",
-            "short": "Do we really address the real user's needs?",
-            "long": "Not in every case the person who specifies what to do is identical to the user of the system. Wrong interpretations or misunderstandings may lead to unsuitable solutions that do not satisfy the real user's needs. Every now and then you should ask yourself if you are still designing a system that really helps those who will eventually use it.",
-            "links": "",
-            "set": "advanced",
-            "shield": "question"
-        },
-        {
             "abbreviation": "qFS",
             "name": "From Scratch",
             "short": "What would be the “real solution” if we'd start from scratch?",
@@ -420,6 +411,15 @@
             "name": "Third Solution",
             "short": "Are we discussing all relevant possibilities?",
             "long": "Sometimes we argue heavily if solution A or B is better when in fact there is a third solution C that may be preferable. So regularly ask yourself (and your colleagues) whether there is a solution that needs to be discussed, too.",
+            "links": "",
+            "set": "advanced",
+            "shield": "question"
+        },
+        {
+            "abbreviation": "qBSU",
+            "name": "Best Solution for the User",
+            "short": "Do we really address the real user's needs?",
+            "long": "Not in every case the person who specifies what to do is identical to the user of the system. Wrong interpretations or misunderstandings may lead to unsuitable solutions that do not satisfy the real user's needs. Every now and then you should ask yourself if you are still designing a system that really helps those who will eventually use it.",
             "links": "",
             "set": "advanced",
             "shield": "question"
@@ -443,15 +443,6 @@
             "shield": "action"
         },
         {
-            "abbreviation": "aFC",
-            "name": "Flip a Coin",
-            "short": "That's not worth the discussion!",
-            "long": "In some cases the difference between several solutions is negligible. Or both the solutions have their pros and cons without one being superior to the other. It is then better to just take the decision by flipping a coin than to waste time in a lengthy and pointless discussion.",
-            "links": "",
-            "set": "advanced",
-            "shield": "action"
-        },
-        {
             "abbreviation": "aDaC",
             "name": "Divide and Conquer",
             "short": "Actually we are mixing up two aspects or two decisions. Let's discuss them separately.",
@@ -465,6 +456,15 @@
             "name": "Research",
             "short": "Let’s have a look if there is already a suitable solution.",
             "long": "When making a decision, make sure that you know all relevant solutions. Many problems have already been solved. So before inventing an own algorithm, have a look at libraries and scientific papers. For certain design decisions have a look at standards and patterns. Also con-sider researching code snippets for common programming issues. Maybe there is even commercial-off-the-shelf (COTS) or open-source software you can leverage.",
+            "links": "",
+            "set": "advanced",
+            "shield": "action"
+        },
+        {
+            "abbreviation": "aFC",
+            "name": "Flip a Coin",
+            "short": "That's not worth the discussion!",
+            "long": "In some cases the difference between several solutions is negligible. Or both the solutions have their pros and cons without one being superior to the other. It is then better to just take the decision by flipping a coin than to waste time in a lengthy and pointless discussion.",
             "links": "",
             "set": "advanced",
             "shield": "action"
