@@ -69,16 +69,25 @@
             "name": "Keep It Simple Stupid",
             "short": "Simple means readable, maintainable, and less error-prone. Overengineering is harmful.",
             "long": "Complex code typically contains more bugs and it has to be maintained (maybe even by other people). To others it may seem obscure which can lead to frustration and bad code quality. Striving for simplicity means to avoid having large methods/classes, many methods/classes/parameters, as well as inheritance, low-level optimization, complex algorithms, fancy (lan-guage) features, configurability, etc.",
-            "links": "↓RoP, ↑CF, ↓NFR, ⇅MP",
+            "links": "↑CF, ↓RoP, ↓NFR, ↓LC",
             "set": "basic",
+            "shield": "simple"
+        },
+        {
+            "abbreviation": "RoE",
+            "name": "Rule of Explicitness",
+            "short": "Explicit solutions are less error-prone and easier to understand and debug.",
+            "long": "Implicit solutions require the developer to have a deeper understanding of the module, as it is necessary to “read between the lines”. Explicit solutions are less error-prone and easier to maintain. So better avoid configurability, unnecessary abstractions and indirection (events, listeners, observers, etc.).",
+            "links": "↑KISS, ↓LC, ↓RoP, ⇅FP",
+            "set": "advanced",
             "shield": "simple"
         },
         {
             "abbreviation": "YAGNI",
             "name": "You Ain't Gonna Need It",
-            "short": "It's currently not necessary and you even have to maintain it!",
+            "short": "It's currently not necessary and we even have to maintain it!",
             "long": "Code needs to be maintained. The more you have, the more complexity there will be. Adding features and capabilities that are not used (yet), wastes time twice: When you write the code and when you change or just read it. This becomes even more painful when you finally try to re-move this dead code. So avoid runtime-configu-ration, premature optimization, and features that are only there “for the sake of complete-ness”. If they are needed, add them later.",
-            "links": "↓RoP, ↑CF, ↓NFR, ⇅MP",
+            "links": "↑CF, ↓PSPG, ↓TP, ⇅FP",
             "set": "advanced",
             "shield": "simple"
         },
@@ -96,8 +105,17 @@
             "name": "Rule of Power",
             "short": "Foresighted, generic solutions are reusable and future requirements will be addressed, too.",
             "long": "A powerful solution is better than a less potent one. Foresighted solutions reduce the necessity of refactoring and are more stable over time. Generic solutions often need less code and additionally offer extensibility by design. So better use abstractions, indirection, GoF patterns, polymorphism, etc.",
-            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "links": "↑FP, ↑DRY, ↓YAGNI, ↓CF",
             "set": "basic",
+            "shield": "powerful"
+        },
+        {
+            "abbreviation": "FP",
+            "name": "Flexibility Principle",
+            "short": "We have to make sure that we can change that later on.",
+            "long": "While it is often not necessary to implement a fully generic solution, in many cases it is important to be flexible. Even if a generic solution isn't implemented right away, it must still be possible to do so. E.g. if you don't want to implement runtime-configurability, at least have a constant ready to be made configurable. Make sure that the solution does not spoil or hinder future changes or enhancements.",
+            "links": "↑RoP, ↑LC, ↑ML, ↓ICC",
+            "set": "advanced",
             "shield": "powerful"
         },
         {
@@ -122,8 +140,8 @@
             "abbreviation": "LC",
             "name": "Low Coupling",
             "short": "Tight coupling creates ripple-effects and makes the code less maintainable.",
-            "long": "If you decouple, you don't need to know internal details about other parts of the system. Furthermore it makes you independent from changes in those other parts and maybe even supports reuse. So better use additional layers, indirection, dependency injection, observers, messaging, etc.",
-            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "long": "If you decouple, you don't need to know internal details about other parts of the system. Furthermore it makes you independent from changes in those other parts and maybe even supports reuse. So better reduce the number of dependencies and assumptions about other modules, use narrow interfaces, additional layers, indirection, dependency injection, observers, messaging, etc.",
+            "links": "↑FP, ↑ML, ↓KISS, ⇅SRP",
             "set": "basic",
             "shield": "abstract"
         },
@@ -133,6 +151,15 @@
             "short": "One module should do one thing only.",
             "long": "If there is more than one reason to change a certain module (method/class/artifact/...), i.e. the module has more than one responsibility, then code becomes fragile. Changing one responsibility may result in involuntary changes to the other. Furthermore changing the module is more difficult and takes more time. And even when you don't change the module at all, understanding it is more complex. So better separate concerns into separate modules.",
             "links": "↑PSU, ↑IOSP, ⇅LC, ⇅KISS",
+            "set": "advanced",
+            "shield": "abstract"
+        },
+        {
+            "abbreviation": "ADP",
+            "name": "Acyclic Dependencies Principle",
+            "short": "Cyclic dependencies create rigid structures.",
+            "long": "Cyclic dependencies result in all sorts of nasty consequences: tight couplings, deadlocks, infinite recursions, ripple effects, bad maintainability, etc. The larger the cycle, the worse the consequences will get and the harder they are to understand and to break apart. So avoid them by using dependency inversion, publish-subscribe mechanisms or just by assigning responsibilities to modules in a hierarchical way.",
+            "links": "↑LC, ↑ML, ↓RoE, ↓ICC",
             "set": "advanced",
             "shield": "abstract"
         },
@@ -150,7 +177,7 @@
             "name": "Don't Repeat Yourself",
             "short": "Duplication makes changing the code cumbersome and leads to bugs.",
             "long": "Having a functionality more than once means to update or bugfix it at every occurrence which is more error-prone and more effort. Refactorings like method or class extraction may help as well as inheritance, polymorphism and some design patterns.",
-            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "links": "↑RoP, ↑PoQ, ↓KISS, ↓PSU",
             "set": "basic",
             "shield": "concrete"
         },
@@ -164,9 +191,18 @@
             "shield": "concrete"
         },
         {
+            "abbreviation": "PSU",
+            "name": "Principle of Separate Understandability",
+            "short": "You shouldn't need to know the other parts for understanding this one.",
+            "long": "Each method, class, artifact, service, etc. should be understandable on its own. Understanding becomes a lot more difficult if you cannot apply divide and conquer. Furthermore if something is not separately understandable, this typically means either that a part of the functionality does not belong here or the module has the wrong abstraction.",
+            "links": "↑LC, ↑MP, ↑ML, ⇅TdA/IE",
+            "set": "advanced",
+            "shield": "concrete"
+        },
+        {
             "abbreviation": "TdA/IE",
             "name": "Tell don't Ask/Information Expert",
-            "short": "In OO design, objects should operate on their own data (and not on data of other objects).",
+            "short": "Functionality should be where the data is.",
             "long": "Instead of asking a module for data, processing it, and putting it back afterwards, better just delegate. This reduces complexity in those classes which are already large. So avoid get-ters and setters in favor of methods containing domain logic. In other words: Logic should be implemented in that module that already has the necessary data, that is the information expert.",
             "links": "↑IH/E, ↓PSU, ⇅SRP, ⇅LC",
             "set": "advanced",
@@ -197,6 +233,15 @@
             "long": "It may be faster now but we need to be fast tomorrow, too. Bad quality frustrates maintainers, makes fixing bugs harder and leads to huge efforts for changes. This often starts by being careless once. Don't let a vicious circle begin. Use metrics, adhere to the architecture, have a high test coverage, apply code reviews and continuous refactoring. Don't be lazy.",
             "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
             "set": "basic",
+            "shield": "idealistic"
+        },
+        {
+            "abbreviation": "MP",
+            "name": "Model Principle",
+            "short": "Program close to the problem domain.",
+            "long": "Software should model and mirror the concepts and actions of the real world. So avoid every-thing that works “accidentally”. If it works acci-dentally, it breaks accidentally. So be precise with semantics. If you need to delete an order in a data migration routine, call deleteOrder and not cancelOrder—even if that does current-ly the same. cancelOrder might get enhanced such that it creates a reverse order which would'n be correct for data migration anymore.",
+            "links": "↑PoQ, ↑EaO, ↑FRD, ↓CF",
+            "set": "advanced",
             "shield": "idealistic"
         },
         {
