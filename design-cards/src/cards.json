@@ -130,7 +130,7 @@
         {
             "abbreviation": "ECV",
             "name": "Encapsulate the Concept that Varies",
-            "short": "Changing parts of the software should get their own module or even their own abstraction.",
+            "short": "Changing parts of the software should get their own module or abstraction.",
             "long": "If you have to change your software, you’d like those changes to be isolated, so you don’t have to change half your system. So put the chang-ing parts into separate modules. Isolate chang-ing APIs via gateway classes, data access tech-nology using DAOs, encapsulate algorithms using the strategy pattern, etc. Conversely don’t use abstractions for those parts that won’t change.",
             "links": "↑RoP, ↑IH/E, ↓YAGNI, ↓RoE",
             "set": "advanced",
@@ -212,8 +212,8 @@
             "abbreviation": "CF",
             "name": "Customer Focus",
             "short": "This is not what the customer pays us for!",
-            "long": "If something is not requested, there has to be a very good reason to do it. Anything in addition costs additional time (also for removing or maintaining it). It creates additional risk of more bugs and makes you responsible for it. Continuously remember what was requested e.g. by looking into the requirements or asking the customer.",
-            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "long": "If something is not requested, there has to be a very good reason to do it. Anything in addition costs additional time (also for removing or maintaining it). It creates the additional risk of more bugs and makes you responsible for it. Continuously remember what was requested e.g. by looking into the requirements or asking the customer.",
+            "links": "↑EaO, ↑YAGNI, ↓PoQ, ⇅FP",
             "set": "basic",
             "shield": "pragmatic"
         },
@@ -227,12 +227,39 @@
             "shield": "pragmatic"
         },
         {
+            "abbreviation": "EaO",
+            "name": "Early and Often",
+            "short": "Going online soon means to get value and feedback soon.",
+            "long": "Business success is often built on being faster than competitors. Building mini- mum viable products and 80%-solutions facilitate a faster time to market. More- over the best feedback for improvement comes after a release and is rarely design- ed up front. So avoid perfectionism, re- lease early and often, and accept a certain amount of technical debt.",
+            "links": "↑FRD, ↑TP, ⇅PoQ, ⇅IR",
+            "set": "advanced",
+            "shield": "pragmatic"
+        },
+        {
+            "abbreviation": "UFT",
+            "name": "Use Familiar Technology",
+            "short": "Using well-known technology results in faster outcome and fewer time-consuming bugs.",
+            "long": "Well known technologies are easier to handle because you can focus on the job and you know all the pitfalls. If you use unfamiliar technology, you most likely won't do that well at first. This results in even more bugs and worse design. So better use those technologies that all (current and future) developers are most familiar with.",
+            "links": "↑UP, ↑IR, ↓TP, ⇅ML",
+            "set": "advanced",
+            "shield": "pragmatic"
+        },
+        {
             "abbreviation": "PoQ",
             "name": "Principle of Quality",
             "short": "Bad quality kills us in the long run!",
             "long": "It may be faster now but we need to be fast tomorrow, too. Bad quality frustrates maintainers, makes fixing bugs harder and leads to huge efforts for changes. This often starts by being careless once. Don't let a vicious circle begin. Use metrics, adhere to the architecture, have a high test coverage, apply code reviews and continuous refactoring. Don't be lazy.",
-            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "links": "↑LC, ↑ML, ↓CF, ⇅EaO",
             "set": "basic",
+            "shield": "idealistic"
+        },
+        {
+            "abbreviation": "UP",
+            "name": "Uniformity Principle",
+            "short": "Solve similar problems in the same way.",
+            "long": "Following UP reduces the number of different solutions. There are fewer concepts to learn, fewer problems to solve and fewer kinds of defects that can occur. So have a consistent structure, a consistent naming scheme and use the same mechanisms and libraries everywhere. Prefer using the same approaches and not just similar ones as subtle differences lead to bugs.",
+            "links": "↑ML, ↑RoS, ↓ICC, ⇅KISS",
+            "set": "advanced",
             "shield": "idealistic"
         },
         {
@@ -240,7 +267,7 @@
             "name": "Model Principle",
             "short": "Program close to the problem domain.",
             "long": "Software should model and mirror the concepts and actions of the real world. So avoid every-thing that works “accidentally”. If it works acci-dentally, it breaks accidentally. So be precise with semantics. If you need to delete an order in a data migration routine, call deleteOrder and not cancelOrder—even if that does current-ly the same. cancelOrder might get enhanced such that it creates a reverse order which would'n be correct for data migration anymore.",
-            "links": "↑PoQ, ↑EaO, ↑FRD, ↓CF",
+            "links": "↑ML, ↑TdA/IE, ⇅KISS, ⇅ADP",
             "set": "advanced",
             "shield": "idealistic"
         },
@@ -294,7 +321,7 @@
             "name": "Don't Re-Invent the Wheel",
             "short": "Focus on real challenges instead of old ones.",
             "long": "If something has already been solved, it's prob-ably solved in a better way than we will manage to do in the time we have. No one would ever reimplement a cache or a search algorithm ex-cept it is one's core competency. So focus on the challenges of your core business and use standards, libraries, and frameworks. They are the core business of those people who create and maintain them. They've solved many prob-lems that we haven't even thought of, yet.",
-            "links": "↑EbE, ↓LC, ⇅RoS, ⇅KISS",
+            "links": "↑EbE, ↓LC, ↓ICC, ⇅RoS",
             "set": "advanced",
             "shield": "technologic"
         },
