@@ -285,8 +285,17 @@
             "name": "Murphy's Law",
             "short": "Avoid possibilities for something to go wrong or to get misused.",
             "long": "If there is a possibility for something to be used in the wrong way (like supplying parameters in the wrong order), it will eventually happen. So better avoid possible future bugs by using defensive programming, immutability, a common naming scheme, avoiding duplication and complexity.",
-            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "links": "↑FF, ↑EUHM, ↓ICC, ⇅KISS",
             "set": "basic",
+            "shield": "robust"
+        },
+        {
+            "abbreviation": "IR",
+            "name": "Instability Risk",
+            "short": "Bleeding edge often leads to blood and pain.",
+            "long": "New technology often comes with teething problems. Using too unstable software, beta versions of libraries, or anything that hasn't stood the test of time is risky. There may be unknown bugs, nasty little quirks and compatibility issues no one has heard of, yet. This also means that if you encounter these problems you will be one of the first to face them.",
+            "links": "↑RoS, ↑UFT, ↓TP, ↓FRD",
+            "set": "advanced",
             "shield": "robust"
         },
         {
@@ -294,7 +303,7 @@
             "name": "Fail fast",
             "short": "Program defensively or you'll have a hard time debugging.",
             "long": "If you don't check your inputs, cascading fail-ures can occur. This results in security prob-lems and error messages which are hard to de-cipher because they are not thrown at the posi-tion of the actual fault. This may even lead to situations where teams have to investigate fail-ures which are not theirs. So log and throw an error as soon as you realize a problem. The earlier the better, so throwing a compile-time error is preferable to run-time checks.",
-            "links": "↑ML, ↑EUHM, ↓KISS, ↓NFR",
+            "links": "↑ML, ↑EUHM, ↓KISS, ⇅NFR",
             "set": "advanced",
             "shield": "robust"
         },
@@ -312,8 +321,17 @@
             "name": "Technological Progress",
             "short": "Progress must not be ignored in a competitive environment.",
             "long": "New technology is not only motivating but also comes with benefits like more features, more performance, better maintainability, and fixed bugs. Furthermore old technology won't be supported for much longer and new people don't know the old stuff anymore. Continuously challenge existing solutions by evaluating alternatives.",
-            "links": "↓KISS, ↑DRY, ↑FP, ↓RoE",
+            "links": "↑FRD, ↓IR, ↓UFT, ⇅RoS",
             "set": "basic",
+            "shield": "technologic"
+        },
+        {
+            "abbreviation": "FRD",
+            "name": "frequency Reduces Difficulty",
+            "short": "If it hurts, do it more often!",
+            "long": "Typically it's easier and less effort to go small steps continuously than to wait until there is a huge gap to bridge. The pain will be bigger the more you post- pone it – break the cycle and update to new versions, refactor regularly, merge and release early and often. Doing some- thing more often, leads to more practice and fewer mistakes.",
+            "links": "↑ML, ↑EaO, ↓IR, ↓ICC",
+            "set": "advanced",
             "shield": "technologic"
         },
         {
