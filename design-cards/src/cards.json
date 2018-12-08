@@ -82,8 +82,8 @@
         },
         {
             "abbreviation": "YAGNI",
-            "name": "You Ain't Gonna Need It",
-            "short": "It's currently not necessary and we even have to maintain it!",
+            "name": "You Ain’t Gonna Need It",
+            "short": "It’s currently not necessary and we even have to maintain it!",
             "long": "Code needs to be maintained. The more you have, the more complexity there will be. Adding features and capabilities that are not used (yet), wastes time twice: When you write the code and when you change or just read it. This becomes even more painful when you finally try to re-move this dead code. So avoid runtime-configu-ration, premature optimization, and features that are only there “for the sake of complete-ness”. If they are needed, add them later.",
             "links": "↑CF, ↓PSPG, ↓TP, ⇅FP",
             "set": "advanced",
@@ -92,7 +92,7 @@
         {
             "abbreviation": "EUHM",
             "name": "Easy to Use and Hard to Misuse",
-            "short": "It shouldn't require much discipline or special knowledge to use or extend that module.",
+            "short": "It shouldn’t require much discipline or special knowledge to use or extend that module.",
             "long": "Some day there will be a new colleague who hasn’t read the docs. Some day it will be Friday evening right before the deadline. No matter how disciplined or smart you are, some day somebody will cut corners. So better have the obvious way of usage be the correct one. Have the compiler or the unit tests fail in case of errors and keep sure that changing a module does not require much understanding.",
             "links": "↑ML, ↑PSU, ↑UP, ⇅KISS",
             "set": "advanced",
@@ -120,7 +120,7 @@
             "abbreviation": "FP",
             "name": "Flexibility Principle",
             "short": "We have to make sure that we can change that later on.",
-            "long": "While it is often not necessary to implement a fully generic solution, in many cases it is important to be flexible. Even if a generic solution isn't implemented right away, it must still be possible to do so. E.g. if you don't want to implement runtime-configurability, at least have a constant ready to be made configurable. Make sure that the solution does not spoil or hinder future changes or enhancements.",
+            "long": "While it is often not necessary to implement a fully generic solution, in many cases it is important to be flexible. Even if a generic solution isn’t implemented right away, it must still be possible to do so. E.g. if you don’t want to implement runtime-configurability, at least have a constant ready to be made configurable. Make sure that the solution does not spoil or hinder future changes or enhancements.",
             "links": "↑RoP, ↑LC, ↑ML, ↓ICC",
             "set": "advanced",
             "shield": "powerful"
@@ -147,7 +147,7 @@
             "abbreviation": "LC",
             "name": "Low Coupling",
             "short": "Tight coupling creates ripple-effects and makes the code less maintainable.",
-            "long": "If you decouple, you don't need to know internal details about other parts of the system. Furthermore it makes you independent from changes in those other parts and maybe even supports reuse. So better reduce the number of dependencies and assumptions about other modules, use narrow interfaces, additional layers, indirection, dependency injection, observers, messaging, etc.",
+            "long": "If you decouple, you don’t need to know internal details about other parts of the system. Furthermore it makes you independent from changes in those other parts and maybe even supports reuse. So better reduce the number of dependencies and assumptions about other modules, use narrow interfaces, additional layers, indirection, dependency injection, observers, messaging, etc.",
             "links": "↑FP, ↑ML, ↓KISS, ⇅SRP",
             "set": "basic",
             "shield": "abstract"
@@ -156,7 +156,7 @@
             "abbreviation": "SRP",
             "name": "Single Responsibility Principle",
             "short": "One module should do one thing only.",
-            "long": "If there is more than one reason to change a certain module (method/class/artifact/...), i.e. the module has more than one responsibility, then code becomes fragile. Changing one responsibility may result in involuntary changes to the other. Furthermore changing the module is more difficult and takes more time. And even when you don't change the module at all, understanding it is more complex. So better separate concerns into separate modules.",
+            "long": "If there is more than one reason to change a certain module (method/class/artifact/...), i.e. the module has more than one responsibility, then code becomes fragile. Changing one responsibility may result in involuntary changes to the other. Furthermore changing the module is more difficult and takes more time. And even when you don’t change the module at all, understanding it is more complex. So better separate concerns into separate modules.",
             "links": "↑PSU, ↑IOSP, ⇅LC, ⇅KISS",
             "set": "advanced",
             "shield": "abstract"
@@ -181,7 +181,7 @@
         },
         {
             "abbreviation": "DRY",
-            "name": "Don't Repeat Yourself",
+            "name": "Don’t Repeat Yourself",
             "short": "Duplication makes changing the code cumbersome and leads to bugs.",
             "long": "Having a functionality more than once means to update or bugfix it at every occurrence which is more error-prone and more effort. Refactorings like method or class extraction may help as well as inheritance, polymorphism and some design patterns.",
             "links": "↑RoP, ↑PoQ, ↓KISS, ↓PSU",
@@ -200,7 +200,7 @@
         {
             "abbreviation": "PSU",
             "name": "Principle of Separate Understandability",
-            "short": "You shouldn't need to know the other parts for understanding this one.",
+            "short": "You shouldn’t need to know the other parts for understanding this one.",
             "long": "Each method, class, artifact, service, etc. should be understandable on its own. Understanding becomes a lot more difficult if you cannot apply divide and conquer. Furthermore if something is not separately understandable, this typically means either that a part of the functionality does not belong here or the module has the wrong abstraction.",
             "links": "↑LC, ↑MP, ↑ML, ⇅TdA/IE",
             "set": "advanced",
@@ -208,7 +208,7 @@
         },
         {
             "abbreviation": "TdA/IE",
-            "name": "Tell don't Ask/Information Expert",
+            "name": "Tell don’t Ask/Information Expert",
             "short": "Functionality should be where the data is.",
             "long": "Instead of asking a module for data, processing it, and putting it back afterwards, better just delegate. This reduces complexity in those classes which are already large. So avoid get-ters and setters in favor of methods containing domain logic. In other words: Logic should be implemented in that module that already has the necessary data, that is the information expert.",
             "links": "↑IH/E, ↓PSU, ⇅SRP, ⇅LC",
@@ -246,7 +246,7 @@
             "abbreviation": "UFT",
             "name": "Use Familiar Technology",
             "short": "Using well-known technology results in faster outcome and fewer time-consuming bugs.",
-            "long": "Well known technologies are easier to handle because you can focus on the job and you know all the pitfalls. If you use unfamiliar technology, you most likely won't do that well at first. This results in even more bugs and worse design. So better use those technologies that all (current and future) developers are most familiar with.",
+            "long": "Well known technologies are easier to handle because you can focus on the job and you know all the pitfalls. If you use unfamiliar technology, you most likely won’t do that well at first. This results in even more bugs and worse design. So better use those technologies that all (current and future) developers are most familiar with.",
             "links": "↑UP, ↑IR, ↓TP, ⇅ML",
             "set": "advanced",
             "shield": "pragmatic"
@@ -255,7 +255,7 @@
             "abbreviation": "PoQ",
             "name": "Principle of Quality",
             "short": "Bad quality kills us in the long run!",
-            "long": "It may be faster now but we need to be fast tomorrow, too. Bad quality frustrates maintainers, makes fixing bugs harder and leads to huge efforts for changes. This often starts by being careless once. Don't let a vicious circle begin. Use metrics, adhere to the architecture, have a high test coverage, apply code reviews and continuous refactoring. Don't be lazy.",
+            "long": "It may be faster now but we need to be fast tomorrow, too. Bad quality frustrates maintainers, makes fixing bugs harder and leads to huge efforts for changes. This often starts by being careless once. Don’t let a vicious circle begin. Use metrics, adhere to the architecture, have a high test coverage, apply code reviews and continuous refactoring. Don’t be lazy.",
             "links": "↑LC, ↑ML, ↓CF, ⇅EaO",
             "set": "basic",
             "shield": "idealistic"
@@ -273,7 +273,7 @@
             "abbreviation": "MP",
             "name": "Model Principle",
             "short": "Program close to the problem domain.",
-            "long": "Software should model and mirror the concepts and actions of the real world. So avoid every-thing that works “accidentally”. If it works acci-dentally, it breaks accidentally. So be precise with semantics. If you need to delete an order in a data migration routine, call deleteOrder and not cancelOrder—even if that does current-ly the same. cancelOrder might get enhanced such that it creates a reverse order which would'n be correct for data migration anymore.",
+            "long": "Software should model and mirror the concepts and actions of the real world. So avoid every-thing that works “accidentally”. If it works acci-dentally, it breaks accidentally. So be precise with semantics. If you need to delete an order in a data migration routine, call deleteOrder and not cancelOrder—even if that does current-ly the same. cancelOrder might get enhanced such that it creates a reverse order which would’n be correct for data migration anymore.",
             "links": "↑ML, ↑TdA/IE, ⇅KISS, ⇅ADP",
             "set": "advanced",
             "shield": "idealistic"
@@ -281,7 +281,7 @@
         {
             "abbreviation": "PSPG",
             "name": "A Penny Saved Is a Penny Got",
-            "short": "It might not be a big advantage, but it's not a big cost either.",
+            "short": "It might not be a big advantage, but it’s not a big cost either.",
             "long": "Making little improvements a habit sums up to a big advantage. This is the reason behind the boy scout rule (“Leave the campground cleaner than you’ve found it”). You don’t have to clean the whole forest but if everyone leaves the campground just a little bit cleaner, we will have a clean forest in the end. So if it’s not a big deal, update libraries, improve documenta-tion, and refactor the classes you are currently touching anyway.",
             "links": "↑PoQ, ↑EaO, ↑FRD, ↓CF",
             "set": "advanced",
@@ -289,7 +289,7 @@
         },
         {
             "abbreviation": "ML",
-            "name": "Murphy's Law",
+            "name": "Murphy’s Law",
             "short": "Avoid possibilities for something to go wrong or to get misused.",
             "long": "If there is a possibility for something to be used in the wrong way (like supplying parameters in the wrong order), it will eventually happen. So better avoid possible future bugs by using defensive programming, immutability, a common naming scheme, avoiding duplication and complexity.",
             "links": "↑FF, ↑EUHM, ↓ICC, ⇅KISS",
@@ -300,7 +300,7 @@
             "abbreviation": "IR",
             "name": "Instability Risk",
             "short": "Bleeding edge often leads to blood and pain.",
-            "long": "New technology often comes with teething problems. Using too unstable software, beta versions of libraries, or anything that hasn't stood the test of time is risky. There may be unknown bugs, nasty little quirks and compatibility issues no one has heard of, yet. This also means that if you encounter these problems you will be one of the first to face them.",
+            "long": "New technology often comes with teething problems. Using too unstable software, beta versions of libraries, or anything that hasn’t stood the test of time is risky. There may be unknown bugs, nasty little quirks and compatibility issues no one has heard of, yet. This also means that if you encounter these problems you will be one of the first to face them.",
             "links": "↑RoS, ↑UFT, ↓TP, ↓FRD",
             "set": "advanced",
             "shield": "robust"
@@ -308,8 +308,8 @@
         {
             "abbreviation": "FF",
             "name": "Fail fast",
-            "short": "Program defensively or you'll have a hard time debugging.",
-            "long": "If you don't check your inputs, cascading fail-ures can occur. This results in security prob-lems and error messages which are hard to de-cipher because they are not thrown at the posi-tion of the actual fault. This may even lead to situations where teams have to investigate fail-ures which are not theirs. So log and throw an error as soon as you realize a problem. The earlier the better, so throwing a compile-time error is preferable to run-time checks.",
+            "short": "Program defensively or you’ll have a hard time debugging.",
+            "long": "If you don’t check your inputs, cascading fail-ures can occur. This results in security prob-lems and error messages which are hard to de-cipher because they are not thrown at the posi-tion of the actual fault. This may even lead to situations where teams have to investigate fail-ures which are not theirs. So log and throw an error as soon as you realize a problem. The earlier the better, so throwing a compile-time error is preferable to run-time checks.",
             "links": "↑ML, ↑EUHM, ↓KISS, ⇅NFR",
             "set": "advanced",
             "shield": "robust"
@@ -327,7 +327,7 @@
             "abbreviation": "TP",
             "name": "Technological Progress",
             "short": "Progress must not be ignored in a competitive environment.",
-            "long": "New technology is not only motivating but also comes with benefits like more features, more performance, better maintainability, and fixed bugs. Furthermore old technology won't be supported for much longer and new people don't know the old stuff anymore. Continuously challenge existing solutions by evaluating alternatives.",
+            "long": "New technology is not only motivating but also comes with benefits like more features, more performance, better maintainability, and fixed bugs. Furthermore old technology won’t be supported for much longer and new people don’t know the old stuff anymore. Continuously challenge existing solutions by evaluating alternatives.",
             "links": "↑FRD, ↓IR, ↓UFT, ⇅RoS",
             "set": "basic",
             "shield": "technologic"
@@ -336,16 +336,16 @@
             "abbreviation": "FRD",
             "name": "frequency Reduces Difficulty",
             "short": "If it hurts, do it more often!",
-            "long": "Typically it's easier and less effort to go small steps continuously than to wait until there is a huge gap to bridge. The pain will be bigger the more you post- pone it – break the cycle and update to new versions, refactor regularly, merge and release early and often. Doing some- thing more often, leads to more practice and fewer mistakes.",
+            "long": "Typically it’s easier and less effort to go small steps continuously than to wait until there is a huge gap to bridge. The pain will be bigger the more you post- pone it – break the cycle and update to new versions, refactor regularly, merge and release early and often. Doing some- thing more often, leads to more practice and fewer mistakes.",
             "links": "↑ML, ↑EaO, ↓IR, ↓ICC",
             "set": "advanced",
             "shield": "technologic"
         },
         {
             "abbreviation": "DRW",
-            "name": "Don't Re-Invent the Wheel",
+            "name": "Don’t Re-Invent the Wheel",
             "short": "Focus on real challenges instead of old ones.",
-            "long": "If something has already been solved, it's prob-ably solved in a better way than we will manage to do in the time we have. No one would ever reimplement a cache or a search algorithm ex-cept it is one's core competency. So focus on the challenges of your core business and use standards, libraries, and frameworks. They are the core business of those people who create and maintain them. They've solved many prob-lems that we haven't even thought of, yet.",
+            "long": "If something has already been solved, it’s prob-ably solved in a better way than we will manage to do in the time we have. No one would ever reimplement a cache or a search algorithm ex-cept it is one’s core competency. So focus on the challenges of your core business and use standards, libraries, and frameworks. They are the core business of those people who create and maintain them. They’ve solved many prob-lems that we haven’t even thought of, yet.",
             "links": "↑EbE, ↓LC, ↓ICC, ⇅RoS",
             "set": "advanced",
             "shield": "technologic"
@@ -353,7 +353,7 @@
         {
             "abbreviation": "EbE",
             "name": "Experience by Experiments",
-            "short": "We'll never know if we don't try!",
+            "short": "We’ll never know if we don’t try!",
             "long": "Discussing advantages and disadvantages theo-retically can be helpful but at a certain point you will never know which variant is better if you don’t try. So if you have a standard-solution to a problem, try the other one. Carefully but regularly try out new frameworks and libraries, new coding guidelines, architectural/design patterns etc. in real-world projects. Failed experiments will be refactored and successful experiments will stay and become the new standard.",
             "links": "↑TP, ↓IR, ↓CF, ⇅FP",
             "set": "advanced",
@@ -369,12 +369,21 @@
             "shield": "question"
         },
         {
-            "abbreviation": "qTRT",
-            "name": "The Right Time",
-            "short": "What will happen if we don't decide right now?",
-            "long": "A design decision should be taken as late in the project as possible. But it's likewise harmful to take it too late. In order to find out if a decision really needs to be made now, think about what will happen, if the decision is deferred.",
+            "abbreviation": "qTS",
+            "name": "Third Solution",
+            "short": "Are we discussing all relevant possibilities?",
+            "long": "Sometimes we argue heavily if solution A or B is better when in fact there is a third solution C that may be preferable. So regularly ask yourself (and your colleagues) whether there is a solution that needs to be discussed, too.",
             "links": "",
             "set": "basic",
+            "shield": "question"
+        },
+        {
+            "abbreviation": "qTRT",
+            "name": "The Right Time",
+            "short": "What will happen if we don’t decide right now?",
+            "long": "A design decision should be taken as late in the project as possible. But it’s likewise harmful to take it too late. In order to find out if a decision really needs to be made now, think about what will happen, if the decision is deferred.",
+            "links": "",
+            "set": "advanced",
             "shield": "question"
         },
         {
@@ -398,8 +407,8 @@
         {
             "abbreviation": "qMU",
             "name": "Mutual Understanding",
-            "short": "Do we really understand each other's points of view?",
-            "long": "Sometimes a discussion gets stuck because of misunderstandings or misinterpretations. Commonly that's because everyone is busy explaining their own point of view without trying to understand the other. If that's the case, it is necessary to realize that. Otherwise there will be no progress in the discussion.",
+            "short": "Do we really understand each other’s points of view?",
+            "long": "Sometimes a discussion gets stuck because of misunderstandings or misinterpretations. Commonly that’s because everyone is busy explaining their own point of view without trying to understand the other. If that’s the case, it is necessary to realize that. Otherwise there will be no progress in the discussion.",
             "links": "",
             "set": "advanced",
             "shield": "question"
@@ -407,17 +416,8 @@
         {
             "abbreviation": "qFS",
             "name": "From Scratch",
-            "short": "What would be the “real solution” if we'd start from scratch?",
-            "long": "Often the solutions we come up with are tied to the current state of the software. Our thinking is restricted such that we do not consider certain possibilities. In such cases it is helpful to neglect the circumstances of the current system for a moment - think outside the box. Even if the greenfield solution you then come up with is not directly applicable, it's often a starting point for an alternative.",
-            "links": "",
-            "set": "advanced",
-            "shield": "question"
-        },
-        {
-            "abbreviation": "qTS",
-            "name": "Third Solution",
-            "short": "Are we discussing all relevant possibilities?",
-            "long": "Sometimes we argue heavily if solution A or B is better when in fact there is a third solution C that may be preferable. So regularly ask yourself (and your colleagues) whether there is a solution that needs to be discussed, too.",
+            "short": "What would be the “real solution” if we’d start from scratch?",
+            "long": "Often the solutions we come up with are tied to the current state of the software. Our thinking is restricted such that we do not consider certain possibilities. In such cases it is helpful to neglect the circumstances of the current system for a moment - think outside the box. Even if the greenfield solution you then come up with is not directly applicable, it’s often a starting point for an alternative.",
             "links": "",
             "set": "advanced",
             "shield": "question"
@@ -425,8 +425,8 @@
         {
             "abbreviation": "qBSU",
             "name": "Best Solution for the User",
-            "short": "Do we really address the real user's needs?",
-            "long": "Not in every case the person who specifies what to do is identical to the user of the system. Wrong interpretations or misunderstandings may lead to unsuitable solutions that do not satisfy the real user's needs. Every now and then you should ask yourself if you are still designing a system that really helps those who will eventually use it.",
+            "short": "Do we really address the real user’s needs?",
+            "long": "Not in every case the person who specifies what to do is identical to the user of the system. Wrong interpretations or misunderstandings may lead to unsuitable solutions that do not satisfy the real user’s needs. Every now and then you should ask yourself if you are still designing a system that really helps those who will eventually use it.",
             "links": "",
             "set": "advanced",
             "shield": "question"
@@ -434,8 +434,8 @@
         {
             "abbreviation": "aMed",
             "name": "Mediator",
-            "short": "We cannot agree. Let's get some help!",
-            "long": "Sometimes a discussion gets stuck. In these cases it is often advisable to ask another colleague for an opinion or mediation. Usually a colleague who hasn't already participated in the discussion, adds a new, unbiased perspective.",
+            "short": "We cannot agree. Let’s get some help!",
+            "long": "Sometimes a discussion gets stuck. In these cases it is often advisable to ask another colleague for an opinion or mediation. Usually a colleague who hasn’t already participated in the discussion, adds a new, unbiased perspective.",
             "links": "",
             "set": "basic",
             "shield": "action"
@@ -443,7 +443,7 @@
         {
             "abbreviation": "aTD",
             "name": "Team Decision",
-            "short": "The decision is too important to take alone. Let's have the whole team decide!",
+            "short": "The decision is too important to take alone. Let’s have the whole team decide!",
             "long": "Important decisions which affect many people like architectural decisions, big refactorings, and external APIs should be taken by the whole team. First, this typically results in better decisions. Second, the team will be much more committed to the decision. And third this fosters knowledge transfer.",
             "links": "",
             "set": "basic",
@@ -452,7 +452,7 @@
         {
             "abbreviation": "aDaC",
             "name": "Divide and Conquer",
-            "short": "Actually we are mixing up two aspects or two decisions. Let's discuss them separately.",
+            "short": "Actually we are mixing up two aspects or two decisions. Let’s discuss them separately.",
             "long": "Design decisions get complicated or stuck if there is actually more than one decision to make. The discussion shifts from one topic to the other and back again. This gets even worse if nobody realizes that there is actually more than one problem.  Step back, find out which decisions or problems there are and discuss them separately.",
             "links": "",
             "set": "advanced",
@@ -470,7 +470,7 @@
         {
             "abbreviation": "aFC",
             "name": "Flip a Coin",
-            "short": "That's not worth the discussion!",
+            "short": "That’s not worth the discussion!",
             "long": "In some cases the difference between several solutions is negligible. Or both the solutions have their pros and cons without one being superior to the other. It is then better to just take the decision by flipping a coin than to waste time in a lengthy and pointless discussion.",
             "links": "",
             "set": "advanced",
@@ -479,7 +479,7 @@
         {
             "abbreviation": "aDA",
             "name": "Devil’s Advocate",
-            "short": "There is no real discussion and we risk missing a point. Let's appoint a devil’s advocate.",
+            "short": "There is no real discussion and we risk missing a point. Let’s appoint a devil’s advocate.",
             "long": "Sometimes you agree too fast on a solution—probably because you all have a similar way of thinking. In such a case you can appoint some-one who has to argue against that solution. A similar problem occurs when none of you has a strong tendency towards any of the solutions. In such a case, for each solution appoint a rep-resentative who tries to argument for this and against the other solutions.",
             "links": "",
             "set": "advanced",
@@ -498,7 +498,7 @@
             "abbreviation": "aCD",
             "name": "Client Decides",
             "short": "The client who calls the API knows best how the ideal API should look like.",
-            "long": "APIs need to be intuitive to those who use it and sometimes it's hard to predict if that's the case. Some decisions have an impact on how a module can be used. Some use cases may get simpler and others may get harder and less intuitive. Better stop assuming you know what's best for the clients. Just ask and involve them in your decision.",
+            "long": "APIs need to be intuitive to those who use it and sometimes it’s hard to predict if that’s the case. Some decisions have an impact on how a module can be used. Some use cases may get simpler and others may get harder and less intuitive. Better stop assuming you know what’s best for the clients. Just ask and involve them in your decision.",
             "links": "",
             "set": "advanced",
             "shield": "action"
