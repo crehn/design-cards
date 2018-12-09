@@ -75,7 +75,7 @@
             "abbreviation": "KISS",
             "name": "Keep It Simple Stupid",
             "short": "Simple means readable, maintainable, and less error-prone. Overengineering is harmful.",
-            "long": "Complex code typically contains more bugs and it has to be maintained (maybe even by other people). To others it may seem obscure which can lead to frustration and bad code quality. Striving for simplicity means to avoid having large methods/classes, many methods/classes/parameters, as well as inheritance, low-level optimization, complex algorithms, fancy (lan-guage) features, configurability, etc.",
+            "long": "Complex code typically contains more bugs and it has to be maintained (maybe even by other people). To others, it may seem obscure which can lead to frustration and bad code quality. Striving for simplicity means to avoid having large methods/classes, many methods/classes/parameters, as well as inheritance, low-level optimization, complex algorithms, fancy (lan-guage) features, configurability, etc.",
             "links": "↑CF, ↓RoP, ↓NFR, ↓LC",
             "set": "basic",
             "shield": "simple"
@@ -83,7 +83,7 @@
         {
             "abbreviation": "YAGNI",
             "name": "You Ain’t Gonna Need It",
-            "short": "It’s currently not necessary and we even have to maintain it!",
+            "short": "It’s currently not necessary, and we even have to maintain it!",
             "long": "Code needs to be maintained. The more you have, the more complexity there will be. Adding features and capabilities that are not used (yet), wastes time twice: When you write the code and when you change or just read it. This becomes even more painful when you finally try to re-move this dead code. So avoid runtime-configu-ration, premature optimization, and features that are only there “for the sake of complete-ness”. If they are needed, add them later.",
             "links": "↑CF, ↓PSPG, ↓TP, ⇅FP",
             "set": "advanced",
@@ -138,7 +138,7 @@
             "abbreviation": "ECV",
             "name": "Encapsulate the Concept that Varies",
             "short": "Changing parts of the software should get their own module or abstraction.",
-            "long": "If you have to change your software, you’d like those changes to be isolated, so you don’t have to change half your system. So put the chang-ing parts into separate modules. Isolate chang-ing APIs via gateway classes, data access tech-nology using DAOs, encapsulate algorithms using the strategy pattern, etc. Conversely don’t use abstractions for those parts that won’t change.",
+            "long": "If you have to change your software, you’d like those changes to be isolated, so you don’t have to change half your system. So put the chang-ing parts into separate modules. Isolate chang-ing APIs via gateway classes, data access tech-nology using DAOs, encapsulate algorithms using the strategy pattern, etc. Conversely, don’t use abstractions for those parts that won’t change.",
             "links": "↑RoP, ↑IH/E, ↓YAGNI, ↓RoE",
             "set": "advanced",
             "shield": "powerful"
@@ -147,7 +147,7 @@
             "abbreviation": "LC",
             "name": "Low Coupling",
             "short": "Tight coupling creates ripple-effects and makes the code less maintainable.",
-            "long": "If you decouple, you don’t need to know internal details about other parts of the system. Furthermore it makes you independent from changes in those other parts and maybe even supports reuse. So better reduce the number of dependencies and assumptions about other modules, use narrow interfaces, additional layers, indirection, dependency injection, observers, messaging, etc.",
+            "long": "If you decouple, you don’t need to know internal details about other parts of the system. Furthermore, it makes you independent of changes in those other parts and maybe it even enables reuse. So better reduce the number of dependencies and assumptions about other modules, use narrow interfaces, additional layers, indirection, dependency injection, observers, messaging, etc.",
             "links": "↑FP, ↑ML, ↓KISS, ⇅SRP",
             "set": "basic",
             "shield": "abstract"
@@ -156,7 +156,7 @@
             "abbreviation": "SRP",
             "name": "Single Responsibility Principle",
             "short": "One module should do one thing only.",
-            "long": "If there is more than one reason to change a certain module (method/class/artifact/...), i.e. the module has more than one responsibility, then code becomes fragile. Changing one responsibility may result in involuntary changes to the other. Furthermore changing the module is more difficult and takes more time. And even when you don’t change the module at all, understanding it is more complex. So better separate concerns into separate modules.",
+            "long": "If there is more than one reason to change a certain module (method/class/artifact/...), i.e. the module has more than one responsibility, then code becomes fragile. Changing one responsibility may result in involuntary changes to the other. Furthermore, changing the module is more difficult and takes more time. And even when you don’t change the module at all, understanding it is more complex. So better separate concerns into separate modules.",
             "links": "↑PSU, ↑IOSP, ⇅LC, ⇅KISS",
             "set": "advanced",
             "shield": "abstract"
@@ -165,7 +165,7 @@
             "abbreviation": "ADP",
             "name": "Acyclic Dependencies Principle",
             "short": "Cyclic dependencies create rigid structures.",
-            "long": "Cyclic dependencies result in all sorts of nasty consequences: tight couplings, deadlocks, infinite recursions, ripple effects, bad maintainability, etc. The larger the cycle, the worse the consequences will get and the harder they are to understand and to break apart. So avoid them by using dependency inversion, publish-subscribe mechanisms or just by assigning responsibilities to modules in a hierarchical way.",
+            "long": "Cyclic dependencies result in all sorts of nasty consequences: tight couplings, deadlocks, infinite recursions, ripple effects, bad maintainability, etc. The larger the cycle, the worse the consequences will get and the harder they are to understand and to break apart. So avoid them by using dependency inversion, publish-subscribe mechanisms or just by assigning responsibilities to modules hierarchically.",
             "links": "↑LC, ↑ML, ↓RoE, ↓ICC",
             "set": "advanced",
             "shield": "abstract"
@@ -174,7 +174,7 @@
             "abbreviation": "IOSP",
             "name": "Integration Operation Segregation Principle",
             "short": "A module should not contain API calls or business logic and integrate other modules.",
-            "long": "Either a module is an operation, i.e. it contains business logic and/or API calls or it is an inte-gration, i.e. it calls other modules. That means operations should never call other modules and integrations should have no business logic and no API calls. Operations are easy to read, test, and reuse. Integrations are also simple as they just call other modules. This ensures that mod-ules are small and the system is well structured.",
+            "long": "Either a module is an operation, i.e. it contains business logic and/or API calls or it is an inte-gration, i.e. it calls other modules. That means operations should never call other modules and integrations should have no business logic and no API calls. Operations are easy to read, test, and reuse. Integrations are also simple as they just call other modules. This ensures that mod-ules are small and the system is well-structured.",
             "links": "↑LC, ↑SRP, ⇅KISS, ⇅PSU",
             "set": "advanced",
             "shield": "abstract"
@@ -183,7 +183,7 @@
             "abbreviation": "DRY",
             "name": "Don’t Repeat Yourself",
             "short": "Duplication makes changing the code cumbersome and leads to bugs.",
-            "long": "Having a functionality more than once means to update or bugfix it at every occurrence which is more error-prone and more effort. Refactorings like method or class extraction may help as well as inheritance, polymorphism and some design patterns.",
+            "long": "Having a functionality more than once means to update or bug-fix it at every occurrence which is more error-prone and more effort. Refactorings like method or class extraction may help as well as inheritance, polymorphism and some design patterns.",
             "links": "↑RoP, ↑PoQ, ↓KISS, ↓PSU",
             "set": "basic",
             "shield": "concrete"
@@ -201,7 +201,7 @@
             "abbreviation": "PSU",
             "name": "Principle of Separate Understandability",
             "short": "You shouldn’t need to know the other parts for understanding this one.",
-            "long": "Each method, class, artifact, service, etc. should be understandable on its own. Understanding becomes a lot more difficult if you cannot apply divide and conquer. Furthermore if something is not separately understandable, this typically means either that a part of the functionality does not belong here or the module has the wrong abstraction.",
+            "long": "Each method, class, artifact, service, etc. should be understandable on its own. Understanding becomes a lot more difficult if you cannot apply divide and conquer. Furthermore, if something is not separately understandable, this typically means either that a part of the functionality does not belong here or the module has the wrong abstraction.",
             "links": "↑LC, ↑MP, ↑ML, ⇅TdA/IE",
             "set": "advanced",
             "shield": "concrete"
@@ -255,7 +255,7 @@
             "abbreviation": "PoQ",
             "name": "Principle of Quality",
             "short": "Bad quality kills us in the long run!",
-            "long": "It may be faster now but we need to be fast tomorrow, too. Bad quality frustrates maintainers, makes fixing bugs harder and leads to huge efforts for changes. This often starts by being careless once. Don’t let a vicious circle begin. Use metrics, adhere to the architecture, have a high test coverage, apply code reviews and continuous refactoring. Don’t be lazy.",
+            "long": "It may be faster now, but we need to be fast tomorrow, too. Bad quality frustrates maintainers, makes fixing bugs harder and leads to huge efforts for changes. This often starts by being careless once. Don’t let a vicious circle begin. Use metrics, adhere to the architecture, have a high test coverage, apply code reviews and continuous refactoring. Don’t be lazy.",
             "links": "↑LC, ↑ML, ↓CF, ⇅EaO",
             "set": "basic",
             "shield": "idealistic"
@@ -282,7 +282,7 @@
             "abbreviation": "PSPG",
             "name": "A Penny Saved Is a Penny Got",
             "short": "It might not be a big advantage, but it’s not a big cost either.",
-            "long": "Making little improvements a habit sums up to a big advantage. This is the reason behind the boy scout rule (“Leave the campground cleaner than you’ve found it”). You don’t have to clean the whole forest but if everyone leaves the campground just a little bit cleaner, we will have a clean forest in the end. So if it’s not a big deal, update libraries, improve documenta-tion, and refactor the classes you are currently touching anyway.",
+            "long": "Making little improvements a habit sums up to a big advantage. This is the reason behind the boy scout rule (“Leave the campground cleaner than you’ve found it”). You don’t have to clean the whole forest but if everyone leaves the campground just a little cleaner, we will have a clean forest in the end. So if it’s not a big deal, update libraries, improve documenta-tion, and refactor the classes you are currently touching anyway.",
             "links": "↑PoQ, ↑EaO, ↑FRD, ↓CF",
             "set": "advanced",
             "shield": "idealistic"
@@ -318,7 +318,7 @@
             "abbreviation": "RoS",
             "name": "Rule of Standardization",
             "short": "Adhering to standards makes systems easier to understand and reduces bugs.",
-            "long": "Sticking to standards reduces complexity. If you are familiar with the standard, understanding systems that adhere to it will be much easier. Also standards ensure a certain degree of inter-operability and maturity. So use standard tech-nologies, standard architectures, standard cod-ing styles, standard formatting, standardized checklists, etc. If there are no formal standards, create your own in-house standard.",
+            "long": "Sticking to standards reduces complexity. If you are familiar with the standard, understanding systems that adhere to it will be much easier. Also, standards ensure a certain degree of inter-operability and maturity. So use standard tech-nologies, standard architectures, standard cod-ing styles, standard formatting, standardized checklists, etc. If there are no formal standards, create your own in-house standard.",
             "links": "↑DRW, ↑NFR, ⇅KISS, ⇅TP",
             "set": "advanced",
             "shield": "robust"
@@ -327,16 +327,16 @@
             "abbreviation": "TP",
             "name": "Technological Progress",
             "short": "Progress must not be ignored in a competitive environment.",
-            "long": "New technology is not only motivating but also comes with benefits like more features, more performance, better maintainability, and fixed bugs. Furthermore old technology won’t be supported for much longer and new people don’t know the old stuff anymore. Continuously challenge existing solutions by evaluating alternatives.",
+            "long": "New technology is not only motivating but also comes with benefits like more features, more performance, better maintainability, and fixed bugs. Furthermore, old technology won’t be supported for much longer and new people don’t know the old stuff anymore. Continuously challenge existing solutions by evaluating alternatives.",
             "links": "↑FRD, ↓IR, ↓UFT, ⇅RoS",
             "set": "basic",
             "shield": "technologic"
         },
         {
             "abbreviation": "FRD",
-            "name": "frequency Reduces Difficulty",
+            "name": "Frequency Reduces Difficulty",
             "short": "If it hurts, do it more often!",
-            "long": "Typically it’s easier and less effort to go small steps continuously than to wait until there is a huge gap to bridge. The pain will be bigger the more you post- pone it – break the cycle and update to new versions, refactor regularly, merge and release early and often. Doing some- thing more often, leads to more practice and fewer mistakes.",
+            "long": "Typically, it’s easier and less effort to go small steps continuously than to wait until there is a huge gap to bridge. The pain will be bigger the more you post- pone it—break the cycle and update to new versions, refactor regularly, merge and release early and often. Doing some- thing more often, leads to more practice and fewer mistakes.",
             "links": "↑ML, ↑EaO, ↓IR, ↓ICC",
             "set": "advanced",
             "shield": "technologic"
@@ -390,7 +390,7 @@
             "abbreviation": "qSta",
             "name": "Stakeholders",
             "short": "Do we have the needs of all stakeholders in mind?",
-            "long": "Some decisions have influence on many stakeholders—some of which are often forgotten. Also think about QA, Ops, etc.",
+            "long": "Some decisions have influence on many stakeholders—some of which are often forgotten. Also, think about QA, Ops, etc.",
             "links": "",
             "set": "advanced",
             "shield": "question"
@@ -408,7 +408,7 @@
             "abbreviation": "qMU",
             "name": "Mutual Understanding",
             "short": "Do we really understand each other’s points of view?",
-            "long": "Sometimes a discussion gets stuck because of misunderstandings or misinterpretations. Commonly that’s because everyone is busy explaining their own point of view without trying to understand the other. If that’s the case, it is necessary to realize that. Otherwise there will be no progress in the discussion.",
+            "long": "Sometimes a discussion gets stuck because of misunderstandings or misinterpretations. Commonly that’s because everyone is busy explaining their own point of view without trying to understand the other. If that’s the case, it is necessary to realize that. Otherwise, there will be no progress in the discussion.",
             "links": "",
             "set": "advanced",
             "shield": "question"
@@ -417,7 +417,7 @@
             "abbreviation": "qFS",
             "name": "From Scratch",
             "short": "What would be the “real solution” if we’d start from scratch?",
-            "long": "Often the solutions we come up with are tied to the current state of the software. Our thinking is restricted such that we do not consider certain possibilities. In such cases it is helpful to neglect the circumstances of the current system for a moment - think outside the box. Even if the greenfield solution you then come up with is not directly applicable, it’s often a starting point for an alternative.",
+            "long": "Often the solutions we come up with are tied to the current state of the software. Our thinking is restricted such that we do not consider certain possibilities. In such cases it is helpful to neglect the circumstances of the current system for a moment—think outside the box. Even if the greenfield solution you then come up with is not directly applicable, it’s often a starting point for an alternative.",
             "links": "",
             "set": "advanced",
             "shield": "question"
@@ -426,7 +426,7 @@
             "abbreviation": "qBSU",
             "name": "Best Solution for the User",
             "short": "Do we really address the real user’s needs?",
-            "long": "Not in every case the person who specifies what to do is identical to the user of the system. Wrong interpretations or misunderstandings may lead to unsuitable solutions that do not satisfy the real user’s needs. Every now and then you should ask yourself if you are still designing a system that really helps those who will eventually use it.",
+            "long": "Not in every case the person who specifies what to do is identical to the user of the system. Wrong interpretations or misunderstandings may lead to unsuitable solutions that do not satisfy the real user’s needs. Every now and then, you should ask yourself if you are still designing a system that really helps those who will eventually use it.",
             "links": "",
             "set": "advanced",
             "shield": "question"
@@ -462,7 +462,7 @@
             "abbreviation": "aRes",
             "name": "Research",
             "short": "Let’s have a look if there is already a suitable solution.",
-            "long": "When making a decision, make sure that you know all relevant solutions. Many problems have already been solved. So before inventing an own algorithm, have a look at libraries and scientific papers. For certain design decisions have a look at standards and patterns. Also con-sider researching code snippets for common programming issues. Maybe there is even commercial-off-the-shelf (COTS) or open-source software you can leverage.",
+            "long": "When making a decision, make sure that you know all relevant solutions. Many problems have already been solved. So before inventing an own algorithm, have a look at libraries and scientific papers. For certain design decisions have a look at standards and patterns. Also, con-sider researching code snippets for common programming issues. Maybe there is even commercial-off-the-shelf (COTS) or open-source software you can leverage.",
             "links": "",
             "set": "advanced",
             "shield": "action"
@@ -479,7 +479,7 @@
         {
             "abbreviation": "aDA",
             "name": "Devil’s Advocate",
-            "short": "There is no real discussion and we risk missing a point. Let’s appoint a devil’s advocate.",
+            "short": "There is no real discussion, and we risk missing a point. Let’s appoint a devil’s advocate.",
             "long": "Sometimes you agree too fast on a solution—probably because you all have a similar way of thinking. In such a case you can appoint some-one who has to argue against that solution. A similar problem occurs when none of you has a strong tendency towards any of the solutions. In such a case, for each solution appoint a rep-resentative who tries to argument for this and against the other solutions.",
             "links": "",
             "set": "advanced",
@@ -488,7 +488,7 @@
         {
             "abbreviation": "aPO",
             "name": "Product Owner Decides",
-            "short": "This has a significant impact on the business so we have to talk with the product owner.",
+            "short": "This has a significant impact on the business, so we have to talk with the product owner.",
             "long": "Some technical decisions influence the product itself. Often there is an impact on cost and time and sometimes there are even legal issues. Trade-offs include hosting an application in the cloud (flexibility and time vs. privacy and cost), adding a caching layer (performance vs. com-plexity and cost), make-or-buy (time vs. flexibi-lity and cost), etc. In those cases the decision is not merely a technical one. Involve the PO.",
             "links": "",
             "set": "advanced",
