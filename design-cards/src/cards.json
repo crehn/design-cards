@@ -75,7 +75,7 @@
             "abbreviation": "KISS",
             "name": "Keep It Simple Stupid",
             "short": "Simple means readable, maintainable, and less error-prone. Overengineering is harmful.",
-            "long": "Complex code typically contains more bugs and it has to be maintained (maybe even by other people). To others, it may seem obscure which can lead to frustration and bad code quality. Striving for simplicity means to avoid having large methods/classes, many methods/classes/parameters, as well as inheritance, low-level optimization, complex algorithms, fancy (lan-guage) features, configurability, etc.",
+            "long": "Complex code contains more bugs and it has to be maintained (maybe even by other people). To others, it may seem obscure which can lead to frustration and bad code quality. Striving for simplicity means to avoid having large modules (methods/classes/...), many modules (methods/classes/...), as well as inheritance, low-level optimization, complex algorithms, fancy (lan-guage) features, configurability, etc.",
             "links": "↑CF, ↓RoP, ↓NFR, ↓LC",
             "set": "basic",
             "shield": "simple"
@@ -173,8 +173,8 @@
         {
             "abbreviation": "IOSP",
             "name": "Integration Operation Segregation Principle",
-            "short": "A module should not contain API calls or business logic and integrate other modules.",
-            "long": "Either a module is an operation, i.e. it contains business logic and/or API calls or it is an inte-gration, i.e. it calls other modules. That means operations should never call other modules and integrations should have no business logic and no API calls. Operations are easy to read, test, and reuse. Integrations are also simple as they just call other modules. This ensures that mod-ules are small and the system is well-structured.",
+            "short": "A module should either contain business logic or integrate other modules but not both.",
+            "long": "Either a module (method/class/...) is an opera-tion, i.e. it contains business logic and/or API calls or it is an integration, i.e. it calls other modules. That means operations should never call other modules and integrations should have no business logic and no API calls. Operations are easy to read, test, and reuse. And integra-tions just call other modules. This ensures that modules are small and systems well-structured.",
             "links": "↑LC, ↑SRP, ⇅KISS, ⇅PSU",
             "set": "advanced",
             "shield": "abstract"
@@ -201,7 +201,7 @@
             "abbreviation": "PSU",
             "name": "Principle of Separate Understandability",
             "short": "You shouldn’t need to know the other parts for understanding this one.",
-            "long": "Each method, class, artifact, service, etc. should be understandable on its own. Understanding becomes a lot more difficult if you cannot apply divide and conquer. Furthermore, if something is not separately understandable, this typically means either that a part of the functionality does not belong here or the module has the wrong abstraction.",
+            "long": "Each module (method/class/artifact/service/...) should be understandable on its own. Understanding becomes a lot more difficult if you cannot apply divide and conquer. Furthermore, if something is not separately understandable, this typically means either that a part of the functionality does not belong here or the module has the wrong abstraction.",
             "links": "↑LC, ↑MP, ↑ML, ⇅TdA/IE",
             "set": "advanced",
             "shield": "concrete"
@@ -210,7 +210,7 @@
             "abbreviation": "TdA/IE",
             "name": "Tell don’t Ask/Information Expert",
             "short": "Functionality should be where the data is.",
-            "long": "Instead of asking a module for data, processing it, and putting it back afterwards, better just delegate. This reduces complexity in those classes which are already large. So avoid get-ters and setters in favor of methods containing domain logic. In other words: Logic should be implemented in that module that already has the necessary data, that is the information expert.",
+            "long": "Instead of asking a module for data, processing it, and putting it back afterwards, better just delegate. This reduces complexity in those modules which are already large (and may even be-come god classes). So avoid getters and setters in favor of methods containing domain logic. In other words: Logic should be implemented in that module that already has the necessary data, that is the information expert.",
             "links": "↑IH/E, ↓PSU, ⇅SRP, ⇅LC",
             "set": "advanced",
             "shield": "concrete"
@@ -282,7 +282,7 @@
             "abbreviation": "PSPG",
             "name": "A Penny Saved Is a Penny Got",
             "short": "It might not be a big advantage, but it’s not a big cost either.",
-            "long": "Making little improvements a habit sums up to a big advantage. This is the reason behind the boy scout rule (“Leave the campground cleaner than you’ve found it”). You don’t have to clean the whole forest but if everyone leaves the campground just a little cleaner, we will have a clean forest in the end. So if it’s not a big deal, update libraries, improve documenta-tion, and refactor the classes you are currently touching anyway.",
+            "long": "Making little improvements a habit sums up to a big advantage. This is the reason behind the boy scout rule (“Leave the campground cleaner than you’ve found it”). You don’t have to clean the whole forest but if everyone leaves the campground just a little cleaner, we will have a clean forest in the end. So if it’s not a big deal, update libraries, improve documenta-tion, and refactor the modules you are currently touching anyway.",
             "links": "↑PoQ, ↑EaO, ↑FRD, ↓CF",
             "set": "advanced",
             "shield": "idealistic"
