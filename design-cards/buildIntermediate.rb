@@ -61,6 +61,11 @@ class Card
             return "#{@index}_#{abbreviation}.svg"
         end
     end
+
+    def qrLink
+        abbreviation = @abbreviation.gsub /\//, ''
+        return "http://design-types.net/c/#{abbreviation}"
+    end
 end
 
 def readJson
@@ -135,7 +140,7 @@ def setFont(doc, id, font, size)
 end
 
 def setQr(doc, card, colors)
-    qr = RQRCode::QRCode.new("http://design-types.net/c/#{card.abbreviation}", :size => 2, :level => :l)
+    qr = RQRCode::QRCode.new(card.qrLink, :size => 2, :level => :l)
     svg = Nokogiri::XML(qr.as_svg(color: colors[card.shield]['qr'][1..-1], module_size: 7))
     rects = svg.xpath("//*[@width=7]")
 

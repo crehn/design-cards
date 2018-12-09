@@ -820,7 +820,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="3.026417"
      inkscape:cx="116.90407"
-     inkscape:cy="183.93936"
+     inkscape:cy="210.37326"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1274,7 +1274,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.75352359px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="44.437904"
-       y="54.75642"
+       y="54.228848"
        id="text_abbreviation"
        inkscape:export-xdpi="300.11667"
        inkscape:export-ydpi="300.11667"
@@ -1282,8 +1282,8 @@
          sodipodi:role="line"
          id="abbreviation"
          x="44.437904"
-         y="54.75642"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.93611116px;font-family:'Metamorphous';-inkscape-font-specification:'Metamorphous';text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke-width:0.26458332px">EUHM</tspan></text>
+         y="54.228848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.93611145px;font-family:Metamorphous;-inkscape-font-specification:Metamorphous;text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke-width:0.26458332px">EUHM</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="text_short"
