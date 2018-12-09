@@ -1635,9 +1635,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.14"
-     inkscape:cx="134.94937"
-     inkscape:cy="-943.49347"
+     inkscape:zoom="1.5132085"
+     inkscape:cx="204.40571"
+     inkscape:cy="-1266.1101"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1817,26 +1817,25 @@
      id="layer3"
      inkscape:label="Background"
      style="display:inline;opacity:1"
-     transform="translate(-10.124984,-22.004)"
-     sodipodi:insensitive="true">
+     transform="translate(-10.124984,-22.004)">
     <path
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-ydpi="900"
+       inkscape:export-xdpi="900"
        sodipodi:nodetypes="ccccc"
        d="m 10.124984,117 69.6,-3.3e-4 V 22.004002 l -69.6,-2e-6 z"
        style="display:inline;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="background_colored"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1f_title.png" />
     <path
        inkscape:connector-curvature="0"
        id="background_black"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 73.611804,107.22807 c -4.96e-4,2.1048 -1.559782,3.67588 -3.651981,3.67536 l -50.218322,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.452317 c 1.53e-4,-2.104807 1.554493,-3.640926 3.646697,-3.640618 l 50.099481,0.0073 c 2.092199,3.09e-4 3.652477,1.519432 3.651981,3.624235 z M 10.124984,117 l 69.6,-3e-5 V 22.004002 l -69.6,-3e-6 z"
        sodipodi:nodetypes="sssssssssccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1f_title.png" />
     <text
        transform="scale(0.99698639,1.0030227)"
        xml:space="preserve"
@@ -1844,36 +1843,36 @@
        x="36.359043"
        y="112.75108"
        id="text_url"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1f_title.png"><tspan
          sodipodi:role="line"
          x="36.359043"
          y="112.75108"
          style="font-size:2.06514239px;line-height:100%;fill:#ffffff;stroke-width:0.26458332px"
          id="tspan11239">design-types.net</tspan></text>
     <path
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1b_imprint.png"
        inkscape:connector-curvature="0"
        id="path31401"
        style="display:inline;fill:#ddcfb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 79.724982,117 69.599998,-3.3e-4 V 22.004004 l -69.599998,-2e-6 z"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667" />
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
     <path
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1b_imprint.png"
+       inkscape:export-ydpi="900"
+       inkscape:export-xdpi="900"
        sodipodi:nodetypes="sssssssssccccc"
        d="m 143.2118,107.22807 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218321,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.452315 c 1.53e-4,-2.104807 1.554493,-3.640926 3.646697,-3.640618 l 50.099484,0.0073 c 2.0922,3.09e-4 3.65247,1.519432 3.65198,3.624235 z M 79.724982,117 l 69.599998,-3e-5 V 22.004004 l -69.599998,-3e-6 z"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path31403"
        inkscape:connector-curvature="0" />
     <text
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1b_imprint.png"
+       inkscape:export-ydpi="900"
+       inkscape:export-xdpi="900"
        id="text31407"
        y="112.75108"
        x="106.16942"
@@ -1886,23 +1885,23 @@
          x="106.16942"
          sodipodi:role="line">design-types.net</tspan></text>
     <path
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        sodipodi:nodetypes="ccccc"
        d="m 10.124984,211.996 69.599998,-3.3e-4 V 117 H 10.124984 Z"
        style="display:inline;fill:#ddcfb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path3228"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2f_dimensions.png" />
     <path
        inkscape:connector-curvature="0"
        id="path3230"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 73.611802,202.22407 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218321,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45232 c 1.53e-4,-2.1048 1.554493,-3.64092 3.646697,-3.64061 l 50.099484,0.007 c 2.0922,3e-4 3.65247,1.51943 3.65198,3.62423 z m -63.486818,9.77193 69.599998,-3e-5 V 117 H 10.124984 Z"
        sodipodi:nodetypes="sssssssssccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2f_dimensions.png" />
     <text
        transform="scale(0.9969864,1.0030227)"
        xml:space="preserve"
@@ -1910,36 +1909,36 @@
        x="36.359039"
        y="207.4608"
        id="text3234"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2f_dimensions.png"><tspan
          sodipodi:role="line"
          x="36.359039"
          y="207.4608"
          style="font-size:2.06514239px;line-height:100%;fill:#ffffff;stroke-width:0.26458332px"
          id="tspan3232">design-types.net</tspan></text>
     <path
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2b_principles.png"
        inkscape:connector-curvature="0"
        id="path3250"
        style="display:inline;fill:#ddcfb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 79.724982,211.99597 69.599998,-3.3e-4 V 116.99997 H 79.724982 Z"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667" />
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006" />
     <path
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2b_principles.png"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        sodipodi:nodetypes="sssssssssccccc"
        d="m 143.2118,202.22404 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218321,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45232 c 1.53e-4,-2.1048 1.554493,-3.64092 3.646697,-3.64061 l 50.099484,0.007 c 2.0922,3e-4 3.65247,1.51943 3.65198,3.62423 z m -63.486818,9.77193 69.599998,-3e-5 V 116.99997 H 79.724982 Z"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path3252"
        inkscape:connector-curvature="0" />
     <text
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2b_principles.png"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        id="text3256"
        y="207.46077"
        x="106.16942"
@@ -1952,27 +1951,27 @@
          x="106.16942"
          sodipodi:role="line">design-types.net</tspan></text>
     <path
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3f_discussion.png"
        inkscape:connector-curvature="0"
        id="path3272"
        style="display:inline;fill:#ddcfb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 10.124984,306.992 69.599998,-3.3e-4 V 211.996 H 10.124984 Z"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988" />
     <path
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3f_discussion.png"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        sodipodi:nodetypes="sssssssssccccc"
        d="m 73.611802,297.22007 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218321,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45232 c 1.53e-4,-2.1048 1.554493,-3.64092 3.646697,-3.64061 l 50.099484,0.007 c 2.0922,3e-4 3.65247,1.51943 3.65198,3.62423 z m -63.486818,9.77193 69.599998,-3e-5 V 211.996 H 10.124984 Z"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path3274"
        inkscape:connector-curvature="0" />
     <text
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3f_discussion.png"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        id="text3278"
        y="302.17053"
        x="36.359039"
@@ -1985,23 +1984,23 @@
          x="36.359039"
          sodipodi:role="line">design-types.net</tspan></text>
     <path
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        sodipodi:nodetypes="ccccc"
        d="m 79.724982,306.99197 69.599998,-3.3e-4 V 211.99597 H 79.724982 Z"
        style="display:inline;fill:#ddcfb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path3280"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3b_discussions.png" />
     <path
        inkscape:connector-curvature="0"
        id="path3282"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 143.2118,297.22004 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218321,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45232 c 1.53e-4,-2.1048 1.554493,-3.64092 3.646697,-3.64061 l 50.099484,0.007 c 2.0922,3e-4 3.65247,1.51943 3.65198,3.62423 z m -63.486818,9.77193 69.599998,-3e-5 V 211.99597 H 79.724982 Z"
        sodipodi:nodetypes="sssssssssccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3b_discussions.png" />
     <text
        transform="scale(0.9969864,1.0030227)"
        xml:space="preserve"
@@ -2009,32 +2008,32 @@
        x="106.16942"
        y="302.1705"
        id="text3286"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3b_discussions.png"><tspan
          sodipodi:role="line"
          x="106.16942"
          y="302.1705"
          style="font-size:2.06514239px;line-height:100%;fill:#ffffff;stroke-width:0.26458332px"
          id="tspan3284">design-types.net</tspan></text>
     <path
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        sodipodi:nodetypes="ccccc"
        d="m 10.124984,401.988 69.599998,-3.3e-4 V 306.992 H 10.124984 Z"
        style="display:inline;fill:#ddcfb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path3316"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4f_games.png" />
     <path
        inkscape:connector-curvature="0"
        id="path3318"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 73.611802,392.21607 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218318,-0.0125 c -2.09221,-5.3e-4 -3.51572,-1.57057 -3.51556,-3.67537 l 0.005,-75.45232 c 1.5e-4,-2.1048 1.55449,-3.64092 3.64669,-3.64061 l 50.099488,0.007 c 2.0922,3e-4 3.65247,1.51943 3.65198,3.62423 z m -63.486818,9.77193 69.599998,-3e-5 V 306.992 H 10.124984 Z"
        sodipodi:nodetypes="sssssssssccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4f_games.png" />
     <text
        transform="scale(0.9969864,1.0030227)"
        xml:space="preserve"
@@ -2042,36 +2041,36 @@
        x="36.359039"
        y="396.88025"
        id="text3322"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4f_games.png"><tspan
          sodipodi:role="line"
          x="36.359039"
          y="396.88025"
          style="font-size:2.06514239px;line-height:100%;fill:#ffffff;stroke-width:0.26458332px"
          id="tspan3320">design-types.net</tspan></text>
     <path
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4b_games.png"
        inkscape:connector-curvature="0"
        id="path3324"
        style="display:inline;fill:#ddcfb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 79.724982,401.988 69.599998,-3.3e-4 V 306.992 H 79.724982 Z"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667" />
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006" />
     <path
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4b_games.png"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        sodipodi:nodetypes="sssssssssccccc"
        d="m 143.2118,392.21607 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218318,-0.0125 c -2.09221,-5.3e-4 -3.51572,-1.57057 -3.51556,-3.67537 l 0.005,-75.45232 c 1.5e-4,-2.1048 1.55449,-3.64092 3.64669,-3.64061 l 50.099488,0.007 c 2.0922,3e-4 3.65247,1.51943 3.65198,3.62423 z m -63.486818,9.77193 69.599998,-3e-5 V 306.992 H 79.724982 Z"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path3326"
        inkscape:connector-curvature="0" />
     <text
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4b_games.png"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        id="text3330"
        y="396.88025"
        x="106.16942"
@@ -2084,27 +2083,27 @@
          x="106.16942"
          sodipodi:role="line">design-types.net</tspan></text>
     <path
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"
        inkscape:connector-curvature="0"
        id="path3360"
        style="display:inline;fill:#ddcfb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 10.124984,496.984 69.599998,-3.3e-4 V 401.988 H 10.124984 Z"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988" />
     <path
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        sodipodi:nodetypes="sssssssssccccc"
        d="m 73.611802,487.21207 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218321,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45232 c 1.53e-4,-2.1048 1.554493,-3.64092 3.646697,-3.64061 l 50.099484,0.007 c 2.0922,3e-4 3.65247,1.51943 3.65198,3.62423 z m -63.486818,9.77193 69.599998,-3e-5 V 401.988 H 10.124984 Z"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path3362"
        inkscape:connector-curvature="0" />
     <text
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        id="text3366"
        y="491.58997"
        x="36.359039"
@@ -2117,23 +2116,23 @@
          x="36.359039"
          sodipodi:role="line">design-types.net</tspan></text>
     <path
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        sodipodi:nodetypes="ccccc"
        d="m 79.724982,496.98397 69.599998,-3.3e-4 V 401.98797 H 79.724982 Z"
        style="display:inline;fill:#ddcfb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path3368"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5b_types.png" />
     <path
        inkscape:connector-curvature="0"
        id="path3370"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 143.2118,487.21204 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218321,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45232 c 1.53e-4,-2.1048 1.554493,-3.64092 3.646697,-3.64061 l 50.099484,0.007 c 2.0922,3e-4 3.65247,1.51943 3.65198,3.62423 z m -63.486818,9.77193 69.599998,-3e-5 V 401.98797 H 79.724982 Z"
        sodipodi:nodetypes="sssssssssccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5b_types.png" />
     <text
        transform="scale(0.9969864,1.0030227)"
        xml:space="preserve"
@@ -2141,9 +2140,9 @@
        x="106.16942"
        y="491.58994"
        id="text3374"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5b_types.png"><tspan
          sodipodi:role="line"
          x="106.16942"
          y="491.58994"
@@ -2155,14 +2154,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-10.124984,-22.004)"
-     sodipodi:insensitive="true">
+     transform="translate(-10.124984,-22.004)">
     <g
        id="g27719"
        transform="translate(84.749378,-18.566932)"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1f_title.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"
+       style="filter:url(#filter9321)">
       <g
          inkscape:export-ydpi="599.99988"
          inkscape:export-xdpi="599.99988"
@@ -4746,13 +4745,13 @@
       </g>
     </g>
     <flowRoot
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="900"
+       inkscape:export-xdpi="900"
        transform="matrix(0.26458333,0,0,0.26458333,-293.89073,177.03302)"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot15249"
        xml:space="preserve"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1b_imprint.png"><flowRegion
          id="flowRegion15251"><rect
            y="-316.26535"
            x="1448.1309"
@@ -4771,57 +4770,57 @@
          id="flowPara9455" /><flowPara
          style="font-size:8px;line-height:50%"
          id="flowPara15263" /></flowRoot>    <path
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="900"
+       inkscape:export-xdpi="900"
        inkscape:connector-curvature="0"
        id="path15295-6-9"
        d="M 85.754501,91.888226 H 117.57451"
        style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1b_imprint.png" />
     <text
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="900"
+       inkscape:export-xdpi="900"
        id="text15299-6-9"
        y="90.824135"
        x="89.272728"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1b_imprint.png"><tspan
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold Italic';stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="90.824135"
          x="89.272728"
          id="tspan15297-3-5"
          sodipodi:role="line">Imprint</tspan></text>
     <path
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="900"
+       inkscape:export-xdpi="900"
        inkscape:connector-curvature="0"
        id="path15295-6-9-2"
        d="M 85.767296,34.805207 H 117.5873"
        style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1b_imprint.png" />
     <text
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="900"
+       inkscape:export-xdpi="900"
        id="text15299-6-9-1"
        y="33.741219"
        x="89.285553"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1b_imprint.png"><tspan
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold Italic';stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="33.741219"
          x="89.285553"
          id="tspan15297-3-5-3"
          sodipodi:role="line">Design Cards</tspan></text>
     <flowRoot
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="900"
+       inkscape:export-xdpi="900"
        transform="matrix(0.26458333,0,0,0.26458333,-294.28847,119.91115)"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot15249-0"
        xml:space="preserve"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1b_imprint.png"><flowRegion
          id="flowRegion15251-9"><rect
            y="-316.26535"
            x="1448.1309"
@@ -4861,9 +4860,9 @@
        id="g19185"
        transform="matrix(0.07806892,0,0,0.07806892,124.46927,73.970136)"
        style="display:inline;opacity:1;stroke-width:3.47278357"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/1b_imprint.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900">
       <rect
          id="rect18231"
          height="8"
@@ -7075,18 +7074,18 @@
        d="m 16.224984,129.87205 h 31.82"
        id="path32124"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2f_dimensions.png" />
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="19.634975"
        y="128.80798"
        id="text32128"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2f_dimensions.png"><tspan
          sodipodi:role="line"
          id="tspan32126"
          x="19.634975"
@@ -7097,9 +7096,9 @@
        id="flowRoot15249-0-7-3"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.26458333,0,0,0.26458333,-363.76209,235.71958)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2f_dimensions.png"><flowRegion
          id="flowRegion15251-9-1-7"><rect
            id="rect15253-9-6-4"
            width="194.05458"
@@ -7166,18 +7165,18 @@
        d="M 85.754501,129.86306 H 117.57449"
        id="path32140"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2b_principles.png" />
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="89.272743"
        y="128.79907"
        id="text32144"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2b_principles.png"><tspan
          sodipodi:role="line"
          id="tspan32142"
          x="89.272743"
@@ -7188,9 +7187,9 @@
        id="flowRoot15249-0-7-3-3"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.26458333,0,0,0.26458333,-294.30384,214.10538)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2b_principles.png"><flowRegion
          id="flowRegion15251-9-1-7-6"><rect
            id="rect15253-9-6-4-7"
            width="193.39371"
@@ -7231,9 +7230,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66666698px;line-height:125%;font-family:Metamorphous;-inkscape-font-specification:Metamorphous;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot12949"
        xml:space="preserve"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><flowRegion
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2b_principles.png"
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"><flowRegion
          style="font-size:6.66666698px"
          id="flowRegion12951"><rect
            style="font-size:6.66666698px"
@@ -7249,9 +7248,9 @@
        id="g13033"
        style="display:inline;opacity:1"
        transform="translate(-42.411528,17.409159)"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2b_principles.png"
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006">
       <rect
          style="opacity:1;vector-effect:none;fill:url(#radialGradient12998);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect12988"
@@ -7349,22 +7348,22 @@
       </g>
     </g>
     <path
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        inkscape:connector-curvature="0"
        id="path32188"
        d="m 16.224984,224.87826 h 31.82"
        style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3f_discussion.png" />
     <text
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        id="text32192"
        y="223.81416"
        x="19.63497"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3f_discussion.png"><tspan
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold Italic';stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="223.81416"
          x="19.63497"
@@ -7375,9 +7374,9 @@
        id="flowRoot15249-0-7-31"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.26458333,0,0,0.26458333,-363.76209,310.11411)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3f_discussion.png"><flowRegion
          id="flowRegion15251-9-1-4"><rect
            id="rect15253-9-6-9"
            width="194.57861"
@@ -7440,22 +7439,22 @@
          style="font-size:8px;line-height:50%" /><flowPara
          id="flowPara41420"
          style="font-size:8px;line-height:50%" /></flowRoot>    <path
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        inkscape:connector-curvature="0"
        id="path32204"
        d="M 85.754501,224.87893 H 117.5745"
        style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3b_discussions.png" />
     <text
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        id="text32208"
        y="223.81494"
        x="89.272736"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3b_discussions.png"><tspan
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold Italic';stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="223.81494"
          x="89.272736"
@@ -7466,9 +7465,9 @@
        id="flowRoot15249-0-7-31-9"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.26458333,0,0,0.26458333,-294.15125,310.36363)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3b_discussions.png"><flowRegion
          id="flowRegion15251-9-1-4-4"><rect
            id="rect15253-9-6-9-8"
            width="193.06331"
@@ -7535,18 +7534,18 @@
        d="M 85.754501,250.52618 H 117.5745"
        id="path41965"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3b_discussions.png" />
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="89.272736"
        y="249.4623"
        id="text41969"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3b_discussions.png"><tspan
          sodipodi:role="line"
          id="tspan41967"
          x="89.272736"
@@ -7556,9 +7555,9 @@
        style="display:inline;opacity:1;stroke-width:3.40537024"
        transform="matrix(0.07961438,0,0,0.07961438,124.1254,281.87445)"
        id="g19185-1"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3b_discussions.png"
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988">
       <rect
          style="fill:#000000;stroke-width:3.40537024;shape-rendering:optimizeSpeed"
          x="0"
@@ -9774,9 +9773,9 @@
        height="21.487011"
        width="17.51272"
        style="display:inline;opacity:1;stroke-width:8.18857193"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5b_types.png" />
     <image
        y="462.3259"
        x="119.73946"
@@ -9786,18 +9785,18 @@
        height="21.487011"
        width="17.447453"
        style="display:inline;opacity:1;stroke-width:3.07840991"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5b_types.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.38367105px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="114.31495"
        y="486.72458"
        id="text15289"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5b_types.png"><tspan
          sodipodi:role="line"
          id="tspan15287"
          x="114.31495"
@@ -9808,18 +9807,18 @@
        d="M 85.761211,459.23349 H 117.58121"
        id="path15295"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5b_types.png" />
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="88.750244"
        y="458.1694"
        id="text15299"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5b_types.png"><tspan
          sodipodi:role="line"
          id="tspan15297"
          x="88.750244"
@@ -9830,18 +9829,18 @@
        d="M 85.754501,414.84647 H 117.5745"
        id="path15295-6"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5b_types.png" />
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="89.16449"
        y="413.78238"
        id="text15299-6"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5b_types.png"><tspan
          sodipodi:role="line"
          id="tspan15297-3"
          x="89.16449"
@@ -9852,9 +9851,9 @@
        id="flowRoot15378"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.26458333,0,0,0.26458333,-296.1141,444.47248)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5b_types.png"><flowRegion
          id="flowRegion15380"><rect
            id="rect15382"
            width="194.2502"
@@ -9870,9 +9869,9 @@
        transform="matrix(0.12863293,0,0,0.12863293,54.291704,432.20376)"
        style="display:inline;opacity:1;stroke-width:2.05688643"
        id="g13483-6"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5b_types.png"
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988">
       <g
          transform="matrix(3.7444255,0,0,3.768989,-566.179,-732.96802)"
          id="g6450-1-0-3-1-6-2"
@@ -10093,9 +10092,9 @@
        x="19.282915"
        y="477.80963"
        id="text9537-8-1-9-8-0"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"><tspan
          sodipodi:role="line"
          x="19.282915"
          y="477.80963"
@@ -10123,18 +10122,18 @@
        d="m 16.224984,414.85546 h 31.82"
        id="path15295-6-0"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png" />
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="19.635027"
        y="413.79135"
        id="text15299-6-0"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"><tspan
          sodipodi:role="line"
          id="tspan15297-3-2"
          x="19.635027"
@@ -10145,9 +10144,9 @@
        id="flowRoot15249-0-7"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.26458333,0,0,0.26458333,-363.81981,500.37434)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"><flowRegion
          id="flowRegion15251-9-1"><rect
            id="rect15253-9-6"
            width="193.11995"
@@ -10184,31 +10183,31 @@
        d="m 16.222084,458.44225 h 31.82"
        id="path15295-6-0-1"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png" />
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="19.632128"
        y="457.37808"
        id="text15299-6-0-6"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"><tspan
          sodipodi:role="line"
          id="tspan15297-3-2-8"
          x="19.632128"
          y="457.37808"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold Italic';stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Card Symbols</tspan></text>
     <flowRoot
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        transform="matrix(0.26458333,0,0,0.26458333,-363.76209,214.02361)"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot9617"
        xml:space="preserve"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/2f_dimensions.png"><flowRegion
          id="flowRegion9531"><rect
            y="-316.26535"
            x="1448.1309"
@@ -10248,9 +10247,9 @@
        transform="matrix(0.3300904,0,0,0.3300904,19.659659,393.69004)"
        style="display:inline;opacity:1"
        id="basic_set"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988">
       <path
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -10283,9 +10282,9 @@
        transform="matrix(0.33009041,0,0,0.33009041,20.558822,226.298)"
        style="display:inline;opacity:1"
        id="basic_set-3"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/3f_discussion.png"
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988">
       <path
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -10318,9 +10317,9 @@
        id="g11025"
        style="display:inline;opacity:1"
        transform="matrix(0.8667372,0,0,0.8667372,-55.930316,375.52326)"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988">
       <path
          inkscape:connector-curvature="0"
          id="path11019"
@@ -10353,9 +10352,9 @@
        transform="matrix(0.8667372,0,0,0.8667372,-56.017741,381.29328)"
        style="display:inline;opacity:1"
        id="g11039"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988">
       <path
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -10388,9 +10387,9 @@
        transform="matrix(0.8667372,0,0,0.8667372,-32.937643,375.52326)"
        style="display:inline;opacity:1"
        id="g11055"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988">
       <path
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -10425,9 +10424,9 @@
        x="19.293352"
        y="462.19553"
        id="text11071"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"><tspan
          sodipodi:role="line"
          x="19.293352"
          y="462.19553"
@@ -10443,37 +10442,37 @@
        x="30.370565"
        y="466.36777"
        id="text11071-3"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"><tspan
          sodipodi:role="line"
          x="30.370565"
          y="466.36777"
          style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
          id="tspan11069-5">basic</tspan></text>
     <text
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        id="text11099"
        y="472.13779"
        x="30.435678"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"><tspan
          id="tspan11097"
          style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
          y="472.13779"
          x="30.435678"
          sodipodi:role="line">extended</tspan></text>
     <text
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        id="text11103"
        y="466.36777"
        x="53.596798"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"><tspan
          id="tspan11101"
          style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
          y="466.36777"
@@ -10485,9 +10484,9 @@
        x="53.596798"
        y="472.07858"
        id="text11107"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"><tspan
          sodipodi:role="line"
          x="53.596798"
          y="472.07858"
@@ -10498,9 +10497,9 @@
        id="layer1-8-1"
        inkscape:label="Layer 1"
        style="display:inline;opacity:1;stroke-width:15.73919392"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/5f_deck.png"
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -10513,9 +10512,9 @@
        transform="matrix(0.33009041,0,0,0.33009041,24.875021,299.70047)"
        style="display:inline;opacity:1"
        id="basic_set-36"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4f_games.png"
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006">
       <path
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -10550,9 +10549,9 @@
        d="M 75.629512,297.78853 H 107.44951"
        id="path32252"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4b_games.png" />
     <text
        transform="translate(10.124984,22.004)"
        xml:space="preserve"
@@ -10560,9 +10559,9 @@
        x="79.039497"
        y="296.72443"
        id="text32256"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4b_games.png"><tspan
          sodipodi:role="line"
          id="tspan32254"
          x="79.039497"
@@ -10573,9 +10572,9 @@
        id="flowRoot15249-0-7-31-1"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.26458333,0,0,0.26458333,-294.54534,404.74284)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4b_games.png"><flowRegion
          id="flowRegion15251-9-1-4-7"><rect
            id="rect15253-9-6-9-2"
            width="194.28828"
@@ -10641,9 +10640,9 @@
        d="M 6.100004,297.32807 H 37.920002"
        id="path32268"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png" />
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4f_games.png" />
     <text
        transform="translate(10.124984,22.004)"
        xml:space="preserve"
@@ -10651,9 +10650,9 @@
        x="9.6182404"
        y="296.26407"
        id="text32272"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><tspan
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4f_games.png"><tspan
          sodipodi:role="line"
          id="tspan32270"
          x="9.6182404"
@@ -10664,9 +10663,9 @@
        id="flowRoot15249-0-7-31-1-7"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.26458333,0,0,0.26458333,-363.70092,403.79278)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"><flowRegion
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4f_games.png"><flowRegion
          id="flowRegion15251-9-1-4-7-1"><rect
            id="rect15253-9-6-9-2-1"
            width="194.48181"
@@ -10720,18 +10719,18 @@
          style="font-size:8px;line-height:50%"
          id="flowPara11216">   7) The player with the most points wins.</flowPara></flowRoot>    <path
        transform="translate(10.124984,22.004)"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4f_games.png"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        inkscape:connector-curvature="0"
        id="path4290"
        d="M 6.100004,332.25329 H 37.920002"
        style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        transform="translate(10.124984,22.004)"
-       inkscape:export-filename="/home/christian/Desktop/manual.png"
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/manual/4f_games.png"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        id="text4294"
        y="331.18961"
        x="9.6182404"
@@ -10747,7 +10746,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Helping Lines"
-     style="display:inline"
+     style="display:none"
      transform="translate(-10.124984,-22.004)"
      sodipodi:insensitive="true">
     <g
@@ -11039,7 +11038,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Cut Lines"
-     style="display:inline"
+     style="display:none"
      transform="translate(-10.124984,-22.004)"
      sodipodi:insensitive="true">
     <path
@@ -11227,7 +11226,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Cover"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      transform="translate(-10.124984,-22.004)"
      sodipodi:insensitive="true">
     <path

@@ -1767,9 +1767,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5132085"
-     inkscape:cx="245.05844"
-     inkscape:cy="-1564.7178"
+     inkscape:zoom="6.0528339"
+     inkscape:cx="146.24257"
+     inkscape:cy="-605.3822"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1946,27 +1946,27 @@
      style="display:inline;opacity:1"
      transform="translate(-10.124984,-22.004)">
     <path
-       inkscape:export-filename="/home/christian/Desktop/back.png"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/question.png"
        inkscape:connector-curvature="0"
        id="path13198"
        style="display:inline;fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 10.124982,496.98463 69.6,-3.3e-4 v -94.99566 l -69.6,-10e-6 z"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988" />
     <path
-       inkscape:export-filename="/home/christian/Desktop/back.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/question.png"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        sodipodi:nodetypes="sssssssssccccc"
        d="m 73.611802,487.2127 c -4.96e-4,2.1048 -1.559782,3.67588 -3.651981,3.67536 l -50.218322,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45231 c 1.53e-4,-2.10481 1.554493,-3.64093 3.646697,-3.64062 l 50.099481,0.007 c 2.092199,3.1e-4 3.652477,1.51943 3.651981,3.62423 z m -63.48682,9.77193 69.6,-3e-5 v -94.99596 l -69.6,-10e-6 z"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path13200"
        inkscape:connector-curvature="0" />
     <text
-       inkscape:export-filename="/home/christian/Desktop/back.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/question.png"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        id="text13204"
        y="491.59058"
        x="36.359043"
@@ -1979,23 +1979,23 @@
          x="36.359043"
          sodipodi:role="line">design-types.net</tspan></text>
     <path
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-ydpi="900.00049"
+       inkscape:export-xdpi="900.00049"
        sodipodi:nodetypes="ccccc"
        d="m 79.724982,496.9843 69.599998,-3.3e-4 v -94.99566 l -69.599998,-1e-5 z"
        style="display:inline;fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path13366"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/christian/Desktop/back.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/action.png" />
     <path
        inkscape:connector-curvature="0"
        id="path13368"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 143.2118,487.21237 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218321,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45231 c 1.53e-4,-2.10481 1.554493,-3.64093 3.646697,-3.64062 l 50.099484,0.007 c 2.0922,3.1e-4 3.65248,1.51943 3.65198,3.62423 z m -63.486818,9.77193 69.599998,-3e-5 v -94.99596 l -69.599998,-1e-5 z"
        sodipodi:nodetypes="sssssssssccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png" />
+       inkscape:export-xdpi="900.00049"
+       inkscape:export-ydpi="900.00049"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/action.png" />
     <text
        transform="scale(0.9969864,1.0030227)"
        xml:space="preserve"
@@ -2003,36 +2003,36 @@
        x="106.16943"
        y="491.59027"
        id="text13372"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png"><tspan
+       inkscape:export-xdpi="900.00049"
+       inkscape:export-ydpi="900.00049"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/action.png"><tspan
          sodipodi:role="line"
          x="106.16943"
          y="491.59027"
          style="font-size:2.06514239px;line-height:100%;fill:#ffffff;stroke-width:0.26458332px"
          id="tspan13370">design-types.net</tspan></text>
     <path
-       inkscape:export-filename="/home/christian/Desktop/back.png"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/technologic.png"
        inkscape:connector-curvature="0"
        id="path12938"
        style="display:inline;fill:#f0c873;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 79.724982,401.988 69.599998,-3.3e-4 v -94.99566 l -69.599998,-10e-6 z"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667" />
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006" />
     <path
-       inkscape:export-filename="/home/christian/Desktop/back.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/technologic.png"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        sodipodi:nodetypes="sssssssssccccc"
        d="m 143.2118,392.21607 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218321,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45231 c 1.53e-4,-2.10481 1.554493,-3.64093 3.646697,-3.64062 l 50.099484,0.007 c 2.0922,3.1e-4 3.65248,1.51943 3.65198,3.62423 z m -63.486818,9.77193 69.599998,-3e-5 v -94.99596 l -69.599998,-10e-6 z"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path12940"
        inkscape:connector-curvature="0" />
     <text
-       inkscape:export-filename="/home/christian/Desktop/back.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/technologic.png"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        id="text12944"
        y="396.88025"
        x="106.16943"
@@ -2045,23 +2045,23 @@
          x="106.16943"
          sodipodi:role="line">design-types.net</tspan></text>
     <path
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-ydpi="899.99976"
+       inkscape:export-xdpi="899.99976"
        sodipodi:nodetypes="ccccc"
        d="m 10.124982,401.98833 69.6,-3.3e-4 v -94.99566 l -69.6,-1e-5 z"
        style="display:inline;fill:#f0c873;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path12770"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/christian/Desktop/back.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/robust.png" />
     <path
        inkscape:connector-curvature="0"
        id="path12772"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 73.611802,392.2164 c -4.96e-4,2.1048 -1.559782,3.67588 -3.651981,3.67536 l -50.218322,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45231 c 1.53e-4,-2.10481 1.554493,-3.64093 3.646697,-3.64062 l 50.099481,0.007 c 2.092199,3.1e-4 3.652477,1.51943 3.651981,3.62423 z m -63.48682,9.77193 69.6,-3e-5 v -94.99596 l -69.6,-1e-5 z"
        sodipodi:nodetypes="sssssssssccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png" />
+       inkscape:export-xdpi="899.99976"
+       inkscape:export-ydpi="899.99976"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/robust.png" />
     <text
        transform="scale(0.9969864,1.0030227)"
        xml:space="preserve"
@@ -2069,36 +2069,36 @@
        x="36.359043"
        y="396.88055"
        id="text12776"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png"><tspan
+       inkscape:export-xdpi="899.99976"
+       inkscape:export-ydpi="899.99976"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/robust.png"><tspan
          sodipodi:role="line"
          x="36.359043"
          y="396.88055"
          style="font-size:2.06514239px;line-height:100%;fill:#ffffff;stroke-width:0.26458332px"
          id="tspan12774">design-types.net</tspan></text>
     <path
-       inkscape:export-filename="/home/christian/Desktop/back.png"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/pragmatic.png"
        inkscape:connector-curvature="0"
        id="path12342"
        style="display:inline;fill:#900000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 10.124982,306.99233 69.6,-3.3e-4 v -94.99566 l -69.6,-1e-5 z"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667" />
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006" />
     <path
-       inkscape:export-filename="/home/christian/Desktop/back.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/pragmatic.png"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        sodipodi:nodetypes="sssssssssccccc"
        d="m 73.611802,297.2204 c -4.96e-4,2.1048 -1.559782,3.67588 -3.651981,3.67536 l -50.218322,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45231 c 1.53e-4,-2.10481 1.554493,-3.64093 3.646697,-3.64062 l 50.099481,0.007 c 2.092199,3.1e-4 3.652477,1.51943 3.651981,3.62423 z m -63.48682,9.77193 69.6,-3e-5 v -94.99596 l -69.6,-1e-5 z"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path12344"
        inkscape:connector-curvature="0" />
     <text
-       inkscape:export-filename="/home/christian/Desktop/back.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/pragmatic.png"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        id="text12348"
        y="302.17084"
        x="36.359043"
@@ -2111,23 +2111,23 @@
          x="36.359043"
          sodipodi:role="line">design-types.net</tspan></text>
     <path
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        sodipodi:nodetypes="ccccc"
        d="m 79.724982,306.992 69.599998,-3.3e-4 v -94.99566 l -69.599998,-1e-5 z"
        style="display:inline;fill:#900000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path12510"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/christian/Desktop/back.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/idealistic.png" />
     <path
        inkscape:connector-curvature="0"
        id="path12512"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 143.2118,297.22007 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218321,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45231 c 1.53e-4,-2.10481 1.554493,-3.64093 3.646697,-3.64062 l 50.099484,0.007 c 2.0922,3.1e-4 3.65248,1.51943 3.65198,3.62423 z m -63.486818,9.77193 69.599998,-3e-5 v -94.99596 l -69.599998,-1e-5 z"
        sodipodi:nodetypes="sssssssssccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/idealistic.png" />
     <text
        transform="scale(0.9969864,1.0030227)"
        xml:space="preserve"
@@ -2135,36 +2135,36 @@
        x="106.16943"
        y="302.17053"
        id="text12516"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/idealistic.png"><tspan
          sodipodi:role="line"
          x="106.16943"
          y="302.17053"
          style="font-size:2.06514239px;line-height:100%;fill:#ffffff;stroke-width:0.26458332px"
          id="tspan12514">design-types.net</tspan></text>
     <path
-       inkscape:export-filename="/home/christian/Desktop/back.png"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/concrete.png"
        inkscape:connector-curvature="0"
        id="path12082"
        style="display:inline;fill:#162d50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 79.724982,211.996 69.599998,-3.3e-4 V 117.00001 L 79.724982,117 Z"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667" />
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006" />
     <path
-       inkscape:export-filename="/home/christian/Desktop/back.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/concrete.png"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        sodipodi:nodetypes="sssssssssccccc"
        d="m 143.2118,202.22407 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218321,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45231 c 1.53e-4,-2.10481 1.554493,-3.64093 3.646697,-3.64062 l 50.099484,0.007 c 2.0922,3.1e-4 3.65248,1.51943 3.65198,3.62423 z m -63.486818,9.77193 69.599998,-3e-5 V 117.00001 L 79.724982,117 Z"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path12084"
        inkscape:connector-curvature="0" />
     <text
-       inkscape:export-filename="/home/christian/Desktop/back.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/concrete.png"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-xdpi="900.00006"
        id="text12088"
        y="207.46082"
        x="106.16943"
@@ -2177,23 +2177,23 @@
          x="106.16943"
          sodipodi:role="line">design-types.net</tspan></text>
     <path
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-ydpi="900"
+       inkscape:export-xdpi="900"
        sodipodi:nodetypes="ccccc"
        d="m 10.124982,211.99633 69.6,-3.3e-4 v -94.99566 l -69.6,-10e-6 z"
        style="display:inline;fill:#162d50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path11914"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/christian/Desktop/back.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/abstract.png" />
     <path
        inkscape:connector-curvature="0"
        id="path11916"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 73.611802,202.2244 c -4.96e-4,2.1048 -1.559782,3.67588 -3.651981,3.67536 l -50.218322,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45231 c 1.53e-4,-2.10481 1.554493,-3.64093 3.646697,-3.64062 l 50.099481,0.007 c 2.092199,3.1e-4 3.652477,1.51943 3.651981,3.62423 z m -63.48682,9.77193 69.6,-3e-5 v -94.99596 l -69.6,-10e-6 z"
        sodipodi:nodetypes="sssssssssccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png" />
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/abstract.png" />
     <text
        transform="scale(0.9969864,1.0030227)"
        xml:space="preserve"
@@ -2201,32 +2201,32 @@
        x="36.359043"
        y="207.46114"
        id="text11920"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png"><tspan
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/abstract.png"><tspan
          sodipodi:role="line"
          x="36.359043"
          y="207.46114"
          style="font-size:2.06514239px;line-height:100%;fill:#ffffff;stroke-width:0.26458332px"
          id="tspan11918">design-types.net</tspan></text>
     <path
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-ydpi="900"
+       inkscape:export-xdpi="900"
        sodipodi:nodetypes="ccccc"
        d="m 79.724984,116.99967 69.599996,-3.3e-4 V 22.003672 l -69.599996,-2e-6 z"
        style="display:inline;fill:#003917;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path11700"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/christian/Desktop/back.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/powerful.png" />
     <path
        inkscape:connector-curvature="0"
        id="path11702"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 143.2118,107.22774 c -4.9e-4,2.1048 -1.55978,3.67588 -3.65198,3.67536 l -50.218319,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.452317 c 1.53e-4,-2.104807 1.554493,-3.640926 3.646697,-3.640618 l 50.099482,0.0073 c 2.0922,3.09e-4 3.65248,1.519432 3.65198,3.624235 z m -63.486816,9.77193 69.599996,-3e-5 V 22.003672 l -69.599996,-3e-6 z"
        sodipodi:nodetypes="sssssssssccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png" />
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/powerful.png" />
     <text
        transform="scale(0.9969864,1.0030227)"
        xml:space="preserve"
@@ -2234,27 +2234,27 @@
        x="106.16943"
        y="112.75076"
        id="text11706"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png"><tspan
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/powerful.png"><tspan
          sodipodi:role="line"
          x="106.16943"
          y="112.75076"
          style="font-size:2.06514239px;line-height:100%;fill:#ffffff;stroke-width:0.26458332px"
          id="tspan11704">design-types.net</tspan></text>
     <path
-       inkscape:export-filename="/home/christian/Desktop/back.png"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/simple.png"
        inkscape:connector-curvature="0"
        id="path11514"
        style="display:inline;fill:#003917;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 10.124984,116.9997 69.6,-3.3e-4 V 22.003702 l -69.6,-2e-6 z"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667" />
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
     <text
-       inkscape:export-filename="/home/christian/Desktop/back.png"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/simple.png"
+       inkscape:export-ydpi="900"
+       inkscape:export-xdpi="900"
        id="text11520"
        y="112.75079"
        x="36.359043"
@@ -2272,9 +2272,9 @@
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 73.611804,107.22777 c -4.96e-4,2.1048 -1.559782,3.67588 -3.651981,3.67536 l -50.218322,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.452317 c 1.53e-4,-2.104807 1.554493,-3.640926 3.646697,-3.640618 l 50.099481,0.0073 c 2.092199,3.09e-4 3.652477,1.519432 3.651981,3.624235 z m -63.48682,9.77193 69.6,-3e-5 V 22.003702 l -69.6,-3e-6 z"
        sodipodi:nodetypes="sssssssssccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png" />
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/simple.png" />
     <text
        transform="scale(0.9969864,1.0030227)"
        xml:space="preserve"
@@ -2282,32 +2282,32 @@
        x="36.359043"
        y="112.75079"
        id="text_url"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png"><tspan
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/simple.png"><tspan
          sodipodi:role="line"
          x="36.359043"
          y="112.75079"
          style="font-size:2.06514239px;line-height:100%;fill:#ffffff;stroke-width:0.26458332px"
          id="tspan11239">design-types.net</tspan></text>
     <path
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-xdpi="300.11667"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        sodipodi:nodetypes="ccccc"
        d="m 10.124982,591.98059 69.6,-3.3e-4 V 496.9846 l -69.6,-10e-6 z"
        style="display:inline;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        id="path21662"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/christian/Desktop/back.png" />
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/joker.png" />
     <path
        inkscape:connector-curvature="0"
        id="path21664"
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277781"
        d="m 73.611802,582.20866 c -4.96e-4,2.1048 -1.559782,3.67588 -3.651981,3.67536 l -50.218322,-0.0125 c -2.092205,-5.3e-4 -3.515712,-1.57057 -3.51556,-3.67537 l 0.0054,-75.45231 c 1.53e-4,-2.10481 1.554493,-3.64093 3.646697,-3.64062 l 50.099481,0.007 c 2.092199,3.1e-4 3.652477,1.51943 3.651981,3.62423 z m -63.48682,9.77193 69.6,-3e-5 V 496.9846 l -69.6,-10e-6 z"
        sodipodi:nodetypes="sssssssssccccc"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png" />
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/joker.png" />
     <text
        transform="scale(0.9969864,1.0030227)"
        xml:space="preserve"
@@ -2315,9 +2315,9 @@
        x="36.359043"
        y="586.30023"
        id="text21668"
-       inkscape:export-xdpi="300.11667"
-       inkscape:export-ydpi="300.11667"
-       inkscape:export-filename="/home/christian/Desktop/back.png"><tspan
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/joker.png"><tspan
          sodipodi:role="line"
          x="36.359043"
          y="586.30023"
@@ -2334,9 +2334,9 @@
        style="display:inline;opacity:1;filter:url(#filter9321)"
        transform="translate(-0.68020249,1.5928998)"
        id="g11596"
-       inkscape:export-filename="/home/christian/Desktop/back.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/simple.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900">
       <g
          transform="matrix(1.4031744,0,0,1.4123792,-341.83864,-239.48175)"
          id="g11562"
@@ -2547,9 +2547,9 @@
        transform="matrix(0.97271771,0,0,0.97909875,-131.28154,291.93323)"
        style="display:inline;opacity:1;stroke-width:1.02469194;filter:url(#filter30422)"
        id="g22070-3"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/back.png">
+       inkscape:export-xdpi="900.00049"
+       inkscape:export-ydpi="900.00049"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/action.png">
       <g
          transform="matrix(1.4425299,0,0,1.4425299,-145.60984,-153.03613)"
          id="g6450-1-4"
@@ -2745,13 +2745,16 @@
        transform="matrix(0.97271771,0,0,0.97909875,-131.28154,101.94093)"
        style="display:inline;opacity:1;stroke-width:1.02469194;filter:url(#filter9321)"
        id="g22070-7"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/back.png">
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/idealistic.png">
       <g
          transform="matrix(1.4425299,0,0,1.4425299,-145.60984,-153.03613)"
          id="g6450-1-43"
-         style="display:inline;opacity:1;stroke-width:0.71034366">
+         style="display:inline;opacity:1;stroke-width:0.71034366"
+         inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/idealistic.png"
+         inkscape:export-xdpi="899.99988"
+         inkscape:export-ydpi="899.99988">
         <path
            style="display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient16231);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            d="m 276.11924,200.51803 c -3.84601,2.23038 -7.76844,3.03353 -12.73514,3.12642 -0.6244,16.53413 3.34962,22.26308 8.73125,28.12749 1.45755,1.58831 3.22493,2.59949 4.00389,2.97191 0.77896,-0.37242 2.54634,-1.3836 4.00389,-2.97191 5.38163,-5.86441 9.35565,-11.59336 8.73125,-28.12749 -4.9667,-0.0929 -8.88913,-0.89604 -12.73514,-3.12642 z"
@@ -2883,7 +2886,10 @@
              id="g17817-5-6-6-3">
             <g
                style="stroke-width:0.86301357"
-               id="g17503-1-21-01-31">
+               id="g17503-1-21-01-31"
+               inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/idealistic.png"
+               inkscape:export-xdpi="899.99988"
+               inkscape:export-ydpi="899.99988">
               <path
                  id="path59-8-7-9-3-2-0-5"
                  d="m 4666.0509,3632.2399 c 0,0 -180,-283 -128,-405 52,-122 186,-260 125,-327 -61,-67 -247,-33 -406,37 -158,70 -167,412 -179,494 -7,45 -36,133 -26,185 9,42 44,56 132,56 198,0 330,-205 482,-40 z"
@@ -2919,17 +2925,25 @@
                xml:space="preserve"
                style="font-style:normal;font-weight:normal;font-size:325.33224487px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:13.28567219;stroke-miterlimit:4;stroke-dasharray:none"
                id="text23131-3-2-2-1-6-7-4"
-               transform="matrix(1,0,0,-1,866.01755,5371.9741)"><textPath
+               transform="matrix(1,0,0,-1,866.01755,5371.9741)"
+               inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/idealistic.png"
+               inkscape:export-xdpi="899.99988"
+               inkscape:export-ydpi="899.99988"><textPath
                  style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold';stroke:#ffffff;stroke-width:13.28567219;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  xlink:href="#path40776-0-3-4-3-1-7"
-                 id="textPath40778-0-3-0-1-1-6">    Idealistic</textPath></text>
+                 id="textPath40778-0-3-0-1-1-6"><tspan
+   style="font-size:124.9837265px"
+   id="tspan21815">          </tspan>Idealistic</textPath></text>
           </g>
         </g>
       </g>
       <g
          transform="matrix(0.24759164,0,0,0.24759164,139.50222,99.274915)"
          style="display:inline;fill-rule:evenodd;stroke-width:0.34817806"
-         id="g23049-2-9">
+         id="g23049-2-9"
+         inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/idealistic.png"
+         inkscape:export-xdpi="899.99988"
+         inkscape:export-ydpi="899.99988">
         <g
            transform="matrix(0.17227569,0,0,0.17227569,417.36834,187.35912)"
            inkscape:label="Layer 1"
@@ -2964,9 +2978,9 @@
        transform="matrix(0.97271771,0,0,0.97909875,-131.28154,196.93693)"
        style="display:inline;opacity:1;stroke-width:1.02469194;filter:url(#filter30422)"
        id="g22070-4"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/back.png">
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/technologic.png">
       <g
          transform="matrix(1.4425299,0,0,1.4425299,-145.60984,-153.03613)"
          id="g6450-1-05"
@@ -3669,9 +3683,9 @@
        transform="matrix(0.97271771,0,0,0.97909875,-200.88154,291.93356)"
        style="display:inline;opacity:1;stroke-width:1.02469194;filter:url(#filter30422)"
        id="g22070-2"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/back.png">
+       inkscape:export-xdpi="899.99988"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/question.png">
       <g
          transform="matrix(1.4425299,0,0,1.4425299,-145.60984,-153.03613)"
          id="g6450-1-42"
@@ -3876,9 +3890,9 @@
        transform="matrix(0.97271771,0,0,0.97909875,-131.28154,6.9449288)"
        style="display:inline;opacity:1;stroke-width:1.02469194;filter:url(#filter9321)"
        id="g22070-1-1"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/back.png">
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/concrete.png">
       <g
          transform="matrix(1.4425299,0,0,1.4425299,-145.60984,-153.03613)"
          id="g6450-1-0-2"
@@ -4053,7 +4067,9 @@
                transform="matrix(1,0,0,-1,866.01755,5371.9741)"><textPath
                  style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold';stroke:#ffffff;stroke-width:13.28567219;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  xlink:href="#path40776-0-3-4-3-1-3-38"
-                 id="textPath40778-0-3-0-1-1-2-2">   Concrete</textPath></text>
+                 id="textPath40778-0-3-0-1-1-2-2"><tspan
+   style="font-size:124.9837265px"
+   id="tspan21811">         </tspan>Concrete</textPath></text>
           </g>
         </g>
       </g>
@@ -4591,9 +4607,9 @@
        transform="matrix(0.97271771,0,0,0.97909875,-200.88154,101.94126)"
        style="display:inline;opacity:1;stroke-width:1.02469194;filter:url(#filter9321)"
        id="g22070-7-87"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/back.png">
+       inkscape:export-xdpi="900.00006"
+       inkscape:export-ydpi="900.00006"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/pragmatic.png">
       <g
          transform="matrix(1.4425299,0,0,1.4425299,-145.60984,-153.03613)"
          id="g6450-1-43-1"
@@ -4770,7 +4786,9 @@
                y="0"><textPath
                  style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold';text-align:start;text-anchor:start;stroke:#ffffff;stroke-width:13.28567219;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  xlink:href="#path40776-0-3-4-3-1-7-2"
-                 id="textPath40778-0-3-0-1-1-6-2">   Pragmatic</textPath></text>
+                 id="textPath40778-0-3-0-1-1-6-2"><tspan
+   style="font-size:124.9837265px"
+   id="tspan21819">       </tspan>Pragmatic</textPath></text>
           </g>
         </g>
       </g>
@@ -4939,9 +4957,9 @@
        transform="matrix(0.97271771,0,0,0.97909875,-200.88154,196.93726)"
        style="display:inline;opacity:1;stroke-width:1.02469194;filter:url(#filter30422)"
        id="g22070-4-5"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/back.png">
+       inkscape:export-xdpi="899.99976"
+       inkscape:export-ydpi="899.99976"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/robust.png">
       <g
          transform="matrix(1.4425299,0,0,1.4425299,-145.60984,-153.03613)"
          id="g6450-1-05-7"
@@ -5116,7 +5134,9 @@
                transform="matrix(1,0,0,-1,866.01755,5371.9741)"><textPath
                  style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:'Metamorphous Bold';stroke:#ffffff;stroke-width:13.28567219;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  xlink:href="#path40776-0-3-4-3-1-5-22"
-                 id="textPath40778-0-3-0-1-1-5-8">     Robust</textPath></text>
+                 id="textPath40778-0-3-0-1-1-5-8"><tspan
+   style="font-size:124.9837265px"
+   id="tspan21817">              </tspan>Robust</textPath></text>
           </g>
         </g>
       </g>
@@ -5142,9 +5162,9 @@
        transform="translate(-917.02917,78.20469)"
        style="display:inline;filter:url(#filter9321)"
        id="g19482-9"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/back.png">
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/powerful.png">
       <g
          transform="matrix(1.4031744,0,0,1.4123792,644.11033,-316.09357)"
          id="g6450-1-8"
@@ -5353,9 +5373,9 @@
        transform="matrix(0.97271771,0,0,0.97909875,-200.88154,6.9452588)"
        style="display:inline;stroke-width:1.02469194;filter:url(#filter9321)"
        id="g22070-1"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/christian/Desktop/back.png">
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/abstract.png">
       <g
          transform="matrix(1.4425299,0,0,1.4425299,-145.60984,-153.03613)"
          id="g6450-1-0"
@@ -5691,9 +5711,9 @@
       </g>
     </g>
     <g
-       inkscape:export-filename="/home/christian/Desktop/back.png"
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/christian/workspace/design-cards/design-cards/out/back/joker.png"
+       inkscape:export-ydpi="899.99988"
+       inkscape:export-xdpi="899.99988"
        id="g21742"
        style="display:inline;opacity:1;stroke-width:1.02469194;filter:url(#filter9321)"
        transform="matrix(0.97271771,0,0,0.97909875,-200.88154,386.92952)">
@@ -5935,8 +5955,9 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Helping Lines"
-     style="display:inline"
-     transform="translate(-10.124984,-22.004)">
+     style="display:none"
+     transform="translate(-10.124984,-22.004)"
+     sodipodi:insensitive="true">
     <g
        transform="matrix(0.34315318,0,0,-0.34523081,63.58944,111.00783)"
        id="outer_helping_ling"
@@ -6254,8 +6275,9 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Cut Lines"
-     style="display:inline"
-     transform="translate(-10.124984,-22.004)">
+     style="display:none"
+     transform="translate(-10.124984,-22.004)"
+     sodipodi:insensitive="true">
     <path
        d="m 72.886487,25.000832 -56.008007,0.05513 c -2.092199,0.0021 -3.700712,1.692302 -3.700712,3.797169 v 81.363949 c 0,2.10487 1.608512,3.73074 3.700712,3.73074 h 56.008007 c 2.09221,0 3.78841,-1.62587 3.78841,-3.73074 V 28.815126 c 0,-2.104867 -1.696201,-3.816353 -3.78841,-3.814294 z"
        style="display:inline;fill:none;stroke:#808080;stroke-width:0.09999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.19999998, 1.19999998;stroke-dashoffset:0;stroke-opacity:1"
@@ -6349,8 +6371,9 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Cover"
-     style="display:inline;opacity:1"
-     transform="translate(-10.124984,-22.004)">
+     style="display:none;opacity:1"
+     transform="translate(-10.124984,-22.004)"
+     sodipodi:insensitive="true">
     <path
        d="m 76.673907,110.20555 c -2.4e-4,2.10488 -1.696206,3.74523 -3.788411,3.74523 l -55.923939,-10e-6 c -2.092205,0 -3.817902,-1.64826 -3.817144,-3.75313 l 0.02931,-81.354022 c 7.59e-4,-2.104873 1.601122,-3.791389 3.693327,-3.791327 l 56.010175,0.0017 c 2.092205,6.2e-5 3.80619,1.680669 3.805951,3.785543 z m -66.548923,6.79415 69.600002,-5e-5 -2e-6,-94.995948 h -69.6 z"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
