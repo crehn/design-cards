@@ -103,7 +103,7 @@
             "name": "Rule of Explicitness",
             "short": "Explicit solutions are less error-prone and easier to understand and debug.",
             "long": "Implicit solutions require the developer to have a deeper understanding of the module, as it is necessary to “read between the lines”. Explicit solutions are less error-prone and easier to maintain. So better avoid configurability, unnecessary abstractions and indirection (events, listeners, observers, etc.).",
-            "links": "↑KISS, ↓LC, ↓RoP, ⇅FP",
+            "links": "↑KISS, ↓RoP, ↓LC, ⇅FP",
             "set": "advanced",
             "shield": "simple"
         },
@@ -200,7 +200,7 @@
         {
             "abbreviation": "PSU",
             "name": "Principle of Separate Understandability",
-            "short": "You shouldn’t need to know the other parts for understanding this one.",
+            "short": "You shouldn’t need to know other parts for understanding this one.",
             "long": "Each module (method/class/artifact/service/...) should be understandable on its own. Understanding becomes a lot more difficult if you cannot apply divide and conquer. Furthermore, if something is not separately understandable, this typically means either that a part of the functionality does not belong here or the module has the wrong abstraction.",
             "links": "↑LC, ↑MP, ↑ML, ⇅TdA/IE",
             "set": "advanced",
