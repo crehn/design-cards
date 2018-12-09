@@ -147,7 +147,7 @@
             "abbreviation": "LC",
             "name": "Low Coupling",
             "short": "Tight coupling creates ripple-effects and makes the code less maintainable.",
-            "long": "If you decouple, you don’t need to know internal details about other parts of the system. Furthermore, it makes you independent of changes in those other parts and maybe it even enables reuse. So better reduce the number of dependencies and assumptions about other modules, use narrow interfaces, additional layers, indirection, dependency injection, observers, messaging, etc.",
+            "long": "If you decouple, you don’t need to know internal details about other parts of the system. Furthermore, it makes you independent of changes in those other parts and it even enables reuse. So better reduce the number of dependencies and assumptions about other modules, use narrow interfaces, additional layers, indirection, dependency injection, observers, messaging, etc.",
             "links": "↑FP, ↑ML, ↓KISS, ⇅SRP",
             "set": "basic",
             "shield": "abstract"
@@ -174,7 +174,7 @@
             "abbreviation": "IOSP",
             "name": "Integration Operation Segregation Principle",
             "short": "A module should either contain business logic or integrate other modules but not both.",
-            "long": "Either a module (method/class/...) is an opera-tion, i.e. it contains business logic and/or API calls or it is an integration, i.e. it calls other modules. That means operations should never call other modules and integrations should have no business logic and no API calls. Operations are easy to read, test, and reuse. And integra-tions just call other modules. This ensures that modules are small and systems well-structured.",
+            "long": "Either a module (method/class/...) is an opera-tion, i.e. it contains business logic and/or API calls or it is an integration, i.e. it calls other modules. That means operations should never call other modules and integrations should have no business logic and no API calls. Operations are easy to read, test, and reuse. And integra-tions are very simple, too. This ensures that modules are small and systems well-structured.",
             "links": "↑LC, ↑SRP, ⇅KISS, ⇅PSU",
             "set": "advanced",
             "shield": "abstract"
@@ -183,7 +183,7 @@
             "abbreviation": "DRY",
             "name": "Don’t Repeat Yourself",
             "short": "Duplication makes changing the code cumbersome and leads to bugs.",
-            "long": "Having a functionality more than once means to update or bug-fix it at every occurrence which is more error-prone and more effort. Refactorings like method or class extraction may help as well as inheritance, polymorphism and some design patterns.",
+            "long": "Having a functionality more than once means to update or bug-fix it at every occurrence which is more error-prone and more effort. Refactor-ings like method or class extraction may help as well as inheritance, higher-order functions, polymorphism, and some design patterns.",
             "links": "↑RoP, ↑PoQ, ↓KISS, ↓PSU",
             "set": "basic",
             "shield": "concrete"
@@ -255,7 +255,7 @@
             "abbreviation": "PoQ",
             "name": "Principle of Quality",
             "short": "Bad quality kills us in the long run!",
-            "long": "It may be faster now, but we need to be fast tomorrow, too. Bad quality frustrates maintainers, makes fixing bugs harder and leads to huge efforts for changes. This often starts by being careless once. Don’t let a vicious circle begin. Use metrics, adhere to the architecture, have a high test coverage, apply code reviews and continuous refactoring. Don’t be lazy.",
+            "long": "It may be faster now, but we need to be fast tomorrow, too. Bad quality frustrates maintain-ers, makes fixing bugs harder and leads to huge efforts for changes. This often starts by being careless once. Don’t let a vicious circle begin. Use metrics, adhere to the architecture, have a high test coverage, apply code reviews and re-factor continuously. Don’t be lazy.",
             "links": "↑LC, ↑ML, ↓CF, ⇅EaO",
             "set": "basic",
             "shield": "idealistic"
@@ -273,7 +273,7 @@
             "abbreviation": "MP",
             "name": "Model Principle",
             "short": "Program close to the problem domain.",
-            "long": "Software should model and mirror the concepts and actions of the real world. So avoid every-thing that works “accidentally”. If it works acci-dentally, it breaks accidentally. So be precise with semantics. If you need to delete an order in a data migration routine, call deleteOrder and not cancelOrder—even if that does current-ly the same. cancelOrder might get enhanced such that it creates a reverse order which would’n be correct for data migration anymore.",
+            "long": "Software should model and mirror the concepts and actions of the real world. So avoid every-thing that works “accidentally”. If it works acci-dentally, it breaks accidentally. So be precise with semantics. If you need to delete an order in a data migration routine, call deleteOrder and not cancelOrder—even if that currently does the same. cancelOrder might get enhanced such that it creates a reverse order which wouldn’t be correct for data migration anymore.",
             "links": "↑ML, ↑TdA/IE, ⇅KISS, ⇅ADP",
             "set": "advanced",
             "shield": "idealistic"
@@ -300,7 +300,7 @@
             "abbreviation": "IR",
             "name": "Instability Risk",
             "short": "Bleeding edge often leads to blood and pain.",
-            "long": "New technology often comes with teething problems. Using too unstable software, beta versions of libraries, or anything that hasn’t stood the test of time is risky. There may be unknown bugs, nasty little quirks and compatibility issues no one has heard of, yet. This also means that if you encounter these problems you will be one of the first to face them.",
+            "long": "New technology often comes with teething problems. Using too unstable software, beta versions of libraries, or anything that hasn’t stood the test of time is risky. There may be unknown bugs, nasty little quirks and compati-bility issues no one has heard of, yet. This also means that if you encounter these problems, you will be one of the first to face them.",
             "links": "↑RoS, ↑UFT, ↓TP, ↓FRD",
             "set": "advanced",
             "shield": "robust"
@@ -343,7 +343,7 @@
         },
         {
             "abbreviation": "DRW",
-            "name": "Don’t Re-Invent the Wheel",
+            "name": "Don’t Reinvent the Wheel",
             "short": "Focus on real challenges instead of old ones.",
             "long": "If something has already been solved, it’s prob-ably solved in a better way than we will manage to do in the time we have. No one would ever reimplement a cache or a search algorithm ex-cept it is one’s core competency. So focus on the challenges of your core business and use standards, libraries, and frameworks. They are the core business of those people who create and maintain them. They’ve solved many prob-lems that we haven’t even thought of, yet.",
             "links": "↑EbE, ↓LC, ↓ICC, ⇅RoS",
@@ -354,7 +354,7 @@
             "abbreviation": "EbE",
             "name": "Experience by Experiments",
             "short": "We’ll never know if we don’t try!",
-            "long": "Discussing advantages and disadvantages theo-retically can be helpful but at a certain point you will never know which variant is better if you don’t try. So if you have a standard-solution to a problem, try the other one. Carefully but regularly try out new frameworks and libraries, new coding guidelines, architectural/design patterns etc. in real-world projects. Failed experiments will be refactored and successful experiments will stay and become the new standard.",
+            "long": "Discussing advantages and disadvantages theo-retically can be helpful but at a certain point you will never know which variant is better if you don’t try. So if you have a standard solution to a problem, try the other one. Carefully but regularly try out new frameworks and libraries, new coding guidelines, architectural/design patterns etc. in real-world projects. Failed experiments will be refactored and successful experiments will stay and become the new standard.",
             "links": "↑TP, ↓IR, ↓CF, ⇅FP",
             "set": "advanced",
             "shield": "technologic"
